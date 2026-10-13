@@ -1,0 +1,41 @@
+name: sync-stars
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # 每 6 小时
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - config.yaml
+      - ".github/workflows/sync-stars.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-stars
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install oh-my-awesome
+        run: pip install .
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync README and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.STARS_TOKEN }}
+        run: oh-my-awesome sync --push

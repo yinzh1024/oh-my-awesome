@@ -1,0 +1,133 @@
+title: oh-my-awesome
+sort_by: stars # stars | starred_at
+
+# 分类匹配优先级（每个仓库只归一类）：
+#   overrides > category.repos > name_patterns > topics > languages > 未分类
+# topics 支持子词匹配：仓库 topic "hls-player" 能命中分类 topic "player"
+categories:
+  - name: Awesome 列表
+    description: 收集类清单，找资料先看这里
+    topics: [awesome-list]
+    name_patterns: ["^awesome[-_]"]
+
+  - name: AI / LLM
+    description: 大模型、Agent、语音与视觉 AI 工程实践
+    topics:
+      [ai, llm, ai-agents, agent, rag, langchain, openai, mcp, codex, claude, gpt,
+       deep-learning, machine-learning, generative-ai, neural-network,
+       large-language-model, chatbot, stable-diffusion, diffusion, transformers,
+       huggingface, embeddings, fine-tuning, nlp, cv, computer-vision, opencv,
+       image-processing, image-generation, gans, super-resolution, tts, asr,
+       speech, speech-synthesis, speech-recognition, whisper, ocr, multimodal,
+       ai4science, document-analysis]
+    languages: [Jupyter Notebook]
+
+  - name: 学习与教程
+    description: 教程、文档、面试与算法刷题
+    topics:
+      [tutorial, documentation, docs, book, books, learn, learning, interview,
+       leetcode, algorithm, algorithms, cheatsheet, style-guide, design-pattern,
+       design-patterns, education, course, guide]
+
+  - name: 音视频与流媒体
+    description: 编解码、推拉流、播放器、摄像头与媒体服务
+    topics:
+      [video, audio, ffmpeg, rtmp, rtsp, hls, webrtc, media-server, player,
+       streaming, codec, subtitle, live-streaming, mpv, obs, camera, gb28181,
+       nvr, cctv, image]
+
+  - name: 移动开发
+    description: Android / iOS / 跨平台移动端
+    topics: [android, ios, flutter, react-native, mobile, app, swift, kotlin]
+    languages: [Kotlin, Swift, Dart]
+
+  - name: 前端与 Web
+    description: Web 框架、UI 库与前端工程化
+    topics:
+      [react, vue, frontend, web, webapp, ui, css, html5, javascript, typescript,
+       node, nodejs, chrome-extension, browser-extension, nextjs, vite, d3, chart,
+       visualization, svg]
+    languages: [TypeScript, JavaScript, HTML, Vue, CSS]
+
+  - name: Rust 生态
+    description: 用 Rust 写的工具与系统
+    topics: [rust, crate, tokio]
+    languages: [Rust]
+
+  - name: Go 生态
+    description: 用 Go 写的服务与工具
+    topics: [golang, kubernetes, docker]
+    languages: [Go]
+
+  - name: 终端与 CLI 工具
+    description: Shell、终端复用器与命令行效率工具
+    topics: [terminal, cli, shell, bash, neovim, vim, tmux, zsh, fzf, command-line, tui]
+    languages: [Shell, "Vim Script", "Vim script"]
+
+  - name: 网络与安全
+    description: 网络协议、代理、翻墙工具与安全研究
+    topics:
+      [security, network, proxy, vpn, pentest, vulnerability, tls, http3, quic,
+       gfw, anticensorship, censorship-circumvention, clash, shadowsocks, v2ray,
+       wireguard, dns, ssh, sftp, vnc, rdp, wireshark]
+    languages: []
+
+  - name: 桌面与效率工具
+    description: 桌面应用、笔记与效率增强
+    topics:
+      [macos, osx, windows, gui, desktop, electron, alfred, alfred-workflow,
+       raycast, raycast-extension, tray, launcher, markdown, obsidian, pkm, notes]
+
+  - name: 系统与嵌入式
+    description: Linux 内核、驱动、C/C++ 与嵌入式物联网
+    topics:
+      [linux, embedded, iot, raspberry-pi, raspberrypi, kernel, driver, rtos,
+       esp32, arm, microcontroller, arduino, bare-metal, operating-system,
+       cpp, c-plus-plus, c, qt, cmake]
+    languages: [C, C++]
+
+  - name: 开发工具与 DevOps
+    description: 编辑器、Git、容器、CI/CD 与效率工具
+    topics:
+      [git, ci, cd, devops, vscode, neovim-plugin, cli-tool, productivity,
+       developer-tools, build-tool, api, meson]
+
+  - name: Python 工具
+    description: 其余 Python 脚本与工具
+    topics: [python]
+    languages: [Python]
+
+  - name: 字体与设计
+    description: 字体、图标与设计资源
+    topics: [font, typeface, typography, icons, icon, design, figma]
+
+# 手动指定：无 topic 或自动匹配不理想的仓库
+overrides:
+  996icu/996.ICU: Awesome 列表
+  1c7/chinese-independent-developer: Awesome 列表
+  TapXWorld/ChinaTextbook: 学习与教程
+  exacity/deeplearningbook-chinese: 学习与教程
+  programthink/books: 学习与教程
+  0voice/from_coder_to_expert: 学习与教程
+  ruanyf/document-style-guide: 学习与教程
+  redguardtoo/mastering-emacs-in-one-year-guide: 学习与教程
+  anjuke/zguide-cn: 学习与教程
+  widuu/chinese_docker: 学习与教程
+  zijie0/HumanSystemOptimization: 学习与教程
+  SwiftGGTeam/the-swift-programming-language-in-chinese: 学习与教程
+  FelisCatus/SwitchyOmega: 网络与安全
+  Lozy/danted: 网络与安全
+  alibaba/dexposed: 移动开发
+  taka-no-me/android-cmake: 移动开发
+  ZhaoKaiQiang/KLog: 移动开发
+  jitwxs/163MusicLyrics: 音视频与流媒体
+  suxuang/myIPTV: 音视频与流媒体
+  mogutt/TTServer: 音视频与流媒体
+  tonarino/pulseaudio-webrtc-audio-processing: 音视频与流媒体
+  sindresorhus/quick-look-plugins: 桌面与效率工具
+  r-lyeh/single_file_libs: 系统与嵌入式
+  jonacruz89/SAWARATSUKI.ServiceLogos: 字体与设计
+  lxgw/LxgwWenKai-Screen: 字体与设计
+
+# 排除不想要的仓库（fork、临时收藏等）
+exclude: []
