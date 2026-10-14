@@ -16,7 +16,7 @@ oh-my-awesome sync --push     # 拉取 → 分类 → 生成 README → 提交�
 ```
 
 <!-- oh-my-awesome:begin -->
-> 共 **454** 个项目 · 最后更新：2026-10-13 15:40 UTC · 数据采集：缓存
+> 共 **454** 个项目 · 最后更新：2026-10-14 02:13 UTC · 数据采集：2026-10-14 02:13 UTC
 
 ## 目录
 
@@ -42,7 +42,7 @@ oh-my-awesome sync --push     # 拉取 → 分类 → 生成 README → 提交�
 _收集类清单，找资料先看这里_
 
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) `★277.1k` - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `★120.9k` - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `★121k` - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) `★73.8k` - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) `★61.8k` - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) `★31k` - Use your macOS terminal shell to do awesome things. _(archived)_
@@ -59,40 +59,40 @@ _收集类清单，找资料先看这里_
 
 _大模型、Agent、语音与视觉 AI 工程实践_
 
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) `★278.4k` - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · JavaScript
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) `★253.4k` - The agent that grows with you · Python
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) `★248.8k` - DeepSeek Harness: Everything is a Plugin. · TypeScript
-- [morluto/rea](https://github.com/morluto/rea) `★194.6k` - Reverse engineer anything with agents, from app behavior down to native binaries. · TypeScript
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) `★278.6k` - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · JavaScript
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) `★253.5k` - The agent that grows with you · Python
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) `★249k` - DeepSeek Harness: Everything is a Plugin. · TypeScript
+- [morluto/rea](https://github.com/morluto/rea) `★210.1k` - Reverse engineer anything with agents, from app behavior down to native binaries. · TypeScript
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) `★165k` - Stable Diffusion web UI · Python
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `★130.5k` - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. · Python
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) `★96.9k` - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. · Python
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) `★97k` - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. · Python
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) `★92.2k` - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs · Go
 - [opencv/opencv](https://github.com/opencv/opencv) `★91.2k` - Open Source Computer Vision Library · C++
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `★91k` - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. · Python
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) `★86.1k` - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. · TypeScript
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) `★82.9k` - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. · JavaScript
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) `★81.6k` - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · Python
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) `★86.2k` - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. · TypeScript
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) `★83.1k` - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. · JavaScript
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) `★81.7k` - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · Python
 - [netdata/netdata](https://github.com/netdata/netdata) `★80.9k` - The fastest path to AI-powered full stack observability, even for lean teams. · Go
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) `★70k` - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. · TypeScript
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) `★64.3k` - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · JavaScript _(archived)_
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) `★62.4k` - Write HTML. Render video. Built for agents. · TypeScript
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) `★62.9k` - Write HTML. Render video. Built for agents. · TypeScript
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) `★54.2k` - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. · HTML
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) `★54.1k` - Breakthrough Method for Agile Ai Driven Development · Python
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) `★53.6k` - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. · HTML
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) `★39.6k` - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules. · Go
 - [suno-ai/bark](https://github.com/suno-ai/bark) `★39.3k` - 🔊 Text-Prompted Generative Audio Model · Jupyter Notebook
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) `★37.9k` - An AI prompt optimizer for writing better prompts and getting better AI results. · TypeScript
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) `★36.5k` - NVR with realtime local object detection for IP cameras · Python
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) `★36.6k` - NVR with realtime local object detection for IP cameras · Python
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) `★35.8k` - A reliable coding agent for complex software engineering tasks. · Go
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) `★35.3k` - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. · TypeScript
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) `★33.7k` - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. · Go
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) `★33.8k` - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. · Go
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) `★33k` - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀 · Rust
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) `★30.9k` - An MCP-based chatbot | 一个基于MCP的聊天机器人 · C++
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) `★29.4k` - JavaScript in-page GUI agent. Control web interfaces with natural language. · TypeScript
 - [slopus/happy](https://github.com/slopus/happy) `★24.1k` - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for. · TypeScript
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) `★23.4k` - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt · TypeScript
 - [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) `★21.2k` - 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。 · Shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) `★19.9k` - Give your agent CAD superpowers. · Python
-- [lexmount/moli](https://github.com/lexmount/moli) `★17.8k` - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust · Rust
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) `★20k` - Give your agent CAD superpowers. · Python
+- [lexmount/moli](https://github.com/lexmount/moli) `★18k` - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust · Rust
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) `★17.7k` - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms. · C
 - [memvid/memvid](https://github.com/memvid/memvid) `★16.6k` - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. · Rust
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) `★15.7k` - Bringing Old Photo Back to Life (CVPR 2020 oral) · Python _(archived)_
@@ -105,18 +105,18 @@ _大模型、Agent、语音与视觉 AI 工程实践_
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) `★9.4k` - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It also supports AIPPT and local PPTX file preview. · Vue
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) `★7.1k` - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。 · Python
 - [liuruoze/EasyPR](https://github.com/liuruoze/EasyPR) `★6.4k` - (CGCSTCD'2017) An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situations.  CGCSTCD = China Graduate Contest on Smart-city Technology and Creative Design · C++
-- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) `★5.8k` - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 · TypeScript
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) `★5.9k` - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 · TypeScript
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) `★5.8k` - MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. On device Muse. · C
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) `★5.7k` - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org · Go
 - [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) `★4.5k` - A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation · Python
 - [ben1234560/AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying) `★3.6k` - 快速上手AI理论及应用实战：基础知识、Transformer、NLP、ML、DL、竞赛。含大量注释及数据集，力求每一位能看懂并复现。 · Jupyter Notebook
 - [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) `★3.4k` - OpenCV问答群不再维护。有问题，自己去搜索。Google能找到大部分答案。 · Python
 - [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) `★2.2k` - Run a 1-billion parameter LLM on a $10 board with 256MB RAM · C
-- [Thmen/EGVSR](https://github.com/Thmen/EGVSR) `★954` - Efficient & Generic Video Super-Resolution · Python
-- [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) `★865` - DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF） · HTML
+- [Thmen/EGVSR](https://github.com/Thmen/EGVSR) `★955` - Efficient & Generic Video Super-Resolution · Python
+- [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) `★867` - DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF） · HTML
 - [Xiaobin-Rong/gtcrn](https://github.com/Xiaobin-Rong/gtcrn) `★753` - The official implementation of GTCRN, an ultra-lightweight SE model. · Python
 - [symisc/ascii_art](https://github.com/symisc/ascii_art) `★741` - Real-Time ASCII Art Rendering Library · C
-- [worldveil/photomosaic](https://github.com/worldveil/photomosaic) `★697` - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search · Jupyter Notebook
+- [worldveil/photomosaic](https://github.com/worldveil/photomosaic) `★698` - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search · Jupyter Notebook
 - [huakunyang/SummerTTS](https://github.com/huakunyang/SummerTTS) `★545` - SummerTTS 是一个基于C++的独立编译的中文和英文语音合成项目，可以本地运行不需要网络，而且没有额外的依赖，一键编译完成即可用于中文和英文的语音合成。SummerTTS is a  standalone Chinese and English speech synthesis(TTS) project that has almost no dependency and could be easily used for Chinese TTS with just one key build out · C++
 - [ranchlai/mandarin-tts](https://github.com/ranchlai/mandarin-tts) `★478` - Chinese Mandarin tts text-to-speech  中文 (普通话) 语音 合成 , by fastspeech 2 , implemented in pytorch, using waveglow as vocoder,  with biaobei and aishell3 datasets · Python
 - [benjaminwan/ChineseTtsTflite](https://github.com/benjaminwan/ChineseTtsTflite) `★413` - Android Chinese TTS Engine Base On Tensorflow TTS , use for TfLite Models Test。安卓离线中文TTS引擎，在TensorflowTTS基础上开发，用于TfLite模型测试。 · Java
@@ -126,8 +126,8 @@ _大模型、Agent、语音与视觉 AI 工程实践_
 
 _教程、文档、面试与算法刷题_
 
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) `★203.9k` - Free domain registration and practical DNS learning resources for everyone. · Markdown
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) `★162.4k` - Master the command line, in one page
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) `★204k` - Free domain registration and practical DNS learning resources for everyone. · Markdown
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) `★162.5k` - Master the command line, in one page
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) `★119.2k` - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) `★82.8k` - 所有小初高、大学PDF教材。 · Roff
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) `★76.7k` - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com） · Java
@@ -156,9 +156,9 @@ _教程、文档、面试与算法刷题_
 
 _编解码、推拉流、播放器、摄像头与媒体服务_
 
-- [storytold/photocraft](https://github.com/storytold/photocraft) `★56.5k` - PhotoCraft: An open-source, photo editor written by scratch in pure Rust · Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) `★58.1k` - PhotoCraft: An open-source, photo editor written by scratch in pure Rust · Rust
 - [iina/iina](https://github.com/iina/iina) `★46.8k` - The modern video player for macOS. · Swift
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) `★46.2k` - The Secure CommsOS™ for mission-critical operations · TypeScript
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) `★46.3k` - The Secure CommsOS™ for mission-critical operations · TypeScript
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) `★44.5k` - The swiss army knife of lossless video/audio editing · TypeScript
 - [portainer/portainer](https://github.com/portainer/portainer) `★38.7k` - Making Docker and Kubernetes management easy. · TypeScript
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) `★37.4k` - 🎥 Command line media player · C
@@ -168,7 +168,7 @@ _编解码、推拉流、播放器、摄像头与媒体服务_
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) `★20.4k` - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams. · Go
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) `★17.6k` - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11 · C++
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) `★14.4k` - Ultimate camera streaming application · Go
-- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) `★9.8k` - The only downloader you need. 下载器的集大成者。 · Python
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) `★9.9k` - The only downloader you need. 下载器的集大成者。 · Python
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) `★8.1k` - Dockerized GitLab · Shell
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) `★7.4k` - Audio playback and capture library written in C, in a single source file. · C
 - [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) `★7.4k` - 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 · Java
@@ -237,23 +237,23 @@ _Android / iOS / 跨平台移动端_
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) `★1.7k` - Use your phone as a dashcam and save the last 30 minutes when you need them. · Kotlin
 - [taka-no-me/android-cmake](https://github.com/taka-no-me/android-cmake) `★1.2k` - CMake toolchain file and other scripts for the Android NDK · CMake
 - [foxglove/mcap](https://github.com/foxglove/mcap) `★1.1k` - MCAP is a modular, performant, and serialization-agnostic container file format, useful for pub/sub and robotics applications. · Rust
-- [zibo-chen/SubnetDesk](https://github.com/zibo-chen/SubnetDesk) `★678` - LAN-only remote desktop based on RustDesk · Rust
+- [zibo-chen/SubnetDesk](https://github.com/zibo-chen/SubnetDesk) `★679` - LAN-only remote desktop based on RustDesk · Rust
 
 ## 前端与 Web
 
 _Web 框架、UI 库与前端工程化_
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) `★213.2k` - The open source coding agent. · TypeScript
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) `★213.3k` - The open source coding agent. · TypeScript
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) `★140.8k` - Collection of publicly available IPTV channels from all over the world · TypeScript
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) `★116.3k` - JavaScript 3D Library. · JavaScript
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) `★116.4k` - JavaScript 3D Library. · JavaScript
 - [d3/d3](https://github.com/d3/d3) `★113.7k` - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: · Shell
 - [ocornut/imgui](https://github.com/ocornut/imgui) `★76.6k` - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies · C++
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) `★72.4k` - The HTML Presentation Framework · JavaScript
-- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) `★61.9k` - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 · HTML
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) `★54.8k` - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. · JavaScript
+- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) `★62.1k` - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 · HTML
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) `★55.5k` - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. · JavaScript
 - [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) `★51.2k` - :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具 · TypeScript
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) `★44.7k` - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 · JavaScript
-- [impress/impress.js](https://github.com/impress/impress.js) `★38.1k` - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. · JavaScript
+- [impress/impress.js](https://github.com/impress/impress.js) `★38.2k` - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. · JavaScript
 - [fanmingming/live](https://github.com/fanmingming/live) `★28.6k` - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 · JavaScript
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) `★26.9k` - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. · CSS
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) `★24.9k` - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling. · C
@@ -268,7 +268,7 @@ _Web 框架、UI 库与前端工程化_
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) `★7.4k` - Ultra-lightweight JavaScript engine for the Internet of Things. · C
 - [agegr/pi-web](https://github.com/agegr/pi-web) `★7.3k` - Web UI for the pi coding agent · TypeScript
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) `★6.5k` - MPEG1 Video Decoder in JavaScript · JavaScript
-- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) `★5.8k` - yoink any video from your terminal. no shady ads. · TypeScript
+- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) `★5.9k` - yoink any video from your terminal. no shady ads. · TypeScript
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) `★5.8k` - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more · Vim Script
 - [foru17/front-end-collect](https://github.com/foru17/front-end-collect) `★5.7k` - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者 · JavaScript
 - [xuanli199/weekly](https://github.com/xuanli199/weekly) `★3.8k` - 保存玄离199每周科技补全中提到的各种软件和项目 · TypeScript
@@ -280,7 +280,7 @@ _Web 框架、UI 库与前端工程化_
 - [binux/ThunderLixianExporter](https://github.com/binux/ThunderLixianExporter) `★747` - export thunder lixian url to aria2/wget · JavaScript
 - [phodal/lan](https://github.com/phodal/lan) `★566` - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol. · JavaScript
 - [lulop-k/kurento-rtsp2webrtc](https://github.com/lulop-k/kurento-rtsp2webrtc) `★563` - This example shows how to transform a RTSP feed or an HTTP feed into a low latency WebRTC stream in a simple and seamless manner. · JavaScript
-- [chaseleantj/deskworlds](https://github.com/chaseleantj/deskworlds) `★439` - Interactive, living desktop wallpapers · JavaScript
+- [chaseleantj/deskworlds](https://github.com/chaseleantj/deskworlds) `★441` - Interactive, living desktop wallpapers · JavaScript
 - [fguby/Electron-elf](https://github.com/fguby/Electron-elf) `★317` - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D） · HTML
 - [QiShaoXuan/live2DModel](https://github.com/QiShaoXuan/live2DModel) `★301` - 页面上加载的模型 · HTML
 - [jae-jae/weapp-github-trending](https://github.com/jae-jae/weapp-github-trending) `★300` - 微信小程序：Github今日榜单 · JavaScript
@@ -298,7 +298,7 @@ _Web 框架、UI 库与前端工程化_
 
 _用 Rust 写的工具与系统_
 
-- [starship/starship](https://github.com/starship/starship) `★60.2k` - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! · Rust
+- [starship/starship](https://github.com/starship/starship) `★60.3k` - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! · Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) `★46.6k` - A post-modern modal text editor. · Rust
 - [nushell/nushell](https://github.com/nushell/nushell) `★40.7k` - A new type of shell · Rust
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) `★23.5k` - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. · Rust
@@ -356,7 +356,7 @@ _Shell、终端复用器与命令行效率工具_
 _网络协议、代理、翻墙工具与安全研究_
 
 - [aria2/aria2](https://github.com/aria2/aria2) `★43.1k` - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. · C++
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) `★37.4k` - The easiest, most secure way to use WireGuard and 2FA. · Go
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) `★37.5k` - The easiest, most secure way to use WireGuard and 2FA. · Go
 - [ehang-io/nps](https://github.com/ehang-io/nps) `★34.2k` - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal. · Go
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) `★25.7k` - The one and only one gfwlist here
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) `★22.6k` - No longer maintained, see pinned issues · CoffeeScript
@@ -375,7 +375,7 @@ _网络协议、代理、翻墙工具与安全研究_
 _桌面应用、笔记与效率增强_
 
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) `★56.7k` - A full-featured download manager. · TypeScript
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) `★55.1k` - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. · C++
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) `★55.2k` - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. · C++
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) `★39.9k` - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. · TypeScript _(archived)_
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) `★18.8k` - List of useful Quick Look plugins for developers
 - [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) `★14.3k` - 微信小助手 · Objective-C
@@ -464,7 +464,7 @@ _Linux 内核、驱动、C/C++ 与嵌入式物联网_
 - [openxc/uds-c](https://github.com/openxc/uds-c) `★834` - Unified Diagnostics Service (UDS) and OBD-II (On Board Diagnostics for Vehicles) C Library · C
 - [pfalcon/pycopy](https://github.com/pfalcon/pycopy) `★823` - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything. · C
 - [aizvorski/h264bitstream](https://github.com/aizvorski/h264bitstream) `★809` - A complete set of functions to read and write H.264 video bitstreams, in particular to examine or modify headers. · C
-- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) `★793` - sanoTTS (सानो = 'small' in Nepali): a ~294k-1.4m param neural TTS that runs on a $3 chip or in the browser. Leads SCOREQ/UTMOS in the sub-15M class. · C
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) `★794` - sanoTTS (सानो = 'small' in Nepali): a ~294k-1.4m param neural TTS that runs on a $3 chip or in the browser. Leads SCOREQ/UTMOS in the sub-15M class. · C
 - [rachitiitr/modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) `★721` - Modern CPP Tricks often useful in Coding Interviews and Competitive Programming
 - [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) `★717` - Optimized implementations of various library functions for ARM architecture processors · C
 - [leixiaohua1020/VideoEye](https://github.com/leixiaohua1020/VideoEye) `★717` - open-source stream analysis software · C++
@@ -483,7 +483,7 @@ _Linux 内核、驱动、C/C++ 与嵌入式物联网_
 - [Loki-Astari/ThorsAnvil](https://github.com/Loki-Astari/ThorsAnvil) `★318` - C++ Web-Libraries Server, Mongo, Slack, JSON, Slack · C++
 - [raas/mbw](https://github.com/raas/mbw) `★292` - Memory Bandwidth Benchmark · C
 - [fanchy/fflib](https://github.com/fanchy/fflib) `★291` - FFLib is a lightweight c++ framework.FFlib is mainly designed for game server developing. But some components in FFLib is in common use. For example socket&net module, log module, thread&lock, tools for performance & memory leak check.用于分布式程序的c++类库，封装了socket、rpc、lua、CQRS框架、算法等组件，适于SNS、WEBGAME、MMO后台程序， about C++,linux socket,lua,rpc,broker,cqrs,timer,log libary · C
-- [hartkopp/can-isotp](https://github.com/hartkopp/can-isotp) `★288` - Linux Kernel Module for ISO 15765-2:2016 CAN transport protocol PLEASE NOTE: This module is part of the mainline Linux kernel since version 5.10 · C
+- [hartkopp/can-isotp](https://github.com/hartkopp/can-isotp) `★289` - Linux Kernel Module for ISO 15765-2:2016 CAN transport protocol PLEASE NOTE: This module is part of the mainline Linux kernel since version 5.10 · C
 - [esp-arduino-libs/ESP32_Display_Panel](https://github.com/esp-arduino-libs/ESP32_Display_Panel) `★283` - Display driver and GUI porting library designed for ESP series SoCs (ESP32, ESP32-S3, ESP32-P4, etc.) · C
 - [xyz347/x2struct](https://github.com/xyz347/x2struct) `★265` - Convert between json string and c++ object.  json字符串和c++结构体之间互相转换 · C++
 - [mikewei/shm_container](https://github.com/mikewei/shm_container) `★236` - A collection of shared memory containers for high performance server · C++
@@ -554,8 +554,8 @@ _其余 Python 脚本与工具_
 
 _字体、图标与设计资源_
 
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) `★29.2k` - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 · Python
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) `★26.2k` - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 · Shell
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) `★29.3k` - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 · Python
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) `★26.3k` - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 · Shell
 - [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) `★2.2k` - LXGW WenKai for Screen Reading.
 - [jonacruz89/SAWARATSUKI.ServiceLogos](https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos) `★456` - ロゴを可愛く作ろう できる限りForkはしないでください
 
