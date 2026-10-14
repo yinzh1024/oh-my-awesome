@@ -6,10 +6,25 @@ from pathlib import Path
 import yaml
 
 SORT_FIELDS = ("stars", "starred_at")
+LLM_SOURCES = ("description", "readme")
 
 
 class ConfigError(Exception):
     pass
+
+
+@dataclass
+class LLMConfig:
+    enabled: bool = False
+    base_url: str = "https://api.deepseek.com"
+    model: str = "deepseek-flash"
+    api_key_env: str = "DEEPSEEK_API_KEY"
+    source: str = "description"
+    max_readme_chars: int = 1500
+    max_per_run: int = 60
+    concurrency: int = 5
+    keep_original: bool = False
+    extra_body: dict = field(default_factory=dict)
 
 
 @dataclass
@@ -29,6 +44,7 @@ class Config:
     categories: list[Category]
     overrides: dict[str, str]
     exclude: list[str]
+    llm: LLMConfig = field(default_factory=LLMConfig)
 
     @property
     def category_names(self) -> list[str]:
@@ -71,10 +87,29 @@ def load_config(path: Path) -> Config:
         if cat not in names:
             raise ConfigError(f"overrides[{repo!r}] points to unknown category {cat!r}")
 
+    raw_llm = data.get("llm") or {}
+    if not isinstance(raw_llm, dict):
+        raise ConfigError("llm must be a mapping")
+    llm = LLMConfig(
+        enabled=bool(raw_llm.get("enabled", False)),
+        base_url=str(raw_llm.get("base_url", LLMConfig.base_url)),
+        model=str(raw_llm.get("model", LLMConfig.model)),
+        api_key_env=str(raw_llm.get("api_key_env", LLMConfig.api_key_env)),
+        source=str(raw_llm.get("source", LLMConfig.source)),
+        max_readme_chars=int(raw_llm.get("max_readme_chars", LLMConfig.max_readme_chars)),
+        max_per_run=int(raw_llm.get("max_per_run", LLMConfig.max_per_run)),
+        concurrency=int(raw_llm.get("concurrency", LLMConfig.concurrency)),
+        keep_original=bool(raw_llm.get("keep_original", False)),
+        extra_body=dict(raw_llm.get("extra_body") or {}),
+    )
+    if llm.source not in LLM_SOURCES:
+        raise ConfigError(f"llm.source must be one of {LLM_SOURCES}, got {llm.source!r}")
+
     return Config(
         title=str(data.get("title", "oh-my-awesome")),
         sort_by=sort_by,
         categories=categories,
         overrides=overrides,
         exclude=[str(r) for r in data.get("exclude") or []],
+        llm=llm,
     )

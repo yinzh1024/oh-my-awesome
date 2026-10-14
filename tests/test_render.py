@@ -58,6 +58,21 @@ def test_render_nav_contains_toc_and_entries():
     assert "共 **1** 个项目" in nav
 
 
+def test_render_nav_with_summary_and_keep_original():
+    cfg = make_config()
+    cfg.llm.keep_original = True
+    nav = render_nav(cfg, sample(), summaries={"a/b": "基于 Rust 的终端工具"})
+    assert (
+        "- [a/b](https://github.com/a/b) `★12.3k` - 基于 Rust 的终端工具 ｜ desc line2 · Python"
+        in nav
+    )
+
+
+def test_render_nav_falls_back_to_english_without_summary():
+    nav = render_nav(make_config(), sample(), summaries={})
+    assert "- [a/b](https://github.com/a/b) `★12.3k` - desc line2 · Python" in nav
+
+
 def test_update_readme_preserves_head_and_is_idempotent(tmp_path: Path):
     readme = tmp_path / "README.md"
     readme.write_text(

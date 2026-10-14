@@ -1,0 +1,2726 @@
+{
+ "0voice/from_coder_to_expert": {
+  "summary": "汇集大厂内部PDF与PPT，梳理程序员晋升CTO所需的技术与管理知识体系",
+  "hash": "8d486a1b2da04a94",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "0voice/interview_internal_reference": {
+  "summary": "汇总阿里腾讯百度美团头条等大厂2025年最新技术面试题与答案，覆盖MySQL、Redis、Nginx、MongoDB、网络及高性能等方向",
+  "hash": "18f434128e488cf9",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "1N3/BruteX": {
+  "summary": "自动爆破目标主机上所有运行服务的 Shell 脚本，支持多种协议，适用于渗透测试与漏洞赏金",
+  "hash": "f6f38fe5e43c4cec",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "1Remote/1Remote": {
+  "summary": "基于 C# 的 Windows 远程连接管理器，统一整合 RDP、SSH、VNC、SFTP 等协议，一站式管理所有远程会话",
+  "hash": "5ec1678c9202ea0b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "1c7/chinese-independent-developer": {
+  "summary": "汇集中国独立开发者项目与产品，展示大家都在做什么，涵盖各类创意作品与技术实践",
+  "hash": "c4033a2768c0d64a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "2549850807/Easy_Menu": {
+  "summary": "适配所有显示设备的嵌入式菜单框架，支持可视化配置，移植简单，用 Python 开发",
+  "hash": "e53120ec5972b971",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "562590763/CADDesigner-Code": {
+  "summary": "基于Python的CAD绘图工具，通过自然语言指令驱动AI生成设计代码，简化CAD建模流程",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "648540858/wvp-GB28181-pro": {
+  "summary": "开箱即用的国标视频平台，支持GB28181、部标808/1078，兼容海康大华宇视设备接入与NAT穿透，可级联共享",
+  "hash": "be7b94c041c514bd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "78/xiaozhi-esp32": {
+  "summary": "基于MCP协议的ESP32聊天机器人，用C++开发，可在嵌入式硬件上实现语音交互",
+  "hash": "f9fbd93a92d681ac",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "996icu/996.ICU": {
+  "summary": "抗议996工作制的GitHub仓库，开发者可添加公司黑名单并star表达支持",
+  "hash": "6556a6d081ccedb8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ARM-software/optimized-routines": {
+  "summary": "面向 ARM 处理器的 C 语言优化库函数实现，涵盖数学、字符串、内存等例程",
+  "hash": "e2e90605d9a0fd22",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "AUTOMATIC1111/stable-diffusion-webui": {
+  "summary": "基于 Gradio 的 Stable Diffusion 浏览器界面，支持文生图、图生图与插件扩展",
+  "hash": "97af54a69d5818a8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Akagi201/learning-python": {
+  "summary": "Python 学习笔记与示例代码合集，覆盖标准库和常用库用法，适合边学边练",
+  "hash": "4c59b9dc1bca42e6",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "AlexxIT/go2rtc": {
+  "summary": "用 Go 编写的全能摄像头流媒体服务器，支持 RTSP、WebRTC、HLS、MJPEG 等协议，可接入 Home Assistant、HomeKit 与 FF",
+  "hash": "2a9c24091780a3c1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Ampixa/sanoTTS": {
+  "summary": "仅29.4万至140万参数的神经TTS，可在3美元芯片或浏览器中运行，在1500万参数以下级别中SCOREQ/UTMOS评分领先",
+  "hash": "80ea3b004a2b9e33",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Ansersion/myRtspClient": {
+  "summary": "基于 jrtplib 的 C++ RTSP 客户端，实现实时流媒体拉取与解码",
+  "hash": "44fd1d6b4a30edbd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "AprilNEA/OpenLogi": {
+  "summary": "用 Rust 编写的原生本地优先罗技鼠标配置工具，通过 HID++ 协议重映射按键、DPI 和 SmartShift，无需账号与遥测",
+  "hash": "dac4b8774920c3db",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "CarGuo/gsy_github_app_flutter": {
+  "summary": "基于 Dart 与 Flutter 的 GitHub 客户端，覆盖跨平台多端实现，功能完整、持续维护，适合学习与日常使用",
+  "hash": "d72e8a737eac8a12",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Corvusoft/restbed": {
+  "summary": "为 C++ 应用提供异步 RESTful 能力的框架，支持 HTTP/HTTP2 与 Comet 推送",
+  "hash": "3305974a4e585625",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Corvusoft/restless": {
+  "summary": "为 C++11 应用提供异步 RESTful 客户端能力的框架",
+  "hash": "c9a017300a9c7a1d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "DemonCloud/dotfile": {
+  "summary": "基于 Vim script 的 (Neo)Vim 配置与工作文件集合，涵盖 vimrc 等 dotfiles",
+  "hash": "86e7da7543db1c0a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "DigitalPlatDev/FreeDomain": {
+  "summary": "免费域名注册平台，配套实用 DNS 学习教程与文档，帮助任何人轻松上手域名解析",
+  "hash": "3659109963bc23b8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Diolinux/PhotoGIMP": {
+  "summary": "为 GIMP 3+ 打造的 Photoshop 风格补丁，用 Python 调整快捷键、界面布局与工具，让 PS 用户无缝迁移",
+  "hash": "cbe2fee191ad845c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "EdwinjJ1/3d-print-skill": {
+  "summary": "为 Claude Code 提供 3D 打印技能，先搜索后建模，输出适配 Bambu Studio、PrusaSlicer、Cura 的流形安全模型",
+  "hash": "359961ea6a3d4e47",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Egonex-AI/Understand-Anything": {
+  "summary": "把任意代码转成可交互知识图谱，支持探索、搜索与提问，兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等，TypeS",
+  "hash": "878f329fa43038bf",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Electricitysheep/dsh-handbook": {
+  "summary": "DeepSeek Harness 从零上手手册，涵盖安装、插件开发、性能调优与多 Agent 实测对比，附中英 PDF",
+  "hash": "15a4f9aca72e8e60",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ErosZy/WXInlinePlayer": {
+  "summary": "基于 WebAssembly 的极速 H.264/H.265 FLV 播放器，用 Canvas 渲染、AudioContext 输出音频",
+  "hash": "b527d7247de04e88",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "FelisCatus/SwitchyOmega": {
+  "summary": "已停止维护的 Chrome/Edge 代理切换扩展，基于 PAC 与情景模式自动切换，用 CoffeeScript 编写",
+  "hash": "4e9a1f9bc57f3d00",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "GreycLab/CImg": {
+  "summary": "轻量开源 C++ 图像处理工具库，单头文件即可集成，支持读写、滤镜、变换等操作",
+  "hash": "f84dc6203c40105a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Guovin/iptv-api": {
+  "summary": "自动采集校验测速 IPTV 直播源并生成可播放结果，支持 M3U/TXT/API 输出、IPv4/IPv6、Docker 与 GitHub Actions 部署",
+  "hash": "e4f001ce0af84637",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "GyulyVGC/sniffnet": {
+  "summary": "基于 Rust 和 iced 的跨平台 GUI 工具，实时监控网络流量并支持 IP 地理位置识别",
+  "hash": "3ad8aedcfd31f95e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "IENT/YUView": {
+  "summary": "免费开源跨平台 YUV 查看器，基于 C++ 与 FFmpeg，支持 H.265/HEVC 等编码，内置高级分析工具集",
+  "hash": "55dda4be7d986fe7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ImageMagick/ImageMagick": {
+  "summary": "免费开源的图像处理套件，支持200多种格式，提供命令行工具和API，可用于创建、编辑、转换和显示图像，跨平台集成",
+  "hash": "c9d07d988062779a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Josverl/micropython-stubber": {
+  "summary": "为不同 MicroPython 移植版生成并维护类型存根，支持 VSCode、Pylance、PyRight、Thonny、PyCharm 和 MyPy 的代码",
+  "hash": "b373bd62c1822bd2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "JsonChao/Awesome-Android-Notebook": {
+  "summary": "面向 Android 开发者的完整进阶学习与面试指南，涵盖 Java、Android 知识点，持续更新",
+  "hash": "df299a5187e99bdb",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "KittenML/KittenTTS": {
+  "summary": "开源 SOTA 文本转语音模型，纯 CPU 即可运行，基于 Python 实现",
+  "hash": "b104dd7cb1be7ccf",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Kurento/kurento-media-server": {
+  "summary": "已归档的 WebRTC 媒体服务器，支持实时音视频流处理与转码，代码已迁移至 Kurento 单体仓库",
+  "hash": "f23b481f97e47afd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "LewisJEllis/awesome-lua": {
+  "summary": "精选优质 Lua 库与资源合集，涵盖包管理、框架、工具等分类",
+  "hash": "e7830ab4c0c6d3b3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Loki-Astari/ThorsAnvil": {
+  "summary": "基于 C++20 的 Web 服务与数据库驱动库，集成 HTTP 服务器、MongoDB、Slack 及 JSON/BSON 序列化",
+  "hash": "4e08230a463fcd79",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Lozy/danted": {
+  "summary": "快速安装配置 Dante Socks5 代理服务器的脚本",
+  "hash": "65de41dd71603f0c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "MaJerle/lwrb": {
+  "summary": "轻量级通用环形缓冲区管理库，纯 C 实现，支持 FIFO 与循环缓冲，适合嵌入式",
+  "hash": "c00bce37a7b9ce9f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "MaJerle/lwshell": {
+  "summary": "面向嵌入式系统的轻量级 C 语言 shell 实现，资源占用低，便于移植",
+  "hash": "988e9151ef7c3c30",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Mi-Bee-Studio/MiBeeNvr": {
+  "summary": "用 Go 编写的轻量级自托管 NVR，单个静态二进制零依赖，内置 Web UI，支持 RTSP/ONVIF/小米/GB28181 摄像头接入与 RTMP/SRT",
+  "hash": "e422deaa2c1c5fcb",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "MisterBooo/LeetCodeAnimation": {
+  "summary": "用动画演示 LeetCode 题解思路，支持单步、回看、变速与语音讲解，涵盖 Java、C 等多语言实现",
+  "hash": "3a026bae6471621c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "MyGUI/mygui": {
+  "summary": "轻量快速的 C++ GUI 库，接口简单灵活，适合游戏与工具界面开发",
+  "hash": "dad68bea4159dedb",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Myzel394/Alibi": {
+  "summary": "把 Android 手机变成行车记录仪，循环录制并保留最近 30 分钟，基于 Kotlin 与 Jetpack Compose 构建，注重隐私",
+  "hash": "01b8e09278725d7d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "NaiboWang/EasySpider": {
+  "summary": "可视化无代码网页爬虫与浏览器自动化工具，图形化设计执行采集任务，基于 JavaScript",
+  "hash": "77a667631b4a2382",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "NevermindZZT/letter-shell": {
+  "summary": "嵌入式系统用的 C 语言 shell，支持命令自动补全、历史记录与权限管理，可移植到单片机",
+  "hash": "681afe62ff85471c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "NousResearch/hermes-agent": {
+  "summary": "基于Python的AI代理框架，支持Anthropic、ChatGPT、Claude等模型，可随使用不断成长进化",
+  "hash": "009c2af31891bfe8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "OpenIPC/divinus": {
+  "summary": "基于 C 语言的多平台开源推流器，支持 OpenIPC 生态下的视频流传输",
+  "hash": "a44bb3b9f83418f3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "OpenIPC/smolrtsp": {
+  "summary": "面向 IP 摄像头的轻量级实时流媒体 C 库，支持 H264/H265 与音频，适用于嵌入式设备",
+  "hash": "d9548a06d860ac53",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "OpenMOSS/MOSS-TTS-Nano": {
+  "summary": "1 亿参数多语言 TTS 模型，支持 CPU 实时推理、声音克隆与 48 kHz 立体声生成，基于 ONNX",
+  "hash": "9f4972878efec3d7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "PHZ76/RtspServer": {
+  "summary": "基于 C++ 的 RTSP 服务器与推流器，支持 RTP 传输，可用于直播场景",
+  "hash": "a72a970e24a3b11c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "PaddlePaddle/PaddleOCR": {
+  "summary": "轻量级 OCR 工具包，将 PDF 或图片转为结构化数据，支持 100 多种语言，衔接图像与 LLM",
+  "hash": "109a78d806babfa7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "PaddlePaddle/PaddleSpeech": {
+  "summary": "基于 PaddlePaddle 的易用语音工具箱，涵盖自监督学习、流式 ASR 与标点恢复、流式 TTS、声纹识别、端到端语音翻译及关键词检测，曾获 NAACL",
+  "hash": "396ffa16d834b116",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Panniantong/Agent-Reach": {
+  "summary": "让 AI agent 用一条 CLI 读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书，零 API 费用",
+  "hash": "29e8e57c3a7d6434",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "PerpetualSmile/convert_picture_to_snowing_gif": {
+  "summary": "用 Python 的 Pillow 和 pygame 为静态图片添加下雪动画并导出 GIF",
+  "hash": "b85ff6266daf0940",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "PortAudio/portaudio": {
+  "summary": "跨平台开源 C 语言库，用于实时音频输入输出",
+  "hash": "9fc29eb3410b2e1e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Privatehive/libONVIF": {
+  "summary": "基于 gsoap 的 C++ ONVIF 库，支持 Qt 集成，用于实现网络摄像机的设备发现与控制",
+  "hash": "d0d217adfab2f6b0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "QiShaoXuan/live2DModel": {
+  "summary": "提供可直接在网页加载的 Live2D 模型资源，基于 HTML 展示",
+  "hash": "ed4766fb57f1d619",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "RightNow-AI/picolm": {
+  "summary": "在256MB内存的10美元开发板上运行10亿参数大模型，C语言实现，支持量化与嵌入式推理",
+  "hash": "bdd92c2e27e17c01",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "RocketChat/Rocket.Chat": {
+  "summary": "面向关键任务的安全通信平台，基于 TypeScript 与 Meteor 构建，支持自托管聊天协作，开源免费",
+  "hash": "34d7e0e9705d4d1f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "RonIovine/pshell": {
+  "summary": "轻量级进程专用嵌入式命令行 shell，支持 C/C++/Python/Go 应用，通过回调函数注册命令",
+  "hash": "81632c62fdb637b2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "SKeyerror/Psyduck": {
+  "summary": "用 XMind 2.0 整理 Linux、网络、C++、Golang 与数据库设计等计算机知识",
+  "hash": "a88224aae7292a02",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Serial-Studio/Serial-Studio": {
+  "summary": "开源遥测仪表盘，支持 UART、BLE、MQTT、Modbus、CAN Bus 等协议，用 C 语言开发，适用于嵌入式与工业物联网",
+  "hash": "ca7280b4688727af",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ShiqiYu/libfacedetection": {
+  "summary": "开源人脸检测库，基于CNN实现，速度可达1000FPS，支持ARM平台",
+  "hash": "6d34dcf87997bfb5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "SwiftGGTeam/the-swift-programming-language-in-chinese": {
+  "summary": "Apple 官方 Swift 编程语言指南的中文翻译，基于 Markdown 持续同步更新",
+  "hash": "2756e10822bcbd52",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "TKkk-iOSer/WeChatPlugin-MacOS": {
+  "summary": "macOS 微信功能增强插件，支持消息防撤回、自动回复、远程控制等，可搭配 Alfred Workflow 使用",
+  "hash": "9a0bec5097a0af62",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "TapXWorld/ChinaTextbook": {
+  "summary": "收录小学到大学各阶段PDF教材，覆盖全学科，适合自学与备课参考",
+  "hash": "f05885ed830cec7b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Tencent/TscanCode": {
+  "summary": "腾讯开源的静态代码分析工具，支持 C++、C# 和 Lua，可检测代码缺陷与安全漏洞",
+  "hash": "a8c904682e32b0f7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Tencent/WeKnora": {
+  "summary": "开源 LLM 知识平台，用 Go 编写，将原始文档转化为可查询的 RAG、自主推理 Agent 和自我维护的 Wiki",
+  "hash": "8fa9fa188d48094b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Tencent/libco": {
+  "summary": "微信后台广泛使用的 C++ 协程库，自 2013 年起稳定运行于数万台机器",
+  "hash": "ba876c5d9413c2ae",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Tencent/rapidjson": {
+  "summary": "C++ 高性能 JSON 解析与生成库，同时提供 SAX 和 DOM 风格 API",
+  "hash": "fc5ac370ca025434",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "The-Vibe-Company/quivr": {
+  "summary": "开源引擎，将连续内容流转化为搜索与监控，支持持久化摄取、混合搜索、告警及格式模型业务规则插件，Go 编写",
+  "hash": "f916a64cbda0a8ac",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Thmen/EGVSR": {
+  "summary": "基于Python的高效通用视频超分辨率框架，支持实时VSR处理",
+  "hash": "5a0f3ae7159a00b5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Trinea/android-open-project": {
+  "summary": "分类整理 Android 开源项目合集，涵盖各类库与工具，并提供功能更强的网页版检索",
+  "hash": "1d874cb29eccb70c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "VFR-maniac/opencore-amr": {
+  "summary": "AMR-NB/WB 语音编解码库的非官方镜像，C++ 实现，源自 3GPP 自适应多速率音频标准",
+  "hash": "2a056707d017feb4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "VideoExpertsGroup/RTSP.Player.Android": {
+  "summary": "基于Java的Android RTSP/RTMP播放器，可查看IP摄像头直播流，支持解码与广播",
+  "hash": "79057589c863b868",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "VoltAgent/awesome-design-md": {
+  "summary": "收录各大品牌设计系统的 DESIGN.md 文件，放入项目即可让编码 Agent 生成风格统一的 UI",
+  "hash": "490f65a7cc0a68e4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "WerWolv/ImHex": {
+  "summary": "面向逆向工程师和程序员的十六进制编辑器，支持二进制分析、反汇编和模式匹配，采用 C++ 与 Dear ImGui 构建，自带护眼暗色主题",
+  "hash": "a26cc38533905d19",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Xfennec/progress": {
+  "summary": "用 C 编写的 Linux 工具，实时显示 cp、mv、dd 等 coreutils 命令的进度、速度和剩余时间",
+  "hash": "5a8eea971e11ca6f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "XiaoYouChR/Ghost-Downloader-3": {
+  "summary": "基于 Python asyncio 的跨平台下载管理器，支持 HTTP 与 BitTorrent，采用 Fluent Design 界面",
+  "hash": "20b77580a98d4903",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Xiaobin-Rong/gtcrn": {
+  "summary": "超轻量级语音增强模型GTCRN的官方Python实现，适合边缘设备部署",
+  "hash": "40098c0f4d30bd1f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "YuzukiHD/YuzukiNeko": {
+  "summary": "搭载全志F101S3/F101S4芯片的迷你可爱开发板，尺寸仅pico级别",
+  "hash": "2b7e472058e1b986",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ZLMediaKit/ZLMediaKit": {
+  "summary": "基于 C++11 的流媒体服务器与客户端框架，支持 WebRTC、RTSP、RTMP、HLS、GB28181、SRT 等十余种协议",
+  "hash": "ebb2ac675dbcb2f5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ZhaoKaiQiang/KLog": {
+  "summary": "Android 专用 LogCat 工具，支持打印行号与函数调用栈、解析 JSON/XML、点击跳转源码、保存日志",
+  "hash": "e484ea0039c41ad1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "abhra0897/LameUI": {
+  "summary": "面向嵌入式系统的轻量级 C 语言 UI 库，适用于单片机和 GUI 开发",
+  "hash": "b50735655b292432",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "acaudwell/Gource": {
+  "summary": "将 Git 等版本库的提交历史渲染成动态缩放的代码城市动画，C++ 编写，支持多仓库与自定义着色",
+  "hash": "c5deec6ba57ce516",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "achimdoebler/UGUI": {
+  "summary": "面向嵌入式系统的开源 GUI 模块，用 C 语言编写，轻量小巧，适合资源受限的 MCU",
+  "hash": "e652dc23c3bf0257",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "acl-dev/acl": {
+  "summary": "C/C++ 网络与服务器库，内置协程、Redis/MySQL/PostgreSQL/SQLite 客户端及 HTTP/HTTPS/WebSocket/MQTT，",
+  "hash": "b80cae4288714238",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "activesys/libcstl": {
+  "summary": "C 语言通用容器库，提供 vector、list、map、set 等 STL 风格数据结构与迭代器",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "adamstark/AudioFile": {
+  "summary": "轻量 C++ 音频读写库，支持 WAV 和 AIF 格式",
+  "hash": "a54d6eb72c14f86b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "affaan-m/ECC": {
+  "summary": "为 Claude Code、Codex、Cursor 等 AI 编程代理提供技能、记忆、安全与性能优化的 harness 系统",
+  "hash": "4b7fb1d7198b8e7a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "agalwood/Motrix": {
+  "summary": "基于 aria2 与 Electron 的全能下载工具，支持 BT 和磁力链接，跨 macOS、Linux 平台",
+  "hash": "cb7bb07096ca1db5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "agegr/pi-web": {
+  "summary": "为 pi 编码代理提供 Web 界面，基于 TypeScript 构建",
+  "hash": "5bcda1d2f49d9014",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "agrinman/tunnelto": {
+  "summary": "用 Rust 编写的隧道工具，一条命令把本地 Web 服务暴露到公网并生成可访问的公开 URL",
+  "hash": "f6bbfa046ae4e1ed",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "aizvorski/h264bitstream": {
+  "summary": "用 C 实现读写 H.264 视频码流的完整函数库，可检查或修改码流头部",
+  "hash": "d7867bb961dbc81d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "albertlauncher/albert": {
+  "summary": "基于 C++ 的快速键盘启动器，支持 Python 插件扩展，可快速搜索并启动应用",
+  "hash": "6ae05dbc28331c88",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "alibaba/dexposed": {
+  "summary": "基于Java的Android热修复框架，无需重启即可动态替换应用方法，实现单应用级别的上帝模式",
+  "hash": "75818f19f020bc82",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "alibaba/flutter-go": {
+  "summary": "Flutter 开发者帮助 APP，提供 140+ 常用组件 demo 演示与中文文档，基于 Dart 构建",
+  "hash": "9f946686d2ba9918",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "alibaba/page-agent": {
+  "summary": "用自然语言操控网页界面的 TypeScript 页面内 GUI agent，支持 MCP",
+  "hash": "3e7fa58465ab213f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "alxnbl/onenote-md-exporter": {
+  "summary": "用 C# 编写的命令行工具，将 OneNote 笔记本导出为 Markdown，兼容 Obsidian、Joplin 等笔记应用",
+  "hash": "e8caa5523aae0f64",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "android/architecture-samples": {
+  "summary": "展示 Android 应用多种架构工具与模式的 Kotlin 示例合集，涵盖 MVVM、MVI 等方案",
+  "hash": "60a88c47dc38d04a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "anjuke/zguide-cn": {
+  "summary": "ZeroMQ 官方指南中文版，系统讲解消息队列模式与套接字用法",
+  "hash": "a9e7e87be4c93180",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "anomalyco/opencode": {
+  "summary": "开源编码智能体，TypeScript 编写，可自动完成代码生成与修改任务",
+  "hash": "87b2bb2be28b5d1e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "aria2/aria2": {
+  "summary": "轻量级命令行下载工具，支持 HTTP/HTTPS、FTP、SFTP、BitTorrent 和 Metalink 多协议多源，C++11 编写，跨平台",
+  "hash": "cee3e4b0d8f911ef",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "aristocratos/btop": {
+  "summary": "基于 C++ 的终端资源监控工具，实时显示 CPU、内存、磁盘、网络和进程状态，界面美观且高度可定制",
+  "hash": "4309a4eb28f4b3a5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "armink/EasyLogger": {
+  "summary": "超轻量级 C/C++ 日志库，ROM 占用低于 1.6K、RAM 低于 0.3K，性能高，适合嵌入式场景",
+  "hash": "08523d80defed01d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "astaxie/build-web-application-with-golang": {
+  "summary": "用 Go 从零构建 Web 应用的入门电子书，涵盖路由、模板、数据库、部署等实战内容",
+  "hash": "4efff92c609ec2c2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "athityakumar/colorls": {
+  "summary": "用 Ruby 编写的终端 ls 增强工具，为文件和目录添加颜色与 Font Awesome 图标，让命令行输出更美观易读",
+  "hash": "de77d32cfdfcdb0b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ayangweb/BongoCat": {
+  "summary": "基于 Rust 的跨平台桌面宠物，猫咪会跟随鼠标和键盘操作实时互动",
+  "hash": "fe835c149ca6bb1a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "baresip/baresip": {
+  "summary": "模块化 SIP 用户代理，用 C 编写，支持音视频通话，适用于 VoIP 与 WebRTC 场景",
+  "hash": "c2d31c17d76135c6",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "bellard/quickjs": {
+  "summary": "轻量级可嵌入的 JavaScript 引擎，C 语言实现，支持 ES2020 规范，启动快、体积小",
+  "hash": "550a109323a6cfd1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ben1234560/AiLearning-Theory-Applying": {
+  "summary": "涵盖AI基础、Transformer、NLP、ML、DL与Kaggle竞赛的实战教程，含大量注释和数据集，助你快速上手并复现",
+  "hash": "81b1defd0dbe1dca",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "benjaminwan/ChineseTtsTflite": {
+  "summary": "基于TensorFlow TTS的安卓离线中文语音合成引擎，用Java开发，专为TfLite模型测试打造",
+  "hash": "c2315f5df168ca4a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "bilawalsidhu/gods-eye-view": {
+  "summary": "基于 Cesium 的浏览器端卫星侦察模拟器，在逼真 3D 地球上实时呈现航班追踪等开源地理空间情报",
+  "hash": "82272a174d009a34",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "bin456789/reinstall": {
+  "summary": "一键重装 VPS 系统，支持 Alpine、Debian、Ubuntu 等，通过 netboot 引导无需救援模式",
+  "hash": "d8a94814d960e7af",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "binux/ThunderLixianExporter": {
+  "summary": "把迅雷离线下载链接导出给 aria2 或 wget 使用，基于 JavaScript 实现",
+  "hash": "22104addb98a72fd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "bittorrent/libutp": {
+  "summary": "uTorrent 传输协议的 C++ 实现库，用于在 UDP 上实现可靠有序的数据传输",
+  "hash": "edf4937435ec0a26",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "blakeblackshear/frigate": {
+  "summary": "基于实时本地目标检测的 IP 摄像头 NVR，支持 Google Coral 与 Home Assistant 集成",
+  "hash": "0b471466dd47136f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "bluenviron/mediamtx": {
+  "summary": "基于 Go 的即用型实时音视频服务器与代理，支持 RTSP、RTMP、WebRTC、SRT、LL-HLS、MPEG-TS、RTP 及 Media-over-QU",
+  "hash": "b79c1f36733c39d3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "bmad-code-org/BMAD-METHOD": {
+  "summary": "面向敏捷 AI 驱动开发的突破性方法论，用 Python 实现，融合上下文工程与规范驱动开发，覆盖完整 SDLC",
+  "hash": "25fe9e8fe6a51a66",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "bootandy/dust": {
+  "summary": "用 Rust 重写的 du 替代品，以树状图和直观排序展示磁盘占用，比原版更易读",
+  "hash": "295ed35b9d7b7f30",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "byteman/mgcpp": {
+  "summary": "MiniGUI 的 C++ 封装实现，用面向对象方式简化嵌入式 GUI 开发",
+  "hash": "1f405144e6a82589",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "can1357/oh-my-pi": {
+  "summary": "深度集成 IDE 的编码智能体，基于 TypeScript 与 Bun 构建，支持 Claude 等 LLM",
+  "hash": "383e897ccc75e0df",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "carbon-app/carbon": {
+  "summary": "把源码变成精美图片并分享，支持 GitHub Gist 导入，基于 JavaScript 的代码截图工具",
+  "hash": "764e99d0093b4618",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cathrynlavery/diagram-design": {
+  "summary": "为 Claude Code、Codex、Cursor 等 AI 编程工具提供 44 种编辑级图表设计，输出自包含 HTML 与 SVG，摒弃阴影和 Mermai",
+  "hash": "55f16799c9d5dfe0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cesanta/mongoose": {
+  "summary": "面向嵌入式设备的 C 语言网络库，集成 TCP/IP 协议栈、HTTP、WebSocket、MQTT 与 TLS 1.3，适用于 IoT 场景",
+  "hash": "c3aa8d876e4678a3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cesanta/slre": {
+  "summary": "超轻量 C/C++ 正则表达式引擎，代码极小无依赖，适合嵌入式与资源受限环境",
+  "hash": "6b5cd41ff1178c25",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "changkun/modern-cpp-tutorial": {
+  "summary": "覆盖 C++11 到 C++26 新特性的实战教程，含代码示例与在线电子书",
+  "hash": "398407ff038488e7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "chaseleantj/deskworlds": {
+  "summary": "用 JavaScript 打造可交互的动态桌面壁纸，让桌面随操作实时响应",
+  "hash": "b11a8b84b9717eca",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "chenshuo/muduo": {
+  "summary": "基于 C++11 的多线程 Linux 服务器事件驱动网络库，采用 Reactor 模式，支持非阻塞 IO 与定时器",
+  "hash": "44c1322c3d4f689c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "chenshuo/recipes": {
+  "summary": "C++ 代码片段合集，涵盖网络编程、多线程与性能优化等实用技巧",
+  "hash": "f07bff55c01947e3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "chirlu/sox": {
+  "summary": "音频处理全能工具，支持格式转换、特效添加与编辑，C 语言实现",
+  "hash": "a09fb04a13fe8799",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "chromiumembedded/cef": {
+  "summary": "基于 C++ 的框架，可将 Chromium 浏览器内核嵌入其他应用，支持跨平台",
+  "hash": "ba436548581a5431",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "chronoxor/CppServer": {
+  "summary": "超高速低延迟的异步 socket 服务端与客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议，并解决 10K 连接",
+  "hash": "36119c01ae0005d1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "chthollyphile/folia-major": {
+  "summary": "基于 TypeScript 与 React 的 PWA 音乐播放器，支持本地、Navidrome 及第三方在线音源，主打绚丽歌词动画与 AI 能力",
+  "hash": "28dd62e1b0b126af",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cinemast/libjson-rpc-cpp": {
+  "summary": "基于 C++ 的 JSON-RPC 2.0 框架，可快速构建客户端与服务端，支持 TCP、Unix 套接字和 HTTP 传输",
+  "hash": "054adbb1d349e6d4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "civetweb/civetweb": {
+  "summary": "轻量级嵌入式 C/C++ Web 服务器，支持 CGI、SSL/TLS、WebSocket 与 Lua 脚本",
+  "hash": "db3ce830355acec7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "clash-verge-rev/clash-verge-rev": {
+  "summary": "基于 Tauri 和 Rust 打造的现代跨平台代理客户端，支持 Windows、macOS 和 Linux，内置 Clash Meta 内核",
+  "hash": "1ea932d20d802ed3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cnjinhao/nana": {
+  "summary": "基于现代 C++ 的跨平台 GUI 库，支持 C++11/14/17，利用模板元编程实现简洁高效的界面开发",
+  "hash": "877f1f3e9ed33207",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "code-yeongyu/oh-my-openagent": {
+  "summary": "输入 mass ulw 关键词即可调度多 AI 代理做图工程，TypeScript 编写，兼容 Claude、ChatGPT、Codex 等",
+  "hash": "c2e372b9626da1e7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "codec2021/codecscope": {
+  "summary": "基于C++的编解码器性能分析工具，可视化对比多种音视频编码格式的压缩率与速度",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "coffee-it/uargparse": {
+  "summary": "MicroPython 的命令行参数解析库，移植自 Python 标准库 argparse，可在微控制器上使用",
+  "hash": "caed9049ab4a65b9",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cool2528/GDownload": {
+  "summary": "基于 C++ 开发的全功能下载管理器",
+  "hash": "651298f4e84def5a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "crayzeewulf/libserial": {
+  "summary": "C++ 串口编程库，封装 Linux 下 RS-232 与 USB 串口通信，简化配置与读写操作",
+  "hash": "de252b7b6890d5cc",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "csrgxtu/Drogo": {
+  "summary": "用 Python 把微信变成命令行聊天工具，让黑客在终端收发消息",
+  "hash": "6da264f5b1b28488",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cxinping/PyQt5": {
+  "summary": "《PyQt5快速开发与实战》配套源码，含大量示例，助你快速掌握PyQt5桌面应用开发",
+  "hash": "47706244a10122bc",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cxmforever/notice-board": {
+  "summary": "基于 mmy 的公告板项目，提供简洁的公告发布与管理功能",
+  "hash": "2c3a538a0e8400c7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "cycfi/q": {
+  "summary": "基于 C++20 的音频数字信号处理库，提供 DSP 算法与工具",
+  "hash": "f7488597fed058dc",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "d3/d3": {
+  "summary": "用 SVG、Canvas 和 HTML 让数据可视化活起来，基于 Web 标准的经典图表库",
+  "hash": "f0f2581badfa30d3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "dairoot/miloco-sdk": {
+  "summary": "Python 实现的 Miloco 智能家居本地控制 SDK，支持局域网直连设备，无需云端中转",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "dana-at-cp/backdoor-apk": {
+  "summary": "用 Shell 脚本向任意 Android APK 注入后门，依赖 Apktool、Metasploit、smali 与 Android SDK，仅供安全教学研",
+  "hash": "bc105721f3f86974",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "danielballan/photomosaic": {
+  "summary": "用 Python 把大量缩略图拼成马赛克，远看呈现一张大图",
+  "hash": "6ae8fecb12b65cad",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "dataelement/bisheng": {
+  "summary": "面向企业级 AI 应用的开源大模型 DevOps 平台，集成 GenAI 工作流、RAG、Agent、模型管理、评测、SFT 与可观测性",
+  "hash": "d263c5ecb76eeaf5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "datalab-to/marker": {
+  "summary": "用 Python 将 PDF 快速高精度转换为 Markdown 和 JSON",
+  "hash": "d18cec9d15773048",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "deepseek-ai/deepseek-harness": {
+  "summary": "基于 TypeScript 的 AI Agent 框架，一切皆插件，支持 cordis 依赖注入与 dsh 插件生态",
+  "hash": "0df35190db8ab9ac",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "dibingfa/flash-linux0.11-talk": {
+  "summary": "以小说式笔法逐行解读 Linux 0.11 内核源码，带你轻松读懂操作系统底层原理",
+  "hash": "5a7cb49af3ef62ba",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "dieforfree/qart4j": {
+  "summary": "用 Java 将二维码渲染成 ASCII 字符画，支持终端直接展示",
+  "hash": "58cfcaf48c9310c2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "dimtass/DSP-Cpp-filters": {
+  "summary": "用 C++ 实现的 DSP 音频滤波器集合，涵盖低通、高通、带通等常用类型",
+  "hash": "f1dfaca2b46434f6",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "earthtojake/text-to-cad": {
+  "summary": "让 AI agent 通过 Python 生成 STEP、STL 等 CAD 模型，为机械工程与机器人设计赋予建模超能力",
+  "hash": "d3bd5d6ded834a28",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "eclipse-cyclonedds/cyclonedds": {
+  "summary": "Eclipse 基金会用 C 语言实现的高性能 DDS 中间件，支持实时数据分发与发布订阅",
+  "hash": "189e1b9f97dd97cc",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "eclipse-mosquitto/mosquitto": {
+  "summary": "轻量级开源 MQTT broker，支持 MQTT 5.0 与 3.1.1 协议，适用于 IoT 消息推送，用 C 编写",
+  "hash": "a00693d631b1dcc4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ehang-io/nps": {
+  "summary": "基于 Go 的轻量级内网穿透代理服务器，支持 tcp、udp、socks5、http 等流量转发，自带 Web 管理端",
+  "hash": "bb5f3f34780e8cce",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "electronicarts/EASTL": {
+  "summary": "EA 开源的高性能 C++ STL 替代实现，针对游戏开发优化，支持 C++11 至 C++20",
+  "hash": "fbd9df29b25692ba",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "eliaskosunen/scnlib": {
+  "summary": "现代 C++ 的 scanf 实现，支持 ranges 与格式化输入解析",
+  "hash": "f55591914cc72bdd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "emacs-china/Spacemacs-rocks": {
+  "summary": "面向中文用户的 Emacs 与 Spacemacs 入门教程，涵盖配置、插件与实战技巧",
+  "hash": "13a5947ec3727cc1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "embox/embox": {
+  "summary": "模块化可配置的嵌入式操作系统，用C编写，支持POSIX，适用于MCU和微控制器",
+  "hash": "14be0268d04d4cf4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "erikw/tmux-powerline": {
+  "summary": "纯 Bash 编写的 tmux 状态栏插件，提供可自定义的动态 powerline 分段",
+  "hash": "4e79a9c68a494c43",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "esengine/DeepSeek-Reasonix": {
+  "summary": "基于 DeepSeek 的 Go 语言命令行编码智能体，专攻复杂软件工程任务",
+  "hash": "96bfee596b31e4a9",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "esp-arduino-libs/ESP32_Display_Panel": {
+  "summary": "面向ESP32、ESP32-S3、ESP32-P4等芯片的显示驱动与GUI移植库，用C编写，简化屏幕适配",
+  "hash": "feadb5a334f81f06",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "eternity4719/HowToLiveBetter": {
+  "summary": "用HTML整理的高性价比生活指南，覆盖健康、理财、法律、社保、婚育、创业等，每条标注成本收益、证据等级与期刊或官方出处",
+  "hash": "fc243932cc153cb0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "exacity/deeplearningbook-chinese": {
+  "summary": "深度学习经典教材 Deep Learning 中文翻译，基于 TeX 排版，社区协作完成",
+  "hash": "83efe88cf2bf7dba",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "excalidraw/excalidraw": {
+  "summary": "基于 TypeScript 的虚拟白板，支持手绘风格图表、实时协作与端到端加密",
+  "hash": "cf4f8e86ab0870e1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fanchy/fflib": {
+  "summary": "轻量级 C++ 框架，面向游戏服务端与分布式程序，封装 socket、rpc、lua、CQRS、定时器、日志及性能与内存泄漏检测工具",
+  "hash": "dab3e93cec5c97d4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fanchy/fflua": {
+  "summary": "封装 C++ 对象注册到 Lua 的嵌入库，支持将 C++ 类与函数暴露给 Lua 调用，基于 C++ 实现",
+  "hash": "39d3d61416ae4f28",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fangzesheng/free-api": {
+  "summary": "汇集各类免费 API 接口服务，方便开发者快速查找调用",
+  "hash": "810a72582743b405",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fanmingming/live": {
+  "summary": "提供可直连访问的电视广播台标库与工具，支持 IPv4/IPv6 双栈、EPG 与 m3u/m3u8 转换，永久免费开源",
+  "hash": "6c4da7f70bb2f535",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fengbingchun/OCR_Test": {
+  "summary": "收录多款开源 OCR 代码的 C 语言测试合集，便于对比识别效果",
+  "hash": "684002d790bf2512",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fffaraz/awesome-cpp": {
+  "summary": "精选 C/C++ 框架、库、资源和工具链的 awesome 清单，涵盖 cppcon 等社区动态",
+  "hash": "a7cceddd5c087d08",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fguby/Electron-elf": {
+  "summary": "基于 Electron 和 Live2D 打造的桌面精灵应用，支持 macOS，用 HTML 实现可交互的虚拟角色",
+  "hash": "1dfdddb787ebf116",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "flutter/flutter": {
+  "summary": "基于 Dart 的跨平台 UI 框架，一套代码快速构建 Android、iOS、桌面等平台精美原生应用",
+  "hash": "cd45b3df3dce6a6c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fmtlib/fmt": {
+  "summary": "现代 C++ 格式化库，以高性能和类型安全替代 printf 与 iostream，支持 chrono、浮点及跨平台输出",
+  "hash": "2d132aef5a0da821",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "forhappy/Cplusplus-Concurrency-In-Practice": {
+  "summary": "系统讲解 C++11 并发编程的实战教程，涵盖线程、互斥量、条件变量、原子操作与内存模型",
+  "hash": "a81e6f5a5fc60ca3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "foru17/front-end-collect": {
+  "summary": "汇集长期关注的前端优秀网站、博客与活跃开发者，JavaScript 前端资源导航",
+  "hash": "c296c95b1c4537de",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "foxglove/mcap": {
+  "summary": "模块化高性能且与序列化无关的容器文件格式，适用于 pub/sub 和机器人应用，支持 C++、Go、Python、Swift 等多语言",
+  "hash": "123ff3c5b19ffe0b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "fukuchi/libqrencode": {
+  "summary": "用 C 编写的高速紧凑 QR 码编码库，支持生成 PNG、EPS、SVG 等多种格式",
+  "hash": "a908040cde722d83",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "gabime/spdlog": {
+  "summary": "高性能 C++ 日志库，支持 header-only 引入，兼容 C++11，提供快速异步与格式化输出",
+  "hash": "f34bfec221ff52cb",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "geekan/HowToLiveLonger": {
+  "summary": "面向程序员的长寿指南，基于科学研究整理饮食运动睡眠等可操作建议",
+  "hash": "ae039ea6dcd1bf66",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "gfwlist/gfwlist": {
+  "summary": "汇集被中国防火墙屏蔽的域名列表，供代理工具自动分流使用",
+  "hash": "ecb40a320373c7ea",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ggreer/the_silver_searcher": {
+  "summary": "用 C 编写的命令行代码搜索工具，类似 ack 但速度更快，基于 PCRE 正则匹配",
+  "hash": "7be30699ee87703e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "giantpinkrobots/varia": {
+  "summary": "基于 Python 与 GTK4/libadwaita 的 GNOME 下载管理器，支持普通下载、BT 种子和视频，底层集成 aria2",
+  "hash": "fc64f40d30cfc0c0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "gongluck/AnalysisAVP": {
+  "summary": "音视频编解码与格式协议分析学习项目，涵盖 h264/aac/flv/mp4/rtmp，集成 ffmpeg、x264、fdk-aac、webrtc、sdl2 等，",
+  "hash": "5a1c1ee26b847df2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "google/bloaty": {
+  "summary": "分析二进制文件体积构成的大小分析工具，支持 ELF、Mach-O、PE 等格式，可定位代码膨胀来源",
+  "hash": "af5bc2895a770e5e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "google/gif-for-cli": {
+  "summary": "用 Python3 编写的命令行工具，在终端里播放 GIF 动图",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "google/leveldb": {
+  "summary": "谷歌开源的高性能键值存储库，C++ 编写，提供字符串键值的有序映射",
+  "hash": "f08f41fc64c12ebf",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "google/tcmalloc": {
+  "summary": "Google 的高性能 C++ 内存分配库，通过线程缓存和大小类机制减少锁竞争与碎片，可替代 malloc 提升多线程程序性能",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "gperftools/gperftools": {
+  "summary": "Google 高性能工具集，含 TCMalloc 内存分配器、CPU 与堆分析器，用于 C++ 程序性能调优",
+  "hash": "b3ad4718e22585b1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "gsd-build/get-shit-done": {
+  "summary": "为 Claude Code 打造的轻量级元提示与上下文工程系统，用规范驱动开发流程",
+  "hash": "8dccfa2c102de84d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "gumyr/build123d": {
+  "summary": "基于 OpenCascade 的 Python CAD 编程库，用代码构建 B-rep 实体模型，支持 3D 打印与导出",
+  "hash": "eb67a668359e2681",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "guohuiyuan/go-music-dl": {
+  "summary": "基于 Go 的全网音乐搜索下载工具，支持 CLI 与 Web 双模式，聚合网易云、QQ、酷狗、Bilibili 等 10+ 平台，多源并发搜索并无损解析",
+  "hash": "e7cdbfb8795917b6",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "gustavogenovese/curl-android-ios": {
+  "summary": "为 Android 和 iOS 应用提供静态 libcurl 库，附带构建脚本，无需 Android 源码",
+  "hash": "ca05a3fe91bd2592",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "hakimel/reveal.js": {
+  "summary": "基于 HTML 的演示文稿框架，用 JavaScript 编写，支持幻灯片、演讲和网页幻灯片展示",
+  "hash": "cd4833dc5c5ec90e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "hardhackerlabs/oh-my-nvim": {
+  "summary": "主题驱动、开箱即用的现代 Neovim 配置，基于 Lua 编写",
+  "hash": "54eb58a3773cf844",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "harlanc/xiu": {
+  "summary": "纯 Rust 实现的高性能安全直播流媒体服务器，支持 RTMP 集群、RTSP、WebRTC WHIP/WHEP、HTTP-FLV 和 HLS",
+  "hash": "d4d90a4c8f08e4d3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "harry0703/MoneyPrinterTurbo": {
+  "summary": "输入主题或关键词，用 LLM 加自动化流程一键生成高清短视频，Python 实现，支持字幕与 FFmpeg 合成",
+  "hash": "831d244b17992499",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "hartkopp/can-isotp": {
+  "summary": "Linux 内核模块，实现 ISO 15765-2:2016 CAN 传输协议，自 5.10 版起已并入主线内核",
+  "hash": "5b57d1dacb400440",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "helix-editor/helix": {
+  "summary": "基于 Rust 的模态文本编辑器，融合 Kakoune 与 Vim 操作理念，支持多选编辑与内置 LSP",
+  "hash": "cd807ebadd14e893",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "herrbischoff/awesome-macos-command-line": {
+  "summary": "汇总 macOS 终端命令行技巧与工具的资源列表，涵盖系统管理、网络、安全等实用命令",
+  "hash": "361615a57f6ac19b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "hevnsnt/artinchip-linux": {
+  "summary": "逆向 ArtInChip USB 条形屏 RSA 认证，用 Python 实现 Linux 驱动，支持网页、YouTube 和视频文件投屏",
+  "hash": "425fc5d8493f3d8a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "heygen-com/hyperframes": {
+  "summary": "用 HTML 写动画，经 Puppeteer 与 FFmpeg 渲染成视频，内置 GSAP 与 MCP，专为 AI agent 设计",
+  "hash": "83d696d6a89e7e67",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "houshanren/hangzhou_house_knowledge": {
+  "summary": "2017年杭州买房实战经验总结，涵盖购房流程与避坑知识，用CSS搭建的知识分享站",
+  "hash": "6acf3773ebfd0aa2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "huajiaofrontend/HJPlayer": {
+  "summary": "基于 TypeScript 的 HTML5 播放器，借助 Media Source Extension 实现 FLV 和 HLS 流媒体播放",
+  "hash": "2c4a3ef7177ac1a1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "huakunyang/SummerTTS": {
+  "summary": "基于 C++ 的独立中英文语音合成项目，无需网络和额外依赖，一键编译即可本地运行，采用 VITS 模型",
+  "hash": "d1d51c6ab5e01e61",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "huihut/interview": {
+  "summary": "涵盖 C/C++ 面试核心知识，含语言、数据结构、算法、操作系统、网络与链接装载库，附面经和内推",
+  "hash": "c5978c6296404a2f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "hvianna/audioMotion-analyzer": {
+  "summary": "高分辨率实时音频频谱分析 JavaScript 模块，零依赖，基于 Web Audio API 实现可视化",
+  "hash": "a8dbd296b5c4ad9a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "hyperium/hyper": {
+  "summary": "Rust 的高性能 HTTP 底层库，支持 HTTP/1 与 HTTP/2，是众多框架的底层依赖",
+  "hash": "6f4c9ee01b296870",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "hzeller/rpi-rgb-led-matrix": {
+  "summary": "用树莓派 GPIO 驱动多达三条 64x64、32x32 等规格的 RGB LED 点阵屏，C++ 实现，支持多路复用",
+  "hash": "7e777fd9513052a0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "iHildy/opencode-synced": {
+  "summary": "基于 TypeScript 的 opencode 插件，在多台机器间同步全局配置",
+  "hash": "6dd0277910996c4d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "idealclover/Love-Gift": {
+  "summary": "用 CoffeeScript 编写的浪漫网页礼物，献给前女友的爱心小惊喜",
+  "hash": "8b193c9dfc42cd21",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "iina/iina": {
+  "summary": "基于 mpv 的 macOS 现代视频播放器，用 Swift 编写，支持几乎所有格式与网络流",
+  "hash": "8592bde14fd11f9f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "iissnan/hexo-theme-next": {
+  "summary": "为 Hexo 打造的优雅主题，支持多种配色方案与自定义布局，界面简洁美观",
+  "hash": "d7424217f7f6478f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ikarus23/MifareClassicTool": {
+  "summary": "Android NFC 应用，用于读写和分析 MIFARE Classic RFID 标签，支持密钥管理与安全研究",
+  "hash": "bc0de0004e4e5873",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ilixi/ilixi": {
+  "summary": "面向嵌入式 Linux 的轻量级 C++ 应用框架，集成 GUI 组件与 DirectFB 渲染",
+  "hash": "e3bc7531074ae681",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "illuspas/Node-Media-Server": {
+  "summary": "基于 Node.js 的 RTMP/HTTP-FLV 流媒体服务器，支持 H.264/H.265/AV1 编码与直播推流",
+  "hash": "eec5d9b6ece24a1f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "image-rs/image": {
+  "summary": "用 Rust 实现的图像编解码库，支持多种格式读写与像素处理",
+  "hash": "6be28126ccc9756f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "impress/impress.js": {
+  "summary": "基于 CSS3 变换与过渡的演示框架，灵感来自 Prezi，用 JavaScript 在浏览器中实现缩放旋转式幻灯片",
+  "hash": "21056328606760b1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "infiniflow/ragflow": {
+  "summary": "融合前沿 RAG 与 Agent 能力的开源检索引擎，为 LLM 构建优质上下文层，支持智能体检索与搜索",
+  "hash": "ada0960dcc2500f0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "int32bit/dotfiles": {
+  "summary": "一套面向 Linux 的 vim、zsh、git 和 tmux 配置文件集合，开箱即用",
+  "hash": "900b8bbe73ddd98a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "iptv-org/iptv": {
+  "summary": "汇集全球公开 IPTV 频道，提供 M3U 播放列表，用 TypeScript 维护",
+  "hash": "891dd91c2a8bd4d1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ireader/media-server": {
+  "summary": "基于 C 语言的流媒体服务器，支持 RTSP、RTMP、HLS、MPEG-DASH、MP4、MKV 等协议与封装格式的推流、拉流及转封装",
+  "hash": "252a99333eb3e7ea",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ireader/sdk": {
+  "summary": "可移植的系统调用库，用 C 实现 AIO、socket、线程、进程、锁、事件与管道",
+  "hash": "cf5f43b01e10236b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jae-jae/weapp-github-trending": {
+  "summary": "用 JavaScript 开发的微信小程序，实时查看 GitHub 今日趋势榜单",
+  "hash": "8dd6b0697ae86b29",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jahrulnr/esp32-picoTTS": {
+  "summary": "基于 PicoTTS 引擎的 ESP32 语音合成库，支持多核并行处理与 UTF-8 文本",
+  "hash": "828a9cd4b8adf653",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jarro2783/cxxopts": {
+  "summary": "轻量级 C++ 命令行参数解析库，支持选项与位置参数，仅头文件即可使用",
+  "hash": "7b59a36c3ff0d4fd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jemalloc/jemalloc": {
+  "summary": "通用内存分配器，提供低碎片、高并发性能，支持多线程与内存剖析，广泛用于 FreeBSD、Firefox 等",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jeremy-rifkin/cpptrace": {
+  "summary": "面向 C++11 及以上的轻量可移植栈回溯库，自包含无依赖，便于调试与诊断",
+  "hash": "c316b424ed10376a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jerryscript-project/iotjs": {
+  "summary": "基于 C 语言实现的轻量级 JavaScript 物联网平台，内存占用极低，可在微控制器上运行",
+  "hash": "9ec8ebec04b5646c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jerryscript-project/jerryscript": {
+  "summary": "超轻量级 JavaScript 引擎，用 C 编写，专为物联网设备提供脚本运行时",
+  "hash": "8a6c335b8727cd87",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jgraph/drawio": {
+  "summary": "基于 JavaScript 的纯客户端图表编辑器，支持流程图、白板等通用绘图，无需服务端",
+  "hash": "350549d0eab1ae5a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jitwxs/163MusicLyrics": {
+  "summary": "支持网易云与QQ音乐的歌词获取处理工具，可导出 LRC 和 SRT 字幕，基于 C# 开发",
+  "hash": "c771245643436f4f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jlevy/the-art-of-command-line": {
+  "summary": "一页掌握命令行，涵盖 bash、Linux、macOS、Unix 和 Windows 的实用技巧与快捷键",
+  "hash": "3b09e21d61102b0d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jnMetaCode/agency-agents-zh": {
+  "summary": "277 个即插即用 AI 专家角色，适配 Claude Code、Cursor、Copilot 等 20 种工具，覆盖 20 个部门，含 64 个中国市场原创智",
+  "hash": "6f8123986cba49c4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jobbole/awesome-c-cn": {
+  "summary": "C 资源大全中文版，涵盖构建系统、编译器、数据库、加密、教程指南、书籍与库等",
+  "hash": "e30bec143e1ac97a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jobbole/awesome-cpp-cn": {
+  "summary": "C++ 资源大全中文版，涵盖标准库、Web 框架、AI、数据库、图像处理、机器学习、日志与代码分析等，由开源前哨和 CPP开发者 维护",
+  "hash": "5e5f2a864f902c72",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "johnthagen/min-sized-rust": {
+  "summary": "教你用 Cargo 配置、LTO、strip、no_std、UPX 等手段把 Rust 二进制体积压到最小",
+  "hash": "41785b7019006626",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jonacruz89/SAWARATSUKI.ServiceLogos": {
+  "summary": "把服务 Logo 变成可爱风格的开源素材库，请勿随意 Fork",
+  "hash": "97f0c2d03f1e877e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jorgen/json_struct": {
+  "summary": "单头文件 C++ 库，用模板元编程将 JSON 直接解析为 struct 或反向序列化",
+  "hash": "3be1e19384240e20",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "juewuy/ShellCrash": {
+  "summary": "用 Shell 脚本在路由器等设备上运行 sing-box/mihomo 客户端，支持订阅管理与开机自启",
+  "hash": "dca4e086e60a7394",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "justdan96/tsMuxer": {
+  "summary": "将 EVO、VOB、MKV、MP4 等封装重混为 TS/M2TS 的 C++ 传输流复用工具，支持 H.264、H.265、VC-1、MPEG2 视频及 AAC",
+  "hash": "4c92fc8378dc6316",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "justjavac/free-programming-books-zh_CN": {
+  "summary": "收录免费中文编程书籍，涵盖 Android、iOS、JavaScript、Kotlin 等方向，支持社区投稿",
+  "hash": "2ef8427c36d8bd14",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "justjavac/wechat-miniapp-radar": {
+  "summary": "AI 驱动的小程序技术选型、趋势追踪与迁移诊断工具，TypeScript 实现，支持微信小程序生态",
+  "hash": "2676ca478f8d14aa",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "jxlarrea/kiosk-satellite": {
+  "summary": "把闲置 Android 设备变成 Home Assistant 专用壁挂面板，基于 Dart 开发，集成 BLE 代理、摄像头、DLNA 与 ESPHome",
+  "hash": "67f9851702e2acd0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "k2-fsa/sherpa-onnx": {
+  "summary": "基于 next-gen Kaldi 和 onnxruntime 的离线语音工具包，支持语音识别、合成、说话人分离、增强、分离与 VAD，覆盖嵌入式、Androi",
+  "hash": "fbe5421b09c476a2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "kaiakz/lv_gui_designer": {
+  "summary": "基于 LittlevGL 的拖拽式 GUI 设计器，用 C 编写，可快速搭建嵌入式界面（已暂停维护）",
+  "hash": "876cd904bc9faeca",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "kaiakz/walv": {
+  "summary": "浏览器里的 LittlevGL 图形界面设计器，用 HTML 打造，可在线拖拽布局并生成 UI 代码",
+  "hash": "adbf7c590ec32e39",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "koraa/sndlink": {
+  "summary": "基于 C++ 的命令行工具，实现低延迟实时音频流传输",
+  "hash": "91e642eea4d1707c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "korbinjoe/excalidraw-cn": {
+  "summary": "基于 Excalidraw 的白板工具，支持中文手写字体和多画布，用 TypeScript 开发",
+  "hash": "37b626f090fd7af3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ksky521/nodeppt": {
+  "summary": "基于 HTML5 与 CSS3 的网页演示工具，支持 Markdown 编写和多种动画效果",
+  "hash": "c327e55d5c911789",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "langhuihui/jessibuca": {
+  "summary": "纯 H5 直播流播放器，基于 WebAssembly 与 WebGL 解码渲染，支持 H264/H265、HTTP-FLV 和 WebSocket-FLV",
+  "hash": "93f454cf4593b5d2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lanxuezaipiao/zh-google-styleguide": {
+  "summary": "Google 开源项目风格指南中文版，涵盖 C++、Java、Python 等语言的编码规范与最佳实践",
+  "hash": "d468af3828b9ac1c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "larksuite/rsmpeg": {
+  "summary": "用 Rust 封装 FFmpeg 的 crate，通过 FFI 绑定暴露其几乎全部能力，方便处理视频编解码",
+  "hash": "eea58b7c3beb5c9f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lc-soft/LCUI": {
+  "summary": "用 C 语言编写的跨平台 GUI 框架，可构建桌面用户界面，支持 Windows",
+  "hash": "5d8d9b0868d86f59",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "leandromoreira/digital_video_introduction": {
+  "summary": "动手学视频技术：图像、编解码（av1、vp9、h265）与 ffmpeg 编码，含多国语言翻译",
+  "hash": "d96b3f291c273415",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "leixiaohua1020/VideoEye": {
+  "summary": "基于 C++ 的开源流媒体分析软件，支持实时抓包与协议解析",
+  "hash": "d262d6af575fcaf3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lexmount/moli": {
+  "summary": "为 AI agent 打造的无头浏览器，Rust 编写，轻量快速且高兼容，支持 Playwright 与 Puppeteer",
+  "hash": "85153137b21edd7f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "libcpr/cpr": {
+  "summary": "基于 libcurl 的 C++ HTTP 客户端库，提供类似 Python Requests 的简洁 API",
+  "hash": "96fc66533aedac2f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "libjpeg-turbo/libjpeg-turbo": {
+  "summary": "基于 SIMD 加速的 JPEG 编解码库，兼容 libjpeg API，支持 x86、ARM 等平台",
+  "hash": "4d0d3d2b1e45342e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lindenis-org/mpp_sample": {
+  "summary": "全志V5平台MPP多媒体框架示例代码，C语言编写，演示硬件编解码接口调用",
+  "hash": "493267bc03891620",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "linshenkx/prompt-optimizer": {
+  "summary": "基于 TypeScript 的 AI 提示词优化工具，可改写润色 prompt 并支持测试对比，提升 LLM 输出效果",
+  "hash": "60256c7c027ea951",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "littlecodersh/ItChat": {
+  "summary": "基于 Python 的微信个人号 API，三十行代码即可定制聊天机器人，支持命令行操作",
+  "hash": "bf35dbdfa53df7af",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "liuchengxu/space-vim": {
+  "summary": "受 spacemacs 启发、基于 Vim Script 的轻量 Vim/Neovim 配置发行版，适合新手快速上手",
+  "hash": "bc5cc2069cc48181",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "liuruoze/EasyPR": {
+  "summary": "基于 OpenCV 的 C++ 中文车牌识别项目，支持非受限场景，提供数据集与神经网络模型，曾用于 CGCSTCD 2017 竞赛",
+  "hash": "bd22ddff40235729",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "liuwons/wxBot": {
+  "summary": "基于Python的微信机器人，已停止维护",
+  "hash": "5b9ce31a51d0cfd5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "logdyhq/logdy-core": {
+  "summary": "基于 Go 的实时日志查看器，提供 Web UI，像 tail -f 一样在浏览器中追踪日志",
+  "hash": "1b0a72f3216f1f17",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lohanidamodar/flutter_ui_challenges": {
+  "summary": "100+ 专业 Flutter UI 实现，含完整代码，适配 Flutter 3.x，支持 Android、iOS、Linux 和 Web",
+  "hash": "098ad3258fe06531",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lulop-k/kurento-rtsp2webrtc": {
+  "summary": "将 RTSP 或 HTTP 流转换为低延迟 WebRTC 流的 JavaScript 示例，基于 Kurento 实现",
+  "hash": "f2b7538c1c5627d1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lvgl/lvgl": {
+  "summary": "免费开源嵌入式图形库，用 C 编写，覆盖从单片机到支持 3D 的 MPU，配套专业编辑器 LVGL Pro",
+  "hash": "8551a17133b6342d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lxgw/LxgwWenKai": {
+  "summary": "基于 Klee One 衍生的开源中文字体，兼顾简体繁体与日文，风格清秀易读",
+  "hash": "aeb5453393651876",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "lxgw/LxgwWenKai-Screen": {
+  "summary": "霞鹜文楷屏幕阅读版，优化字形与字重，适合电子屏幕阅读的中文开源字体",
+  "hash": "2c08da745e64e3f4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mackron/miniaudio": {
+  "summary": "单文件 C 音频库，支持播放、采集与 FLAC 解码，跨 Android、BSD、Emscripten 等平台",
+  "hash": "0c781aec62e6176b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "maicss/PyQt-Chinese-tutorial": {
+  "summary": "基于 GitBook 的 PyQt5/PyQt6 中文教程，系统讲解 Python3 桌面 GUI 开发",
+  "hash": "fb0e8170d2495e48",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "makelove/OpenCV-Python-Tutorial": {
+  "summary": "基于 Python 的 OpenCV 教程，涵盖 imread、imshow、VideoCapture 与 Kinect 等图像和视频处理示例",
+  "hash": "5f0e4f1ed36f6da8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "maoruibin/TranslateApp": {
+  "summary": "复制单词即译的 Android 翻译应用，结果以顶部悬浮视图展示，基于 Java 与 Dagger、MVP 架构",
+  "hash": "f5b67b4a1792b4f2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mathiasbynens/evil.sh": {
+  "summary": "用 Shell 脚本对终端做隐蔽或明显的恶作剧调整，慢慢把使用者逼疯",
+  "hash": "1b0df3f32804a1bb",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mattermost/mattermost": {
+  "summary": "基于 Go 与 React 的开源安全协作平台，覆盖软件开发全生命周期，支持自托管与端到端加密",
+  "hash": "718703188424c4d4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mbadolato/iTerm2-Color-Schemes": {
+  "summary": "收录超 750 套终端配色方案，覆盖 iTerm2 并移植到 Konsole、PuTTY、Kitty、Windows Terminal 等数十种终端",
+  "hash": "47c75ca50d24d527",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mbebenita/Broadway": {
+  "summary": "将 H.264 解码器编译为 JavaScript，可在浏览器中直接播放视频",
+  "hash": "c72eda02e31f6e83",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "me115/design_patterns": {
+  "summary": "用 C++ 图解 23 种经典设计模式，配代码示例与 UML 类图，适合入门与速查",
+  "hash": "37822862e2e620a2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "memononen/nanovg": {
+  "summary": "基于 OpenGL 的抗锯齿 2D 矢量绘图库，用 C 编写，适合 UI 与数据可视化",
+  "hash": "50ec168b4de9b04d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "memovai/mimiclaw": {
+  "summary": "在5美元芯片上跑个人 AI 助手，无需 Linux、Node.js、树莓派或 VPS，用 C 实现端侧硬件智能体操作系统与记忆",
+  "hash": "ef49e2c8f6e00fb8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "memvid/memvid": {
+  "summary": "用 Rust 编写的无服务器单文件记忆层，替代复杂 RAG 流程，为 AI Agent 提供即时检索与长期记忆",
+  "hash": "f2b541585fb66403",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mesonbuild/meson": {
+  "summary": "基于 Python 的跨平台构建系统，主打速度与易用性，支持 C/C++/Rust/Java 等多语言，配置简洁无需手写 Makefile",
+  "hash": "3ab68538eda4b867",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "metartc/metaRTC": {
+  "summary": "面向嵌入式、IoT 与机器人设备的 WebRTC SDK，用 C 编写，支持 WHIP/WHEP 协议",
+  "hash": "609e4d51b6eec3f9",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mfranzon/render": {
+  "summary": "让编码代理直接生成精美 3D 模型，基于 HTML 实现",
+  "hash": "a79dc93de5224af1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "michaelliao/learn-javascript": {
+  "summary": "廖雪峰 JavaScript 全栈教程配套源码，涵盖基础语法到 Node.js 后端开发",
+  "hash": "1f96f55bc879b623",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "micknoise/Maximilian": {
+  "summary": "C++ 音频与音乐 DSP 库，提供合成、采样、滤波等实时音频处理功能",
+  "hash": "229a3746f60ad252",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "microsoft/Bringing-Old-Photos-Back-to-Life": {
+  "summary": "基于 PyTorch 的 GAN 框架，修复破损老照片的划痕、噪点并还原色彩，CVPR 2020 oral 论文官方实现",
+  "hash": "057b3b4c154649b2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "microsoft/RustTraining": {
+  "summary": "微软出品的 Rust 分级培训材料，覆盖入门、进阶到专家三个层次",
+  "hash": "605f4d7ec7c41727",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mifi/lossless-cut": {
+  "summary": "基于 FFmpeg 的无损音视频剪切工具，支持多格式快速裁剪合并，无需重新编码",
+  "hash": "295023b30867a5e8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mikeroyal/PipeWire-Guide": {
+  "summary": "介绍 Linux 音频视频处理框架 PipeWire 的指南，涵盖 ALSA、DAW、音频流与压缩器等专业工作流",
+  "hash": "f101775cdae82f2a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mikewei/shm_container": {
+  "summary": "基于 C++11 和 SysV 共享内存的高性能服务端容器集合",
+  "hash": "e9fc2f50e489bc87",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mislav/dotfiles": {
+  "summary": "涵盖 bash、zsh、git、tmux 和 vim 配置的个人工具箱，集成 rbenv 管理 Ruby 版本",
+  "hash": "b02379562982bfe3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mobius3/font-chef": {
+  "summary": "用 C/C++ 实现的字体烘焙库，可将字形预处理为位图或纹理供游戏引擎直接使用",
+  "hash": "74a671459c952611",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mogutt/TTServer": {
+  "summary": "蘑菇街开源 TeamTalk 的即时通讯消息服务器，基于 C++ 与 protobuf 实现，支持高并发长连接与消息路由",
+  "hash": "8cab6b91a1b386ad",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mooz/percol": {
+  "summary": "为 UNIX 管道注入交互式过滤，用 Python 实现实时筛选命令行输出",
+  "hash": "e3fef086e3f07c4d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "morluto/rea": {
+  "summary": "用 AI agent 逆向分析应用行为与原生二进制，TypeScript 编写的 CLI 工具，支持 Claude Code 和 Codex，适用于 CTF",
+  "hash": "d1e828aba8442cfe",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "motioneye-project/motioneye": {
+  "summary": "为 motion 守护进程提供 Web 前端，用 Python 编写，可在树莓派上实现摄像头监控与运动检测",
+  "hash": "07ecd00c4dc2ee0a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mpv-player/mpv": {
+  "summary": "基于 FFmpeg 的命令行媒体播放器，支持几乎所有音视频格式，以高性能、高质量渲染和高度可配置脚本著称",
+  "hash": "4739f1af7d560681",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mrdoob/three.js": {
+  "summary": "基于 WebGL 的 JavaScript 3D 引擎，可在浏览器中构建 3D 场景、VR 与 AR 体验，支持 Canvas、SVG 和 WebAudio",
+  "hash": "c79c222fbd4e163f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mutouyun/cpp-ipc": {
+  "summary": "基于共享内存的高性能 C++17 进程间通信库，支持 Linux 与 Windows",
+  "hash": "e5c9f2ef21235d54",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "mzlogin/awesome-adb": {
+  "summary": "汇总 ADB 常用命令与用法，涵盖设备连接、应用管理、文件传输、日志调试等 Android 开发调试场景",
+  "hash": "d8d37b79ee2a1261",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nanomsg/nanomsg": {
+  "summary": "C 语言编写的轻量级消息传递库，提供多种可扩展协议模式，支持进程内与跨网络通信",
+  "hash": "f8808bdd59e6d8b4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nbedos/termtosvg": {
+  "summary": "用 Python 把终端会话录制成 SVG 动画，可嵌入网页，无需视频格式",
+  "hash": "fe80ef6720f2dfa6",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "netdata/netdata": {
+  "summary": "面向精益团队的 AI 全栈可观测性平台，用 Go 编写，支持实时监控、告警与数据可视化，兼容 Docker 和 Grafana",
+  "hash": "a8d6b7c19244ce5f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "netnr/kms": {
+  "summary": "基于 vlmcsd 的 KMS 激活服务，用 slmgr 命令激活 Windows 与 Office",
+  "hash": "370bed0a33bbb944",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "niedev/RTranslator": {
+  "summary": "基于 ONNX Runtime 与 NLLB 模型的 Android 本地实时翻译应用，支持蓝牙 LE 耳机，无需联网",
+  "hash": "04e23800d3a8a6e1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nilstate/icey": {
+  "summary": "基于 C++20 的实时媒体栈，轻量级 libwebrtc 替代方案",
+  "hash": "0b3b1acd4b0fe990",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nims11/IPod-Shuffle-4g": {
+  "summary": "用 Python 管理第四代 iPod Shuffle 的歌曲与播放列表",
+  "hash": "2a706bcf9f20a729",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nivance/DPModel": {
+  "summary": "《设计模式之禅》原书 Java 源码，涵盖 23 种经典设计模式的实现范例，适合对照书本学习",
+  "hash": "4816299d8b1d3441",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nlohmann/json": {
+  "summary": "现代 C++ 的 header-only JSON 库，支持解析、序列化及 BSON、CBOR、JSON Patch 等格式",
+  "hash": "9a93095ee3df6c74",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nondanee/UnblockNeteaseMusic": {
+  "summary": "为网易云音乐解锁灰色歌曲，基于 Node.js 代理服务器，支持自定义音源替换",
+  "hash": "9ca21557d234ef6e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nothings/stb": {
+  "summary": "单文件公共领域 C/C++ 库集合，涵盖图像解码、字体渲染、音频处理等，即拖即用无需构建",
+  "hash": "10dcb672d5a50cdb",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nushell/nushell": {
+  "summary": "用 Rust 编写的结构化数据处理 shell，将文件和命令输出视为表格，支持管道式操作与跨平台运行",
+  "hash": "6f30c27786be4ad0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nwtime/linuxptp": {
+  "summary": "Linux 平台 IEEE 1588 精确时间协议实现，用 C 编写，支持 PTP 硬件时间戳与普通时钟、边界时钟、透明时钟",
+  "hash": "151f9c1f25d9c557",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "nyakang/nyaterm": {
+  "summary": "基于 Tauri 和 React 的现代远程终端工作区，集成 SSH、SFTP 与串口连接，支持 OTP 认证",
+  "hash": "261ccbbf4e937726",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ocornut/imgui": {
+  "summary": "轻量级 C++ 即时模式 GUI 库，无冗余依赖，适合游戏引擎与工具开发",
+  "hash": "4df8914aa1fe76e1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "oh-my-fish/oh-my-fish": {
+  "summary": "为 Fish Shell 提供插件管理、主题与提示符定制的框架，类似 oh-my-zsh，用 Shell 编写",
+  "hash": "204a82947972370c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ohmybash/oh-my-bash": {
+  "summary": "社区驱动的 Bash 配置管理框架，内置自动更新工具，支持主题和插件扩展，让终端更高效",
+  "hash": "e3cda4a585b32a15",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "olikraus/u8g2": {
+  "summary": "面向单色 OLED 与 LCD 的嵌入式图形库，内置多种字体，支持 Arduino 等微控制器平台",
+  "hash": "c3c02b69ba70420e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ooolabdev/ooosplat": {
+  "summary": "本地桌面应用，一键将视频和图片转为 3D Gaussian Splatting 模型，基于 Rust 构建",
+  "hash": "2fbca96d7e829155",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "opencv/opencv": {
+  "summary": "开源计算机视觉库，提供图像处理、目标检测与深度学习推理等 C++ 与 Python 接口",
+  "hash": "f43a2463dbf554af",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "opendatalab/MinerU": {
+  "summary": "将 PDF、Office 等复杂文档转为 LLM 可用的 Markdown/JSON，基于 Python，支持 OCR 与版面分析，服务 Agentic 工作流",
+  "hash": "f557ea236187292c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "openframeworks/openFrameworks": {
+  "summary": "社区驱动的跨平台 C++ 创意编程工具包，支持图形、音频、计算机视觉，可部署到 iOS、Android、Linux 及 Emscripten",
+  "hash": "d06cc174baf09504",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "openxc/isotp-c": {
+  "summary": "用 C 实现 ISO-TP（ISO15765-2）CAN 协议栈，支持多帧收发与流控",
+  "hash": "5e50000c842dfa47",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "openxc/uds-c": {
+  "summary": "用 C 实现汽车统一诊断服务 UDS 与 OBD-II 协议的库",
+  "hash": "4db86608b09a2690",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "openxc/vi-firmware": {
+  "summary": "为 PIC32 和 LPC1768 微控制器提供兼容 OpenXC 的车辆数据采集固件，用 C++ 编写",
+  "hash": "409a4a76a83ae030",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "orangeduck/Cello": {
+  "summary": "用 C 语言实现的高层编程库，提供动态类型、lambda 表达式和 GC 等特性，让 C 代码更接近脚本语言",
+  "hash": "97de9399f50ee0c2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "orhanobut/logger": {
+  "summary": "为 Android 打造的简洁美观日志库，支持 JSON 格式化、线程信息与 Logcat 输出，兼容 Timber",
+  "hash": "7579e17412a3833e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ossrs/srs": {
+  "summary": "高性能实时媒体服务器，支持 RTMP、WebRTC、HLS、SRT、GB28181 等协议及 H.264/H.265/AV1 编解码，AI 驱动，C++ 编写",
+  "hash": "8140cf00dd8810ad",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pablostanley/yoinks": {
+  "summary": "终端下载任意视频的 TypeScript 工具，无广告骚扰",
+  "hash": "004b1a0d57cba555",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "peng-zhihui/HoloCubic": {
+  "summary": "基于ESP32的伪全息透明桌面显示站，支持WiFi联网，用C语言开发",
+  "hash": "cb61e35c07fbd58d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pezy/LeetCode": {
+  "summary": "用 C++11 和 Python3 实现 LeetCode 题解，附带思路笔记",
+  "hash": "110f446870e25a10",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pfalcon/awesome-micropython": {
+  "summary": "精选 MicroPython 资源合集，涵盖嵌入式与 IoT 开发库、工具、教程及项目",
+  "hash": "17d20c72c7be401a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pfalcon/pycopy": {
+  "summary": "极简省内存的 Python 方言，用 C 实现，可跑在桌面、云端、嵌入式、单片机和 IoT 设备上",
+  "hash": "9ba5f71a01984a46",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pfalcon/pycopy-lib": {
+  "summary": "Pycopy 项目的标准库，为极简轻量级 Python 实现提供核心模块",
+  "hash": "5db6d30a355f6458",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "phaselden/FlipIt": {
+  "summary": "用 C# 编写的翻页时钟屏保，模拟经典机械翻页效果",
+  "hash": "c4d94aa41190fe2b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "phoboslab/jsmpeg": {
+  "summary": "纯 JavaScript 实现的 MPEG1 视频解码器，可在浏览器中直接解码播放 MPEG1 视频流",
+  "hash": "6bd35dd8e5e77d72",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "phodal/lan": {
+  "summary": "基于 JavaScript 的物联网服务层，支持 CoAP、WebSocket、MQTT、HTTP 协议接入",
+  "hash": "48e70c7cd9c99465",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pipipi-pikachu/PPTist": {
+  "summary": "基于 Vue 的在线 PPT 应用，复刻 PowerPoint 常用功能，支持在线编辑演示、AIPPT 和本地 PPTX 预览",
+  "hash": "4dce98032b8cc208",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pjsip/pjproject": {
+  "summary": "基于 C 语言的多媒体通信库，实现 SIP、RTP 等 VoIP 协议，支持 NAT 穿透，可跨 Android、iOS 等平台构建语音视频通话应用",
+  "hash": "4aba3a489f8c8e36",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pocoproject/poco": {
+  "summary": "跨平台 C++ 库，用于构建桌面、服务器、移动、IoT 和嵌入式网络应用，涵盖 HTTP、JSON、日志、数据库访问等模块",
+  "hash": "4c60fb60d00c3099",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "portainer/portainer": {
+  "summary": "基于 TypeScript 的 Docker 与 Kubernetes 可视化管理界面，支持容器、镜像、Swarm 和 Compose 的部署与监控",
+  "hash": "a1c3e55aac4572b7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "programthink/books": {
+  "summary": "涵盖多学科的电子书资源清单，附下载链接，由编程随想整理",
+  "hash": "720a86e63e0a8de8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "pwr-Solaar/Solaar": {
+  "summary": "Linux 下管理罗技设备的 Python 工具，支持 Unifying 接收器与蓝牙连接，可配置按键、手势和电池状态",
+  "hash": "d7bb767635909f09",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "qier222/YesPlayMusic": {
+  "summary": "基于 Electron 和 Vue 的高颜值第三方网易云音乐播放器，支持 Windows、macOS 和 Linux",
+  "hash": "8a3d10a56ae5ef5c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "quiet/quiet": {
+  "summary": "用声波传输数据的 C 语言调制解调器，支持声卡和 .wav 文件，可实现超声波通信",
+  "hash": "ba9c72fb5cfb4e67",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "r-lyeh/single_file_libs": {
+  "summary": "收录大量单文件 C/C++ 库，侧重无条款限制的宽松许可证",
+  "hash": "f78a7c43f348c8b0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "raas/mbw": {
+  "summary": "用C语言编写的内存带宽基准测试工具，可测量顺序、随机等不同访问模式下的内存读写性能",
+  "hash": "0287f6f9730226cf",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rachitiitr/modern-cpp-tricks": {
+  "summary": "汇总 C++ 现代特性技巧，助力编程面试与算法竞赛",
+  "hash": "742b90515438866c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ranchlai/mandarin-tts": {
+  "summary": "基于 PyTorch 实现 FastSpeech 2 的中文普通话语音合成，用 WaveGlow 声码器，支持标贝和 AISHELL-3 数据集",
+  "hash": "0f12338f31c5bede",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rdnetto/YCM-Generator": {
+  "summary": "为 YouCompleteMe 自动生成配置文件，用 Python 编写，省去手动配置的麻烦",
+  "hash": "386ce63e8c0c834b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "redguardtoo/mastering-emacs-in-one-year-guide": {
+  "summary": "一年内从零掌握 Emacs 的进阶指南，涵盖配置、插件与高效工作流",
+  "hash": "f9a8ac5e91ddef43",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rm-hull/8-bit-trip": {
+  "summary": "基于 TypeScript 与 WebAudio 的算法音乐流媒体，实时生成 8-bit 风格旋律",
+  "hash": "9853b4d6ea80c67c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rm-hull/luma.led_matrix": {
+  "summary": "Python 驱动 MAX7219 LED 点阵与 7 段数码管及 WS2812/APA102 RGB 灯珠，支持树莓派 SPI 接口",
+  "hash": "b122b407d81c63cd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rm-hull/luma.oled": {
+  "summary": "Python 驱动 SSD1306、SH1106 等常见 OLED 屏，支持 I2C 与 SPI 接口，适用于树莓派",
+  "hash": "85e83e2fecaa7ef8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rofl0r/proxychains-ng": {
+  "summary": "通过 LD_PRELOAD 劫持动态链接程序的 socket 调用，将流量重定向到 SOCKS/HTTP 代理，是已停止维护的 proxychains 的续作，",
+  "hash": "a03450d911786404",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rogaha/docker-desktop": {
+  "summary": "基于 Docker 的远程虚拟桌面，内置 Firefox 和 LibreOffice，支持无 root 运行与 SSH 访问",
+  "hash": "361d3abd4bed175e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "roleoroleo/onvif_simple_server": {
+  "summary": "用 C 编写的轻量级 ONVIF 服务器，专为资源受限设备设计",
+  "hash": "dbab10d9c08f26a7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ruanyf/document-style-guide": {
+  "summary": "阮一峰制定的中文技术文档写作规范，涵盖标题、段落、标点、代码等排版约定",
+  "hash": "94770a9de9a1a055",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ruanyf/es6tutorial": {
+  "summary": "全面讲解 ECMAScript 6 新增语法特性的开源 JavaScript 教程，由阮一峰编写",
+  "hash": "48ac94faf2ee5f57",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rustdesk/rustdesk": {
+  "summary": "开源远程桌面应用，支持自托管，可替代 TeamViewer，基于 Rust 与 Flutter 构建，覆盖 Windows、macOS、Linux、iOS、An",
+  "hash": "52721e743c776e1a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "rxi/microui": {
+  "summary": "用 C 编写的微型即时模式 UI 库，代码极小、无依赖，适合嵌入游戏或工具中快速搭建界面",
+  "hash": "a5ae9a867da25aab",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ryanoasis/vim-devicons": {
+  "summary": "为 NERDTree、vim-airline、CtrlP 等 Vim 插件添加文件类型图标，基于 Nerd Fonts 字形",
+  "hash": "072e3f5855a26495",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sameersbn/docker-gitlab": {
+  "summary": "用 Docker 一键部署 GitLab CE 的容器镜像，基于 Shell 脚本，简化自建代码托管平台的安装与配置",
+  "hash": "fff80e03462e78cc",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "scottlamb/retina": {
+  "summary": "基于 Rust 的高层 RTSP 多媒体流库，面向 IP 摄像头，简化实时视频流的拉取与处理",
+  "hash": "d4964937dc5174bb",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "scottlawsonbc/audio-reactive-led-strip": {
+  "summary": "用 Python 和 ESP8266 或树莓派实时把音乐节奏变成 LED 灯带律动",
+  "hash": "7eaefa4aa69ec55f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "seppo0010/rlite": {
+  "summary": "自包含、无服务器、零配置、支持事务的 Redis 兼容数据库引擎，用 C 编写，堪称 Redis 界的 SQLite",
+  "hash": "8fa594618521b077",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sgl-org/sgl": {
+  "summary": "面向嵌入式系统的现代 C 语言 GUI 库，轻量高效，适合资源受限设备",
+  "hash": "a728d39fe55505af",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "shadowsocks/ShadowsocksX-NG": {
+  "summary": "macOS 平台基于 Swift 开发的 Shadowsocks 客户端，支持 kcptun 和 v2ray-plugin 插件",
+  "hash": "62216e75822a023f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "shiaho777/web-to-app": {
+  "summary": "Android 上功能最全的网页转 App 工具包，用 Kotlin 打造，在手机上即可完成 APK 制作全流程",
+  "hash": "826929ed7d759ef4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "shichaog/WebRTC-audio-processing": {
+  "summary": "基于 WebRTC 的 C++ 音频处理库，实现回声消除、降噪与自动增益控制",
+  "hash": "742a127d9c931875",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "siddharthvaddem/openscreen": {
+  "summary": "免费开源的屏幕录制与演示制作工具，基于 Electron 与 PixiJS，无水印无订阅，可商用，Screen Studio 的替代品",
+  "hash": "6e0719299ae03b2c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "signalwire/freeswitch": {
+  "summary": "开源软件定义电信栈，用 C 实现 SIP 与 VoIP 通信，可在树莓派到多核服务器等任意通用硬件上替代专有交换机",
+  "hash": "f606d16c2867e9e5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sindresorhus/awesome-electron": {
+  "summary": "汇集用 Electron 构建跨平台桌面应用所需的工具、库、教程与示例资源，是精选的 awesome 清单",
+  "hash": "5ca54456ca537519",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sindresorhus/quick-look-plugins": {
+  "summary": "为开发者整理的 macOS Quick Look 插件清单，可快速预览代码、Markdown、JSON、压缩包等文件内容",
+  "hash": "da0207289cd0a4a4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sipeed/picoclaw": {
+  "summary": "基于 Go 的轻量级 AI 助手，体积小、速度快，可部署在任何环境，自动处理琐事",
+  "hash": "7f81fbd09860bc45",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "slint-ui/slint": {
+  "summary": "开源声明式 GUI 工具包，用 Rust 编写，可为 Rust、C++、JavaScript 或 Python 应用构建原生界面，支持桌面与嵌入式设备",
+  "hash": "08d6f02fa235618f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "slopus/happy": {
+  "summary": "一个 TypeScript 应用，统一调度 Claude、Codex 和 Grok，复用你已付费的订阅，MIT 开源",
+  "hash": "60ef525c2290266f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "spf13/spf13-vim": {
+  "summary": "终极 Vim 配置发行版，集成插件、配色与快捷键，开箱即用",
+  "hash": "cd67f49195c56b3e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "square/leakcanary": {
+  "summary": "Android 内存泄漏检测库，自动监控并生成引用链报告，支持 Java 与 Kotlin",
+  "hash": "6cf687b38eeaf224",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sr99622/libonvif": {
+  "summary": "用 C++ 实现的 Python ONVIF 库，附带实用工具程序",
+  "hash": "50234a70b7b6bc8f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "starship/starship": {
+  "summary": "用 Rust 编写的极速极简命令行提示符，支持 bash、fish、zsh、PowerShell 等任意 shell，可无限自定义",
+  "hash": "c0f71e34c421f484",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "stayradiated/termcolors": {
+  "summary": "用 JavaScript 实现终端配色方案多格式互转，支持导入导出",
+  "hash": "1a262b2b3a7ebac9",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "storytold/photocraft": {
+  "summary": "纯 Rust 从零编写的开源照片编辑器，支持图像编辑与处理",
+  "hash": "c9ebc5801fce432e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "subframe7536/maple-font": {
+  "summary": "开源等宽编程字体，圆角设计，支持连字与 Nerd-Font 图标，中英文宽度 2:1，可细粒度自定义，适用于 IDE 和终端",
+  "hash": "43dfbaaee1f85d33",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sumary/dmusic-plugin-baidumusic": {
+  "summary": "为 Deepin Music Player 提供百度音乐插件，用 Python 编写，可直接搜索播放在线歌曲",
+  "hash": "7415e345e37f41b0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sunao2002002/mem_proc": {
+  "summary": "用C实现的内存进程管理工具，支持进程内存读写与调试",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "sunnyyoung/WeChatTweak": {
+  "summary": "命令行工具，拦截微信 macOS 客户端撤回消息并支持多开，Swift 编写，兼容 Alfred 与 Raycast",
+  "hash": "22f08128cf6833b1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "suno-ai/bark": {
+  "summary": "基于文本提示生成逼真多语言语音及音效的Transformer音频模型，支持笑声、音乐等非语言声音",
+  "hash": "2678a0c0aca9bd96",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "suxuang/myIPTV": {
+  "summary": "高清直播源覆盖几乎所有卫视，内置台标与节目预告，支持 IPTV 播放",
+  "hash": "c5ab7ee959cbc7a3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "symisc/ascii_art": {
+  "summary": "纯C实现的实时ASCII艺术渲染库，可将图像转为字符画，适用于嵌入式与图像处理场景",
+  "hash": "98a0060df2bd1846",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "taggon/highlight": {
+  "summary": "为 Keynote 幻灯片提供丰富语法高亮，基于 Swift 开发，支持 RTF 输出",
+  "hash": "2df7b77781685405",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tailscale/tailscale": {
+  "summary": "基于 WireGuard 的零配置 VPN，支持 2FA、OAuth 和 SSO，用 Go 编写",
+  "hash": "e6879bb33c8c6f68",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "taizilongxu/douban.fm": {
+  "summary": "基于 Python 的豆瓣 FM 命令行客户端，支持电台播放与频道切换",
+  "hash": "2aa1726409c0bc93",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "taka-no-me/android-cmake": {
+  "summary": "为 Android NDK 提供 CMake 工具链文件及配套脚本，简化交叉编译配置",
+  "hash": "690839e4b11e7b52",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tboox/tbox": {
+  "summary": "类 glib 的跨平台 C 库，涵盖容器、算法、协程、迭代器、JSON、网络与 plist 解析",
+  "hash": "04bd02a9be0b169b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "the-open-agent/openagent": {
+  "summary": "基于 LLM、RAG 与 agent 循环的下一代个人 AI 助手，用 Go 编写，支持 computer-use、browser-use 和编码 agent",
+  "hash": "76258a6de8110907",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "thunil/TecoGAN": {
+  "summary": "基于 Python 的时序连贯 GAN，用视频超分辨率生成细节丰富且帧间稳定的高清画面，出自 SIGGRAPH 论文",
+  "hash": "aa439a4d6be5971d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tjumyk/sdl-tutorial-cn": {
+  "summary": "Lazy Foo 的 SDL 1.2 游戏开发教程中文翻译，HTML 编写，适合入门学习",
+  "hash": "f1924e7062be3bc9",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tmux-plugins/tmux-resurrect": {
+  "summary": "保存并恢复 tmux 会话、窗口、面板及运行中的程序，重启系统后环境不丢失，纯 Shell 实现",
+  "hash": "80bc6748983bb9a4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tmux-python/libtmux": {
+  "summary": "用 Python 封装 tmux 的 API 库，可在脚本中编程控制会话、窗口和面板",
+  "hash": "b2de0944fd9e56fb",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tonarino/pulseaudio-webrtc-audio-processing": {
+  "summary": "基于 Google WebRTC 实现的音频处理库，为 PulseAudio 提供回声消除、降噪与自动增益控制",
+  "hash": "1d132086c23bb5b6",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tothi/pwn-hisilicon-dvr": {
+  "summary": "针对海思芯片DVR设备的漏洞利用工具，Python编写，含固件提取与远程代码执行",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "trezor-graveyard/trezor-qrenc": {
+  "summary": "已废弃的 Trezor 硬件钱包二维码生成器，用 C 语言编写，请勿使用",
+  "hash": "47cab1e96f97cf20",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "troglobit/sysklogd": {
+  "summary": "面向 Linux/BSD 的 syslog 守护进程，用 syslog()/syslogp() 结构化日志 API 替代传统方案，支持 RFC3164 与 RF",
+  "hash": "2319e7a6d116cb7c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tsingsee/EasyPlayer": {
+  "summary": "免费高效的流媒体播放器，支持 RTSP、RTMP、HLS、HTTP 协议，覆盖 Android、iOS 等平台",
+  "hash": "3d9c4951e0987b63",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "tt-a1i/archify": {
+  "summary": "把想法、方案或代码库转成精美交互式架构图，支持 Claude Code、Codex 等编码智能体的 Agent Skill",
+  "hash": "7f82821cc18c4866",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "uNetworking/uWebSockets": {
+  "summary": "高性能 C++ Web 服务器，支持 WebSocket、发布订阅与代理协议，跨平台且符合标准",
+  "hash": "001396c753096c91",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "upx/upx": {
+  "summary": "跨平台可执行文件压缩加壳工具，支持多架构与格式，压缩率高且解压速度快",
+  "hash": "72bf0fdbf5fc0400",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "vczh-libraries/GacUI": {
+  "summary": "原生 C++ 跨平台 UI 库，支持 MVVM 数据绑定、XML 描述界面与多语言，核心与渲染器跨进程分离",
+  "hash": "dc201e8eca833578",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "virinext/hevcesbrowser": {
+  "summary": "用 C++ 编写的 HEVC (H.265) 码流分析工具，可解析比特流结构",
+  "hash": "c0b6c2165cd6d3c9",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "vnotex/vnote": {
+  "summary": "基于原生 C++ 的 Markdown 笔记平台，支持 Vim 模式、MathJax 公式与 UML 图表",
+  "hash": "f0dc2ca26c303369",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "vurtun/nuklear": {
+  "summary": "单头文件 ANSI C 即时模式 GUI 库，兼容 C89，无需依赖，适合嵌入游戏与工具",
+  "hash": "249c29b97f2a09d4",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "w7corp/easywechat": {
+  "summary": "PHP 微信 SDK，封装公众号、小程序、支付、开放平台等全模块 API，开箱即用",
+  "hash": "9041220c1edfb2c9",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "wang-bin/QtAV": {
+  "summary": "基于 Qt 和 FFmpeg 的跨平台高性能音视频播放框架，支持 C++ 开发，推荐迁移至新 SDK mdk-sdk",
+  "hash": "d616d4d968397943",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "wangdoc/javascript-tutorial": {
+  "summary": "阮一峰编写的开源 JavaScript 教程，涵盖语法、标准库与浏览器 API，适合系统学习与查阅",
+  "hash": "a4625b40f481fee8",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "warmcat/libwebsockets": {
+  "summary": "轻量级可嵌入的 C 网络库，支持 HTTP/2、WebSocket 及 libev/libevent，适用于 FreeRTOS 等嵌入式场景",
+  "hash": "1e0e7c1552105efd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "waywardgeek/sonic": {
+  "summary": "用C编写的轻量库，可加速或减速语音播放而不改变音调",
+  "hash": "47a80a1df76db8dd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "wechaty/wechaty": {
+  "summary": "TypeScript 编写的对话式 RPA SDK，六行代码即可接入微信、QQ 等平台构建聊天机器人",
+  "hash": "d81a5ad0f9a9b7ca",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "widuu/chinese_docker": {
+  "summary": "Docker 中文文档，系统讲解镜像、容器、仓库等核心概念与命令用法",
+  "hash": "a80b922e4b822748",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "worldveil/photomosaic": {
+  "summary": "用机器学习与相似度搜索把家庭照片拼成趣味马赛克、GIF和壁画，基于 Jupyter Notebook 实现",
+  "hash": "4f98c73d4e7beec2",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "wzpan/wukong-robot": {
+  "summary": "简单灵活的中文语音对话机器人，支持ChatGPT多轮对话与脑机交互，基于Python，可作智能音箱",
+  "hash": "e2509128e7df4617",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "x-hw/amazing-qr": {
+  "summary": "用 Python 生成艺术化二维码，支持彩色图片与 GIF 动态二维码",
+  "hash": "9fd5242532ed67ae",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "xcLee001/SonicVale": {
+  "summary": "基于 Python 的多角色多情绪 AI 配音平台，可自动为小说、剧本、视频生成配音并导出",
+  "hash": "327924912a19dc8b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "xfangfang/Macast": {
+  "summary": "跨平台 DLNA 媒体渲染器，以 mpv 为播放核心，支持 Windows、macOS 和 Linux",
+  "hash": "181be953f4fd7291",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "xianweics/refator-code": {
+  "summary": "基于 Martin Fowler 重构理念，系统讲解改善既有代码设计的手法与实战技巧",
+  "hash": "004ccc776486cf17",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "xmake-io/xmake": {
+  "summary": "基于 Lua 的跨平台构建工具，支持 C/C++、交叉编译，可替代 CMake",
+  "hash": "3a8f6b9b89240c57",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "xuanli199/weekly": {
+  "summary": "收录玄离199每周科技补全视频提及的软件与项目，TypeScript 整理，方便查找",
+  "hash": "f647fc25728ae2c5",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "xuxiaodong/awesome-shell": {
+  "summary": "精选 Shell 脚本、命令行工具与框架的中文资源合集，涵盖 Bash、Zsh 等实用技巧",
+  "hash": "ea09c70a2c4a116b",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "xuxiaodong/tmuxen": {
+  "summary": "用 Shell 脚本简化 tmux 环境配置，一键管理会话与窗口布局",
+  "hash": "2443c71216a3b14a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "xyz347/x2struct": {
+  "summary": "支持 JSON、BSON、XML 与 C++ 结构体互转的 header-only 库，基于 C++ 模板实现",
+  "hash": "311c957df247aa7a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "youkaichao/onenote-to-markdown": {
+  "summary": "用 Python 脚本把 OneNote 笔记批量导出为 Markdown 文件，便于迁移到其他笔记工具",
+  "hash": "eff50e1d57513d9a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "yzhu798/CodingInterviewsNotes": {
+  "summary": "涵盖C++基础、智能指针、C++11、STL、设计模式、算法刷题与Linux、网络、数据库等面试知识，含剑指offer和LeetCode题解",
+  "hash": "df56d37285dc3608",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zaphoyd/websocketpp": {
+  "summary": "基于C++的WebSocket客户端与服务器库，支持RFC6455协议，可跨平台运行",
+  "hash": "eb5bcd59e6196357",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zellij-org/zellij": {
+  "summary": "Rust 编写的终端复用器与工作区，开箱即用，支持多路复用、布局和插件",
+  "hash": "ba2e1fd96d7eadc0",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zeroclaw-labs/zeroclaw": {
+  "summary": "基于 Rust 的轻量高速全自主 AI 个人助理基础设施，跨 OS 跨平台部署，组件可自由替换",
+  "hash": "b36421cf9aa17045",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zeromq/libzmq": {
+  "summary": "C++ 实现的高性能异步消息库，支持 ZMTP/3.1 协议，提供发布订阅、推拉等多种并发通信模式",
+  "hash": "633c943a1d3dcb2e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zhaojh329/rtty": {
+  "summary": "通过 Web 远程访问设备终端，支持穿透 NAT 与 HTTP 代理，实现远程 Shell、控制台和调试，C 语言编写",
+  "hash": "646b06bde43324b3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zhuifengshen/DingtalkChatbot": {
+  "summary": "Python 封装钉钉群自定义机器人，支持文本、链接、Markdown、ActionCard 等多种消息类型",
+  "hash": "8ab5605726131ae1",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zhw2590582/FlvPlayer": {
+  "summary": "用 JavaScript 将 FLV 视频流解码到 canvas 播放，支持 H.264、AAC 与 HTTP-FLV",
+  "hash": "1a22e50c56672a75",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zibo-chen/SubnetDesk": {
+  "summary": "基于 RustDesk 的局域网远程桌面，用 mDNS 自动发现设备，Flutter 界面，数据不出内网",
+  "hash": "981cbff51b4510dd",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zijie0/HumanSystemOptimization": {
+  "summary": "从睡眠、饮食、运动到情绪管理，系统梳理人体调优方法，助你健康活到150岁",
+  "hash": "f47ede57f0b80fde",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "zlgopen/awtk": {
+  "summary": "跨平台嵌入式 GUI 工具包，用 C 语言编写，支持 RT-Thread、LiteOS、STM32 等多种 RTOS 与芯片平台",
+  "hash": "61daf4fd61b0fa4c",
+  "model": "deepseek-flash",
+  "manual": false
+ }
+}

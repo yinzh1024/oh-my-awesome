@@ -27,12 +27,15 @@ def slugify(text: str) -> str:
     return slug.replace(" ", "-")
 
 
-def _entry(repo: StarredRepo) -> str:
+def _entry(repo: StarredRepo, summary: str = "", keep_original: bool = False) -> str:
     parts = [f"- [{repo.full_name}]({repo.html_url}) `★{format_stars(repo.stars)}`"]
-    if repo.description:
-        desc = repo.description.replace("\n", " ").strip()
+    original = repo.description.replace("\n", " ").strip()
+    desc = summary.strip() or original
+    if desc:
         parts.append(f"- {desc}")
     line = " ".join(parts)
+    if keep_original and summary.strip() and original:
+        line += f" ｜ {original}"
     if repo.language:
         line += f" · {repo.language}"
     if repo.archived:
@@ -40,7 +43,18 @@ def _entry(repo: StarredRepo) -> str:
     return line
 
 
-def render_nav(config: Config, result: Classification, fetched_at: str = "") -> str:
+def render_nav(
+    config: Config,
+    result: Classification,
+    fetched_at: str = "",
+    summaries: dict[str, str] | None = None,
+) -> str:
+    summaries = summaries or {}
+    keep_original = config.llm.keep_original
+
+    def entry(repo: StarredRepo) -> str:
+        return _entry(repo, summaries.get(repo.full_name, ""), keep_original)
+
     categories = [c for c in config.categories if result.groups.get(c.name)]
     names = [c.name for c in categories]
     total = sum(len(result.groups[n]) for n in names) + len(result.groups.get(UNCATEGORIZED, []))
@@ -68,7 +82,7 @@ def render_nav(config: Config, result: Classification, fetched_at: str = "") -> 
         if cat.description:
             lines.append(f"_{cat.description}_")
             lines.append("")
-        lines.extend(_entry(r) for r in result.groups[cat.name])
+        lines.extend(entry(r) for r in result.groups[cat.name])
         lines.append("")
 
     if result.groups.get(UNCATEGORIZED):
@@ -76,7 +90,7 @@ def render_nav(config: Config, result: Classification, fetched_at: str = "") -> 
         lines.append("")
         lines.append("_尚未归类，可在 config.yaml 中通过 topics / overrides 配置分类。_")
         lines.append("")
-        lines.extend(_entry(r) for r in result.groups[UNCATEGORIZED])
+        lines.extend(entry(r) for r in result.groups[UNCATEGORIZED])
         lines.append("")
 
     lines.append(END_MARK)

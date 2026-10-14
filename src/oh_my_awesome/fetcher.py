@@ -20,19 +20,28 @@ class FetchError(Exception):
     pass
 
 
-def load_token(root: Path) -> str:
-    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    if token:
-        return token.strip()
+def load_env_value(root: Path, key: str) -> str | None:
+    """Read `key` from environment, falling back to <root>/.env."""
+    value = os.environ.get(key)
+    if value and value.strip():
+        return value.strip()
     env_file = root / ".env"
     if env_file.exists():
         for line in env_file.read_text(encoding="utf-8").splitlines():
             line = line.strip()
             if not line or line.startswith("#") or "=" not in line:
                 continue
-            key, _, value = line.partition("=")
-            if key.strip() in ("GITHUB_TOKEN", "GH_TOKEN") and value.strip():
-                return value.strip()
+            name, _, val = line.partition("=")
+            if name.strip() == key and val.strip():
+                return val.strip()
+    return None
+
+
+def load_token(root: Path) -> str:
+    for key in ("GITHUB_TOKEN", "GH_TOKEN"):
+        value = load_env_value(root, key)
+        if value:
+            return value
     raise FetchError(
         "no token found: set GITHUB_TOKEN env var, put GITHUB_TOKEN=... in .env, "
         "or define the STARS_TOKEN repository secret for GitHub Actions"

@@ -38,4 +38,5 @@ jobs:
       - name: Sync README and push
         env:
           GITHUB_TOKEN: ${{ secrets.STARS_TOKEN }}
-        run: oh-my-awesome sync --push
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: oh-my-awesome sync --llm --push

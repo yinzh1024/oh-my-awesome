@@ -131,3 +131,18 @@ overrides:
 
 # 排除不想要的仓库（fork、临时收藏等）
 exclude: []
+
+# LLM 中文摘要（OpenAI 兼容接口，换供应商只需改 base_url/model/extra_body）
+llm:
+  enabled: true
+  base_url: https://api.deepseek.com
+  model: deepseek-flash
+  api_key_env: DEEPSEEK_API_KEY # 从环境变量或 .env 读取
+  source: description           # description | readme（readme 模式额外抓取 README 截断）
+  max_readme_chars: 1500
+  max_per_run: 60               # 每次运行最多新生成条数（按 star 优先），防成本跑飞
+  concurrency: 5
+  keep_original: false          # true 时中文摘要后追加英文原描述
+  extra_body:
+    thinking: { type: disabled } # DeepSeek 专属：关闭思维链省钱；换其他供应商时删掉此项
+
