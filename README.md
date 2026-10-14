@@ -17,7 +17,7 @@ oh-my-awesome sync --llm --push  # 拉取 → 摘要 → 分类 → 生成 READM
 ```
 
 <!-- oh-my-awesome:begin -->
-> 共 **454** 个项目 · 最后更新：2026-10-14 02:58 UTC · 数据采集：2026-10-14 02:58 UTC
+> 共 **454** 个项目 · 最后更新：2026-10-14 03:24 UTC · 数据采集：2026-10-14 03:24 UTC
 
 ## 目录
 
@@ -63,13 +63,13 @@ _大模型、Agent、语音与视觉 AI 工程实践_
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) `★278.7k` - 为 Claude Code、Codex、Cursor 等 AI 编程代理提供技能、记忆、安全与性能优化的 harness 系统 · JavaScript
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) `★253.5k` - 基于Python的AI代理框架，支持Anthropic、ChatGPT、Claude等模型，可随使用不断成长进化 · Python
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) `★249.1k` - 基于 TypeScript 的 AI Agent 框架，一切皆插件，支持 cordis 依赖注入与 dsh 插件生态 · TypeScript
-- [morluto/rea](https://github.com/morluto/rea) `★211.7k` - 用 AI agent 逆向分析应用行为与原生二进制，TypeScript 编写的 CLI 工具，支持 Claude Code 和 Codex，适用于 CTF · TypeScript
+- [morluto/rea](https://github.com/morluto/rea) `★212.6k` - 用 AI agent 逆向分析应用行为与原生二进制，TypeScript 编写的 CLI 工具，支持 Claude Code 和 Codex，适用于 CTF · TypeScript
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) `★165k` - 基于 Gradio 的 Stable Diffusion 浏览器界面，支持文生图、图生图与插件扩展 · Python
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `★130.5k` - 输入主题或关键词，用 LLM 加自动化流程一键生成高清短视频，Python 实现，支持字幕与 FFmpeg 合成 · Python
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `★130.6k` - 输入主题或关键词，用 LLM 加自动化流程一键生成高清短视频，Python 实现，支持字幕与 FFmpeg 合成 · Python
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) `★97k` - 让 AI agent 用一条 CLI 读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书，零 API 费用 · Python
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) `★92.2k` - 融合前沿 RAG 与 Agent 能力的开源检索引擎，为 LLM 构建优质上下文层，支持智能体检索与搜索 · Go
 - [opencv/opencv](https://github.com/opencv/opencv) `★91.2k` - 开源计算机视觉库，提供图像处理、目标检测与深度学习推理等 C++ 与 Python 接口 · C++
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `★91k` - 轻量级 OCR 工具包，将 PDF 或图片转为结构化数据，支持 100 多种语言，衔接图像与 LLM · Python
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `★91.1k` - 轻量级 OCR 工具包，将 PDF 或图片转为结构化数据，支持 100 多种语言，衔接图像与 LLM · Python
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) `★86.2k` - 把任意代码转成可交互知识图谱，支持探索、搜索与提问，兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等，TypeS · TypeScript
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) `★83.1k` - 把想法、方案或代码库转成精美交互式架构图，支持 Claude Code、Codex 等编码智能体的 Agent Skill · JavaScript
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) `★81.7k` - 将 PDF、Office 等复杂文档转为 LLM 可用的 Markdown/JSON，基于 Python，支持 OCR 与版面分析，服务 Agentic 工作流 · Python
@@ -77,7 +77,7 @@ _大模型、Agent、语音与视觉 AI 工程实践_
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) `★70k` - 输入 mass ulw 关键词即可调度多 AI 代理做图工程，TypeScript 编写，兼容 Claude、ChatGPT、Codex 等 · TypeScript
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) `★64.3k` - 为 Claude Code 打造的轻量级元提示与上下文工程系统，用规范驱动开发流程 · JavaScript _(archived)_
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) `★62.9k` - 用 HTML 写动画，经 Puppeteer 与 FFmpeg 渲染成视频，内置 GSAP 与 MCP，专为 AI agent 设计 · TypeScript
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) `★54.3k` - 为 Claude Code、Codex、Cursor 等 AI 编程工具提供 44 种编辑级图表设计，输出自包含 HTML 与 SVG，摒弃阴影和 Mermai · HTML
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) `★54.4k` - 为 Claude Code、Codex、Cursor 等 AI 编程工具提供 44 种编辑级图表设计，输出自包含 HTML 与 SVG，摒弃阴影和 Mermai · HTML
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) `★54.1k` - 面向敏捷 AI 驱动开发的突破性方法论，用 Python 实现，融合上下文工程与规范驱动开发，覆盖完整 SDLC · Python
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) `★39.6k` - 开源引擎，将连续内容流转化为搜索与监控，支持持久化摄取、混合搜索、告警及格式模型业务规则插件，Go 编写 · Go
 - [suno-ai/bark](https://github.com/suno-ai/bark) `★39.3k` - 基于文本提示生成逼真多语言语音及音效的Transformer音频模型，支持笑声、音乐等非语言声音 · Jupyter Notebook
@@ -87,7 +87,7 @@ _大模型、Agent、语音与视觉 AI 工程实践_
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) `★35.3k` - 深度集成 IDE 的编码智能体，基于 TypeScript 与 Bun 构建，支持 Claude 等 LLM · TypeScript
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) `★33.8k` - 开源 LLM 知识平台，用 Go 编写，将原始文档转化为可查询的 RAG、自主推理 Agent 和自我维护的 Wiki · Go
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) `★33k` - 基于 Rust 的轻量高速全自主 AI 个人助理基础设施，跨 OS 跨平台部署，组件可自由替换 · Rust
-- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) `★30.9k` - 基于MCP协议的ESP32聊天机器人，用C++开发，可在嵌入式硬件上实现语音交互 · C++
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) `★31k` - 基于MCP协议的ESP32聊天机器人，用C++开发，可在嵌入式硬件上实现语音交互 · C++
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) `★29.4k` - 用自然语言操控网页界面的 TypeScript 页面内 GUI agent，支持 MCP · TypeScript
 - [slopus/happy](https://github.com/slopus/happy) `★24.1k` - 一个 TypeScript 应用，统一调度 Claude、Codex 和 Grok，复用你已付费的订阅，MIT 开源 · TypeScript
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) `★23.4k` - TypeScript 编写的对话式 RPA SDK，六行代码即可接入微信、QQ 等平台构建聊天机器人 · TypeScript

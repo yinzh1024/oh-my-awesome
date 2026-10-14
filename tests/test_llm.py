@@ -6,6 +6,7 @@ from oh_my_awesome.llm import (
     build_user_prompt,
     load_summaries,
     sanitize,
+    save_summaries,
     source_hash,
     summarize_repos,
 )
@@ -121,6 +122,31 @@ def test_summarize_missing_key_warns_and_keeps_store(tmp_path: Path):
     store, n = summarize_repos([repo("a/b")], cfg, store_path, root=tmp_path, quiet=True)
     assert n == 0
     assert load_summaries(store_path)["a/b"].summary == "x"
+
+
+def test_prune_stale_summaries_by_default(tmp_path: Path):
+    store_path = tmp_path / "summaries.json"
+    save = {
+        "a/b": SummaryEntry(summary="保留", hash="h1", model="m"),
+        "gone/repo": SummaryEntry(summary="删除", hash="h2", model="m"),
+    }
+    save_summaries(store_path, save)
+
+    cfg = LLMConfig(api_key_env="NO_SUCH_KEY")
+    store, n = summarize_repos([repo("a/b")], cfg, store_path, root=tmp_path, quiet=True)
+    assert n == 0
+    assert "gone/repo" not in store and "gone/repo" not in load_summaries(store_path)
+    assert "a/b" in load_summaries(store_path)
+
+
+def test_prune_skipped_on_dry_run(tmp_path: Path):
+    store_path = tmp_path / "summaries.json"
+    save = {"gone/repo": SummaryEntry(summary="删除", hash="h2", model="m")}
+    save_summaries(store_path, save)
+
+    cfg = LLMConfig(api_key_env="NO_SUCH_KEY")
+    summarize_repos([], cfg, store_path, root=tmp_path, dry_run=True, quiet=True)
+    assert "gone/repo" in load_summaries(store_path)
 
 
 def test_summarize_limit_and_only(tmp_path: Path, monkeypatch):

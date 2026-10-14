@@ -151,6 +151,18 @@ def summarize_repos(
 ) -> tuple[dict[str, SummaryEntry], int]:
     """Fill summaries for new/changed repos. Returns (store, n_generated)."""
     store = load_summaries(store_path)
+
+    # drop summaries for repos that are no longer starred (regenerated on re-star)
+    current = {r.full_name for r in repos}
+    stale = [name for name in store if name not in current]
+    if stale:
+        for name in stale:
+            del store[name]
+        if not dry_run:
+            save_summaries(store_path, store)
+        if not quiet:
+            print(f"pruned {len(stale)} summaries no longer starred")
+
     api_key = load_env_value(root, cfg.api_key_env)
     if not api_key:
         if not quiet:
