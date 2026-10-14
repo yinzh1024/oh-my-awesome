@@ -2435,6 +2435,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "tashfeenahmed/freellmapi": {
+  "summary": "聚合34家免费LLM供应商与635个模型端点，统一为单个/v1接口并支持自定义OpenAI兼容端点，具备智能路由、自动故障转移和密钥加密",
+  "hash": "34c76c0cad6f5443",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "tboox/tbox": {
   "summary": "类 glib 的跨平台 C 库，涵盖容器、算法、协程、迭代器、JSON、网络与 plist 解析",
   "hash": "04bd02a9be0b169b",
