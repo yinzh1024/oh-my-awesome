@@ -17,7 +17,7 @@ oh-my-awesome sync --llm --push  # 拉取 → 摘要 → 分类 → 生成 READM
 ```
 
 <!-- oh-my-awesome:begin -->
-> 共 **455** 个项目 · 最后更新：2026-10-15 04:53 UTC · 数据采集：2026-10-15 04:53 UTC
+> 共 **455** 个项目 · 最后更新：2026-10-15 11:44 UTC · 数据采集：2026-10-15 11:44 UTC
 
 ## 目录
 
@@ -43,7 +43,7 @@ oh-my-awesome sync --llm --push  # 拉取 → 摘要 → 分类 → 生成 READM
 _收集类清单，找资料先看这里_
 
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) `★277.1k` - 抗议996工作制的GitHub仓库，开发者可添加公司黑名单并star表达支持
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `★121.4k` - 收录各大品牌设计系统的 DESIGN.md 文件，放入项目即可让编码 Agent 生成风格统一的 UI
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) `★121.5k` - 收录各大品牌设计系统的 DESIGN.md 文件，放入项目即可让编码 Agent 生成风格统一的 UI
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) `★73.8k` - 精选 C/C++ 框架、库、资源和工具链的 awesome 清单，涵盖 cppcon 等社区动态
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) `★61.8k` - 汇集中国独立开发者项目与产品，展示大家都在做什么，涵盖各类创意作品与技术实践
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) `★31k` - 汇总 macOS 终端命令行技巧与工具的资源列表，涵盖系统管理、网络、安全等实用命令 _(archived)_
@@ -60,53 +60,53 @@ _收集类清单，找资料先看这里_
 
 _大模型、Agent、语音与视觉 AI 工程实践_
 
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) `★279.6k` - 为 Claude Code、Codex、Cursor 等 AI 编程代理提供技能、记忆、安全与性能优化的 harness 系统 · JavaScript
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) `★279.9k` - 为 Claude Code、Codex、Cursor 等 AI 编程代理提供技能、记忆、安全与性能优化的 harness 系统 · JavaScript
+- [morluto/rea](https://github.com/morluto/rea) `★257.8k` - 用 AI agent 逆向分析应用行为与原生二进制，TypeScript 编写的 CLI 工具，支持 Claude Code 和 Codex，适用于 CTF · TypeScript
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) `★253.9k` - 基于Python的AI代理框架，支持Anthropic、ChatGPT、Claude等模型，可随使用不断成长进化 · Python
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) `★249.9k` - 基于 TypeScript 的 AI Agent 框架，一切皆插件，支持 cordis 依赖注入与 dsh 插件生态 · TypeScript
-- [morluto/rea](https://github.com/morluto/rea) `★248.4k` - 用 AI agent 逆向分析应用行为与原生二进制，TypeScript 编写的 CLI 工具，支持 Claude Code 和 Codex，适用于 CTF · TypeScript
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) `★250.2k` - 基于 TypeScript 的 AI Agent 框架，一切皆插件，支持 cordis 依赖注入与 dsh 插件生态 · TypeScript
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) `★165.1k` - 基于 Gradio 的 Stable Diffusion 浏览器界面，支持文生图、图生图与插件扩展 · Python
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `★131k` - 输入主题或关键词，用 LLM 加自动化流程一键生成高清短视频，Python 实现，支持字幕与 FFmpeg 合成 · Python
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) `★97.4k` - 让 AI agent 用一条 CLI 读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书，零 API 费用 · Python
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) `★92.2k` - 融合前沿 RAG 与 Agent 能力的开源检索引擎，为 LLM 构建优质上下文层，支持智能体检索与搜索 · Go
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `★131.2k` - 输入主题或关键词，用 LLM 加自动化流程一键生成高清短视频，Python 实现，支持字幕与 FFmpeg 合成 · Python
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) `★97.6k` - 让 AI agent 用一条 CLI 读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书，零 API 费用 · Python
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) `★92.3k` - 融合前沿 RAG 与 Agent 能力的开源检索引擎，为 LLM 构建优质上下文层，支持智能体检索与搜索 · Go
 - [opencv/opencv](https://github.com/opencv/opencv) `★91.2k` - 开源计算机视觉库，提供图像处理、目标检测与深度学习推理等 C++ 与 Python 接口 · C++
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `★91.1k` - 轻量级 OCR 工具包，将 PDF 或图片转为结构化数据，支持 100 多种语言，衔接图像与 LLM · Python
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) `★86.3k` - 把任意代码转成可交互知识图谱，支持探索、搜索与提问，兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等，TypeS · TypeScript
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) `★83.7k` - 把想法、方案或代码库转成精美交互式架构图，支持 Claude Code、Codex 等编码智能体的 Agent Skill · JavaScript
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `★91.2k` - 轻量级 OCR 工具包，将 PDF 或图片转为结构化数据，支持 100 多种语言，衔接图像与 LLM · Python
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) `★86.4k` - 把任意代码转成可交互知识图谱，支持探索、搜索与提问，兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等，TypeS · TypeScript
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) `★83.9k` - 把想法、方案或代码库转成精美交互式架构图，支持 Claude Code、Codex 等编码智能体的 Agent Skill · JavaScript
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) `★81.8k` - 将 PDF、Office 等复杂文档转为 LLM 可用的 Markdown/JSON，基于 Python，支持 OCR 与版面分析，服务 Agentic 工作流 · Python
 - [netdata/netdata](https://github.com/netdata/netdata) `★81k` - 面向精益团队的 AI 全栈可观测性平台，用 Go 编写，支持实时监控、告警与数据可视化，兼容 Docker 和 Grafana · Go
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) `★70k` - 输入 mass ulw 关键词即可调度多 AI 代理做图工程，TypeScript 编写，兼容 Claude、ChatGPT、Codex 等 · TypeScript
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) `★70.1k` - 输入 mass ulw 关键词即可调度多 AI 代理做图工程，TypeScript 编写，兼容 Claude、ChatGPT、Codex 等 · TypeScript
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) `★64.3k` - 为 Claude Code 打造的轻量级元提示与上下文工程系统，用规范驱动开发流程 · JavaScript _(archived)_
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) `★63.9k` - 用 HTML 写动画，经 Puppeteer 与 FFmpeg 渲染成视频，内置 GSAP 与 MCP，专为 AI agent 设计 · TypeScript
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) `★55.5k` - 为 Claude Code、Codex、Cursor 等 AI 编程工具提供 44 种编辑级图表设计，输出自包含 HTML 与 SVG，摒弃阴影和 Mermai · HTML
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) `★64.1k` - 用 HTML 写动画，经 Puppeteer 与 FFmpeg 渲染成视频，内置 GSAP 与 MCP，专为 AI agent 设计 · TypeScript
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) `★55.6k` - 为 Claude Code、Codex、Cursor 等 AI 编程工具提供 44 种编辑级图表设计，输出自包含 HTML 与 SVG，摒弃阴影和 Mermai · HTML
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) `★54.2k` - 面向敏捷 AI 驱动开发的突破性方法论，用 Python 实现，融合上下文工程与规范驱动开发，覆盖完整 SDLC · Python
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) `★39.6k` - 开源引擎，将连续内容流转化为搜索与监控，支持持久化摄取、混合搜索、告警及格式模型业务规则插件，Go 编写 · Go
 - [suno-ai/bark](https://github.com/suno-ai/bark) `★39.3k` - 基于文本提示生成逼真多语言语音及音效的Transformer音频模型，支持笑声、音乐等非语言声音 · Jupyter Notebook
-- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) `★38k` - 基于 TypeScript 的 AI 提示词优化工具，可改写润色 prompt 并支持测试对比，提升 LLM 输出效果 · TypeScript
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) `★38.1k` - 基于 TypeScript 的 AI 提示词优化工具，可改写润色 prompt 并支持测试对比，提升 LLM 输出效果 · TypeScript
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) `★36.6k` - 基于实时本地目标检测的 IP 摄像头 NVR，支持 Google Coral 与 Home Assistant 集成 · Python
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) `★35.8k` - 基于 DeepSeek 的 Go 语言命令行编码智能体，专攻复杂软件工程任务 · Go
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) `★35.5k` - 深度集成 IDE 的编码智能体，基于 TypeScript 与 Bun 构建，支持 Claude 等 LLM · TypeScript
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) `★34k` - 开源 LLM 知识平台，用 Go 编写，将原始文档转化为可查询的 RAG、自主推理 Agent 和自我维护的 Wiki · Go
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) `★34.1k` - 开源 LLM 知识平台，用 Go 编写，将原始文档转化为可查询的 RAG、自主推理 Agent 和自我维护的 Wiki · Go
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) `★33k` - 基于 Rust 的轻量高速全自主 AI 个人助理基础设施，跨 OS 跨平台部署，组件可自由替换 · Rust
-- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) `★31.1k` - 基于MCP协议的ESP32聊天机器人，用C++开发，可在嵌入式硬件上实现语音交互 · C++
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) `★31.2k` - 基于MCP协议的ESP32聊天机器人，用C++开发，可在嵌入式硬件上实现语音交互 · C++
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) `★29.4k` - 用自然语言操控网页界面的 TypeScript 页面内 GUI agent，支持 MCP · TypeScript
 - [slopus/happy](https://github.com/slopus/happy) `★24.2k` - 一个 TypeScript 应用，统一调度 Claude、Codex 和 Grok，复用你已付费的订阅，MIT 开源 · TypeScript
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) `★23.4k` - TypeScript 编写的对话式 RPA SDK，六行代码即可接入微信、QQ 等平台构建聊天机器人 · TypeScript
 - [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) `★21.3k` - 277 个即插即用 AI 专家角色，适配 Claude Code、Cursor、Copilot 等 20 种工具，覆盖 20 个部门，含 64 个中国市场原创智 · Shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) `★20.4k` - 让 AI agent 通过 Python 生成 STEP、STL 等 CAD 模型，为机械工程与机器人设计赋予建模超能力 · Python
-- [lexmount/moli](https://github.com/lexmount/moli) `★18.5k` - 为 AI agent 打造的无头浏览器，Rust 编写，轻量快速且高兼容，支持 Playwright 与 Puppeteer · Rust
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) `★20.6k` - 让 AI agent 通过 Python 生成 STEP、STL 等 CAD 模型，为机械工程与机器人设计赋予建模超能力 · Python
+- [lexmount/moli](https://github.com/lexmount/moli) `★18.6k` - 为 AI agent 打造的无头浏览器，Rust 编写，轻量快速且高兼容，支持 Playwright 与 Puppeteer · Rust
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) `★17.7k` - 免费开源的图像处理套件，支持200多种格式，提供命令行工具和API，可用于创建、编辑、转换和显示图像，跨平台集成 · C
 - [memvid/memvid](https://github.com/memvid/memvid) `★16.6k` - 用 Rust 编写的无服务器单文件记忆层，替代复杂 RAG 流程，为 AI Agent 提供即时检索与长期记忆 · Rust
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) `★15.7k` - 基于 PyTorch 的 GAN 框架，修复破损老照片的划痕、噪点并还原色彩，CVPR 2020 oral 论文官方实现 · Python _(archived)_
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) `★15.3k` - 基于 next-gen Kaldi 和 onnxruntime 的离线语音工具包，支持语音识别、合成、说话人分离、增强、分离与 VAD，覆盖嵌入式、Androi · C++
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) `★12.7k` - 基于 PaddlePaddle 的易用语音工具箱，涵盖自监督学习、流式 ASR 与标点恢复、流式 TTS、声纹识别、端到端语音翻译及关键词检测，曾获 NAACL · Python
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) `★12k` - 面向企业级 AI 应用的开源大模型 DevOps 平台，集成 GenAI 工作流、RAG、Agent、模型管理、评测、SFT 与可观测性 · Python
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) `★12.1k` - 面向企业级 AI 应用的开源大模型 DevOps 平台，集成 GenAI 工作流、RAG、Agent、模型管理、评测、SFT 与可观测性 · Python
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) `★10.8k` - 用 Python 生成艺术化二维码，支持彩色图片与 GIF 动态二维码 · Python
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) `★10.5k` - 基于 ONNX Runtime 与 NLLB 模型的 Android 本地实时翻译应用，支持蓝牙 LE 耳机，无需联网 · Java
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) `★10.4k` - 社区驱动的跨平台 C++ 创意编程工具包，支持图形、音频、计算机视觉，可部署到 iOS、Android、Linux 及 Emscripten · C++
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) `★9.4k` - 基于 Vue 的在线 PPT 应用，复刻 PowerPoint 常用功能，支持在线编辑演示、AIPPT 和本地 PPTX 预览 · Vue
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) `★7.1k` - 简单灵活的中文语音对话机器人，支持ChatGPT多轮对话与脑机交互，基于Python，可作智能音箱 · Python
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) `★6.5k` - 基于 TypeScript 与 React 的 PWA 音乐播放器，支持本地、Navidrome 及第三方在线音源，主打绚丽歌词动画与 AI 能力 · TypeScript
 - [liuruoze/EasyPR](https://github.com/liuruoze/EasyPR) `★6.4k` - 基于 OpenCV 的 C++ 中文车牌识别项目，支持非受限场景，提供数据集与神经网络模型，曾用于 CGCSTCD 2017 竞赛 · C++
-- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) `★6.3k` - 基于 TypeScript 与 React 的 PWA 音乐播放器，支持本地、Navidrome 及第三方在线音源，主打绚丽歌词动画与 AI 能力 · TypeScript
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) `★5.8k` - 在5美元芯片上跑个人 AI 助手，无需 Linux、Node.js、树莓派或 VPS，用 C 实现端侧硬件智能体操作系统与记忆 · C
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) `★5.7k` - 基于 LLM、RAG 与 agent 循环的下一代个人 AI 助手，用 Go 编写，支持 computer-use、browser-use 和编码 agent · Go
 - [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) `★4.5k` - 1 亿参数多语言 TTS 模型，支持 CPU 实时推理、声音克隆与 48 kHz 立体声生成，基于 ONNX · Python
@@ -114,8 +114,8 @@ _大模型、Agent、语音与视觉 AI 工程实践_
 - [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) `★3.4k` - 基于 Python 的 OpenCV 教程，涵盖 imread、imshow、VideoCapture 与 Kinect 等图像和视频处理示例 · Python
 - [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) `★2.2k` - 在256MB内存的10美元开发板上运行10亿参数大模型，C语言实现，支持量化与嵌入式推理 · C
 - [Thmen/EGVSR](https://github.com/Thmen/EGVSR) `★955` - 基于Python的高效通用视频超分辨率框架，支持实时VSR处理 · Python
-- [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) `★868` - DeepSeek Harness 从零上手手册，涵盖安装、插件开发、性能调优与多 Agent 实测对比，附中英 PDF · HTML
-- [Xiaobin-Rong/gtcrn](https://github.com/Xiaobin-Rong/gtcrn) `★753` - 超轻量级语音增强模型GTCRN的官方Python实现，适合边缘设备部署 · Python
+- [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) `★869` - DeepSeek Harness 从零上手手册，涵盖安装、插件开发、性能调优与多 Agent 实测对比，附中英 PDF · HTML
+- [Xiaobin-Rong/gtcrn](https://github.com/Xiaobin-Rong/gtcrn) `★754` - 超轻量级语音增强模型GTCRN的官方Python实现，适合边缘设备部署 · Python
 - [symisc/ascii_art](https://github.com/symisc/ascii_art) `★741` - 纯C实现的实时ASCII艺术渲染库，可将图像转为字符画，适用于嵌入式与图像处理场景 · C
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) `★698` - 用机器学习与相似度搜索把家庭照片拼成趣味马赛克、GIF和壁画，基于 Jupyter Notebook 实现 · Jupyter Notebook
 - [huakunyang/SummerTTS](https://github.com/huakunyang/SummerTTS) `★545` - 基于 C++ 的独立中英文语音合成项目，无需网络和额外依赖，一键编译即可本地运行，采用 VITS 模型 · C++
@@ -127,7 +127,7 @@ _大模型、Agent、语音与视觉 AI 工程实践_
 
 _教程、文档、面试与算法刷题_
 
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) `★204.2k` - 免费域名注册平台，配套实用 DNS 学习教程与文档，帮助任何人轻松上手域名解析 · Markdown
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) `★204.3k` - 免费域名注册平台，配套实用 DNS 学习教程与文档，帮助任何人轻松上手域名解析 · Markdown
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) `★162.5k` - 一页掌握命令行，涵盖 bash、Linux、macOS、Unix 和 Windows 的实用技巧与快捷键
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) `★119.2k` - 收录免费中文编程书籍，涵盖 Android、iOS、JavaScript、Kotlin 等方向，支持社区投稿
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) `★82.9k` - 收录小学到大学各阶段PDF教材，覆盖全学科，适合自学与备课参考 · Roff
@@ -157,7 +157,7 @@ _教程、文档、面试与算法刷题_
 
 _编解码、推拉流、播放器、摄像头与媒体服务_
 
-- [storytold/photocraft](https://github.com/storytold/photocraft) `★61.5k` - 纯 Rust 从零编写的开源照片编辑器，支持图像编辑与处理 · Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) `★62.2k` - 纯 Rust 从零编写的开源照片编辑器，支持图像编辑与处理 · Rust
 - [iina/iina](https://github.com/iina/iina) `★46.8k` - 基于 mpv 的 macOS 现代视频播放器，用 Swift 编写，支持几乎所有格式与网络流 · Swift
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) `★46.3k` - 面向关键任务的安全通信平台，基于 TypeScript 与 Meteor 构建，支持自托管聊天协作，开源免费 · TypeScript
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) `★44.6k` - 基于 FFmpeg 的无损音视频剪切工具，支持多格式快速裁剪合并，无需重新编码 · TypeScript
@@ -205,7 +205,7 @@ _编解码、推拉流、播放器、摄像头与媒体服务_
 - [zhw2590582/FlvPlayer](https://github.com/zhw2590582/FlvPlayer) `★305` - 用 JavaScript 将 FLV 视频流解码到 canvas 播放，支持 H.264、AAC 与 HTTP-FLV · JavaScript _(archived)_
 - [VideoExpertsGroup/RTSP.Player.Android](https://github.com/VideoExpertsGroup/RTSP.Player.Android) `★224` - 基于Java的Android RTSP/RTMP播放器，可查看IP摄像头直播流，支持解码与广播 · Java
 - [huajiaofrontend/HJPlayer](https://github.com/huajiaofrontend/HJPlayer) `★169` - 基于 TypeScript 的 HTML5 播放器，借助 Media Source Extension 实现 FLV 和 HLS 流媒体播放 · TypeScript
-- [Mi-Bee-Studio/MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) `★151` - 用 Go 编写的轻量级自托管 NVR，单个静态二进制零依赖，内置 Web UI，支持 RTSP/ONVIF/小米/GB28181 摄像头接入与 RTMP/SRT · Go
+- [Mi-Bee-Studio/MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) `★151` - 用 Go 写的轻量自托管 NVR，单个静态二进制零依赖，内置 Web UI，支持 RTSP/ONVIF/小米/GB28181/WHIP 摄像头与 RTMP/SR · Go
 - [koraa/sndlink](https://github.com/koraa/sndlink) `★16` - 基于 C++ 的命令行工具，实现低延迟实时音频流传输 · C++
 - [tonarino/pulseaudio-webrtc-audio-processing](https://github.com/tonarino/pulseaudio-webrtc-audio-processing) `★7` - 基于 Google WebRTC 实现的音频处理库，为 PulseAudio 提供回声消除、降噪与自动增益控制
 
@@ -214,8 +214,8 @@ _编解码、推拉流、播放器、摄像头与媒体服务_
 _Android / iOS / 跨平台移动端_
 
 - [flutter/flutter](https://github.com/flutter/flutter) `★180.2k` - 基于 Dart 的跨平台 UI 框架，一套代码快速构建 Android、iOS、桌面等平台精美原生应用 · Dart
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) `★151.5k` - 基于 Tauri 和 Rust 打造的现代跨平台代理客户端，支持 Windows、macOS 和 Linux，内置 Clash Meta 内核 · Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) `★125.8k` - 开源远程桌面应用，支持自托管，可替代 TeamViewer，基于 Rust 与 Flutter 构建，覆盖 Windows、macOS、Linux、iOS、An · Rust
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) `★151.6k` - 基于 Tauri 和 Rust 打造的现代跨平台代理客户端，支持 Windows、macOS 和 Linux，内置 Clash Meta 内核 · Rust
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) `★125.9k` - 开源远程桌面应用，支持自托管，可替代 TeamViewer，基于 Rust 与 Flutter 构建，覆盖 Windows、macOS、Linux、iOS、An · Rust
 - [android/architecture-samples](https://github.com/android/architecture-samples) `★45.9k` - 展示 Android 应用多种架构工具与模式的 Kotlin 示例合集，涵盖 MVVM、MVI 等方案 · Kotlin
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) `★41.5k` - 基于 Rust 和 iced 的跨平台 GUI 工具，实时监控网络流量并支持 IP 地理位置识别 · Rust
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) `★39.3k` - 基于 Go 与 React 的开源安全协作平台，覆盖软件开发全生命周期，支持自托管与端到端加密 · TypeScript
@@ -238,24 +238,24 @@ _Android / iOS / 跨平台移动端_
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) `★1.7k` - 把 Android 手机变成行车记录仪，循环录制并保留最近 30 分钟，基于 Kotlin 与 Jetpack Compose 构建，注重隐私 · Kotlin
 - [taka-no-me/android-cmake](https://github.com/taka-no-me/android-cmake) `★1.2k` - 为 Android NDK 提供 CMake 工具链文件及配套脚本，简化交叉编译配置 · CMake
 - [foxglove/mcap](https://github.com/foxglove/mcap) `★1.1k` - 模块化高性能且与序列化无关的容器文件格式，适用于 pub/sub 和机器人应用，支持 C++、Go、Python、Swift 等多语言 · Rust
-- [zibo-chen/SubnetDesk](https://github.com/zibo-chen/SubnetDesk) `★683` - 基于 RustDesk 的局域网远程桌面，用 mDNS 自动发现设备，Flutter 界面，数据不出内网 · Rust
+- [zibo-chen/SubnetDesk](https://github.com/zibo-chen/SubnetDesk) `★686` - 基于 RustDesk 的局域网远程桌面，用 mDNS 自动发现设备，Flutter 界面，数据不出内网 · Rust
 
 ## 前端与 Web
 
 _Web 框架、UI 库与前端工程化_
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) `★213.6k` - 开源编码智能体，TypeScript 编写，可自动完成代码生成与修改任务 · TypeScript
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) `★140.9k` - 汇集全球公开 IPTV 频道，提供 M3U 播放列表，用 TypeScript 维护 · TypeScript
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) `★213.7k` - 开源编码智能体，TypeScript 编写，可自动完成代码生成与修改任务 · TypeScript
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) `★141k` - 汇集全球公开 IPTV 频道，提供 M3U 播放列表，用 TypeScript 维护 · TypeScript
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) `★116.4k` - 基于 WebGL 的 JavaScript 3D 引擎，可在浏览器中构建 3D 场景、VR 与 AR 体验，支持 Canvas、SVG 和 WebAudio · JavaScript
 - [d3/d3](https://github.com/d3/d3) `★113.8k` - 用 SVG、Canvas 和 HTML 让数据可视化活起来，基于 Web 标准的经典图表库 · Shell
 - [ocornut/imgui](https://github.com/ocornut/imgui) `★76.7k` - 轻量级 C++ 即时模式 GUI 库，无冗余依赖，适合游戏引擎与工具开发 · C++
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) `★72.4k` - 基于 HTML 的演示文稿框架，用 JavaScript 编写，支持幻灯片、演讲和网页幻灯片展示 · JavaScript
-- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) `★63.2k` - 用HTML整理的高性价比生活指南，覆盖健康、理财、法律、社保、婚育、创业等，每条标注成本收益、证据等级与期刊或官方出处 · HTML
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) `★56.6k` - 基于 Cesium 的浏览器端卫星侦察模拟器，在逼真 3D 地球上实时呈现航班追踪等开源地理空间情报 · JavaScript
+- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) `★63.6k` - 用HTML整理的高性价比生活指南，覆盖健康、理财、法律、社保、婚育、创业等，每条标注成本收益、证据等级与期刊或官方出处 · HTML
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) `★56.7k` - 基于 Cesium 的浏览器端卫星侦察模拟器，在逼真 3D 地球上实时呈现航班追踪等开源地理空间情报 · JavaScript
 - [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) `★51.2k` - AI 驱动的小程序技术选型、趋势追踪与迁移诊断工具，TypeScript 实现，支持微信小程序生态 · TypeScript
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) `★44.7k` - 可视化无代码网页爬虫与浏览器自动化工具，图形化设计执行采集任务，基于 JavaScript · JavaScript
 - [impress/impress.js](https://github.com/impress/impress.js) `★38.2k` - 基于 CSS3 变换与过渡的演示框架，灵感来自 Prezi，用 JavaScript 在浏览器中实现缩放旋转式幻灯片 · JavaScript
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) `★35.4k` - 聚合34家免费LLM供应商与635个模型端点，统一为单个/v1接口并支持自定义OpenAI兼容端点，具备智能路由、自动故障转移和密钥加密 · TypeScript
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) `★35.5k` - 聚合34家免费LLM供应商与635个模型端点，统一为单个/v1接口并支持自定义OpenAI兼容端点，具备智能路由、自动故障转移和密钥加密 · TypeScript
 - [fanmingming/live](https://github.com/fanmingming/live) `★28.6k` - 提供可直连访问的电视广播台标库与工具，支持 IPv4/IPv6 双栈、EPG 与 m3u/m3u8 转换，永久免费开源 · JavaScript
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) `★26.9k` - 2017年杭州买房实战经验总结，涵盖购房流程与避坑知识，用CSS搭建的知识分享站 · CSS
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) `★24.9k` - 免费开源嵌入式图形库，用 C 编写，覆盖从单片机到支持 3D 的 MPU，配套专业编辑器 LVGL Pro · C
@@ -288,12 +288,12 @@ _Web 框架、UI 库与前端工程化_
 - [jae-jae/weapp-github-trending](https://github.com/jae-jae/weapp-github-trending) `★300` - 用 JavaScript 开发的微信小程序，实时查看 GitHub 今日趋势榜单 · JavaScript
 - [sgl-org/sgl](https://github.com/sgl-org/sgl) `★194` - 面向嵌入式系统的现代 C 语言 GUI 库，轻量高效，适合资源受限设备 · C
 - [mfranzon/render](https://github.com/mfranzon/render) `★170` - 让编码代理直接生成精美 3D 模型，基于 HTML 实现 · HTML
-- [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced) `★162` - 基于 TypeScript 的 opencode 插件，在多台机器间同步全局配置 · TypeScript
+- [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced) `★163` - 基于 TypeScript 的 opencode 插件，在多台机器间同步全局配置 · TypeScript
 - [stayradiated/termcolors](https://github.com/stayradiated/termcolors) `★141` - 用 JavaScript 实现终端配色方案多格式互转，支持导入导出 · JavaScript
 - [tjumyk/sdl-tutorial-cn](https://github.com/tjumyk/sdl-tutorial-cn) `★133` - Lazy Foo 的 SDL 1.2 游戏开发教程中文翻译，HTML 编写，适合入门学习 · HTML
 - [kaiakz/walv](https://github.com/kaiakz/walv) `★116` - 浏览器里的 LittlevGL 图形界面设计器，用 HTML 打造，可在线拖拽布局并生成 UI 代码 · HTML
 - [abhra0897/LameUI](https://github.com/abhra0897/LameUI) `★114` - 面向嵌入式系统的轻量级 C 语言 UI 库，适用于单片机和 GUI 开发 · C
-- [YuzukiHD/YuzukiNeko](https://github.com/YuzukiHD/YuzukiNeko) `★88` - 搭载全志F101S3/F101S4芯片的迷你可爱开发板，尺寸仅pico级别 · HTML
+- [YuzukiHD/YuzukiNeko](https://github.com/YuzukiHD/YuzukiNeko) `★90` - 搭载全志F101S3/F101S4芯片的迷你可爱开发板，尺寸仅pico级别 · HTML
 - [rm-hull/8-bit-trip](https://github.com/rm-hull/8-bit-trip) `★3` - 基于 TypeScript 与 WebAudio 的算法音乐流媒体，实时生成 8-bit 风格旋律 · TypeScript
 
 ## Rust 生态
@@ -318,7 +318,7 @@ _用 Go 写的服务与工具_
 
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) `★43.9k` - 用 Go 从零构建 Web 应用的入门电子书，涵盖路由、模板、数据库、部署等实战内容 · Go
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) `★30k` - 基于 Go 的轻量级 AI 助手，体积小、速度快，可部署在任何环境，自动处理琐事 · Go
-- [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) `★5.3k` - 基于 Go 的全网音乐搜索下载工具，支持 CLI 与 Web 双模式，聚合网易云、QQ、酷狗、Bilibili 等 10+ 平台，多源并发搜索并无损解析 · Go
+- [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) `★5.4k` - 基于 Go 的全网音乐搜索下载工具，支持 CLI 与 Web 双模式，聚合网易云、QQ、酷狗、Bilibili 等 10+ 平台，多源并发搜索并无损解析 · Go
 - [SKeyerror/Psyduck](https://github.com/SKeyerror/Psyduck) `★4.4k` - 用 XMind 2.0 整理 Linux、网络、C++、Golang 与数据库设计等计算机知识 · Go
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) `★2.3k` - 基于 Go 的实时日志查看器，提供 Web UI，像 tail -f 一样在浏览器中追踪日志 · Go
 - [rogaha/docker-desktop](https://github.com/rogaha/docker-desktop) `★1.2k` - 基于 Docker 的远程虚拟桌面，内置 Firefox 和 LibreOffice，支持无 root 运行与 SSH 访问 · Shell
@@ -358,7 +358,7 @@ _Shell、终端复用器与命令行效率工具_
 _网络协议、代理、翻墙工具与安全研究_
 
 - [aria2/aria2](https://github.com/aria2/aria2) `★43.1k` - 轻量级命令行下载工具，支持 HTTP/HTTPS、FTP、SFTP、BitTorrent 和 Metalink 多协议多源，C++11 编写，跨平台 · C++
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) `★37.5k` - 基于 WireGuard 的零配置 VPN，支持 2FA、OAuth 和 SSO，用 Go 编写 · Go
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) `★37.6k` - 基于 WireGuard 的零配置 VPN，支持 2FA、OAuth 和 SSO，用 Go 编写 · Go
 - [ehang-io/nps](https://github.com/ehang-io/nps) `★34.2k` - 基于 Go 的轻量级内网穿透代理服务器，支持 tcp、udp、socks5、http 等流量转发，自带 Web 管理端 · Go
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) `★25.7k` - 汇集被中国防火墙屏蔽的域名列表，供代理工具自动分流使用
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) `★22.6k` - 已停止维护的 Chrome/Edge 代理切换扩展，基于 PAC 与情景模式自动切换，用 CoffeeScript 编写 · CoffeeScript
@@ -404,7 +404,7 @@ _Linux 内核、驱动、C/C++ 与嵌入式物联网_
 - [gabime/spdlog](https://github.com/gabime/spdlog) `★29.7k` - 高性能 C++ 日志库，支持 header-only 引入，兼容 C++11，提供快速异步与格式化输出 · C++
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) `★27.1k` - 用 C 编写的命令行代码搜索工具，类似 ack 但速度更快，基于 PCRE 正则匹配 · C
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) `★25.9k` - 现代 C++ 格式化库，以高性能和类型安全替代 printf 与 iostream，支持 chrono、浮点及跨平台输出 · C++
-- [upx/upx](https://github.com/upx/upx) `★17.9k` - 跨平台可执行文件压缩加壳工具，支持多架构与格式，压缩率高且解压速度快 · C++
+- [upx/upx](https://github.com/upx/upx) `★18k` - 跨平台可执行文件压缩加壳工具，支持多架构与格式，压缩率高且解压速度快 · C++
 - [chenshuo/muduo](https://github.com/chenshuo/muduo) `★16.3k` - 基于 C++11 的多线程 Linux 服务器事件驱动网络库，采用 Reactor 模式，支持非阻塞 IO 与定时器 · C++
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) `★15.1k` - C++ 高性能 JSON 解析与生成库，同时提供 SAX 和 DOM 风格 API · C++
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) `★13.2k` - 将 Git 等版本库的提交历史渲染成动态缩放的代码城市动画，C++ 编写，支持多仓库与自定义着色 · C++
@@ -459,16 +459,16 @@ _Linux 内核、驱动、C/C++ 与嵌入式物联网_
 - [bittorrent/libutp](https://github.com/bittorrent/libutp) `★1.2k` - uTorrent 传输协议的 C++ 实现库，用于在 UDP 上实现可靠有序的数据传输 · C++
 - [seppo0010/rlite](https://github.com/seppo0010/rlite) `★1.1k` - 自包含、无服务器、零配置、支持事务的 Redis 兼容数据库引擎，用 C 编写，堪称 Redis 界的 SQLite · C
 - [justdan96/tsMuxer](https://github.com/justdan96/tsMuxer) `★1.1k` - 将 EVO、VOB、MKV、MP4 等封装重混为 TS/M2TS 的 C++ 传输流复用工具，支持 H.264、H.265、VC-1、MPEG2 视频及 AAC · C++ _(archived)_
-- [cinemast/libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) `★984` - 基于 C++ 的 JSON-RPC 2.0 框架，可快速构建客户端与服务端，支持 TCP、Unix 套接字和 HTTP 传输 · C++
+- [cinemast/libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) `★983` - 基于 C++ 的 JSON-RPC 2.0 框架，可快速构建客户端与服务端，支持 TCP、Unix 套接字和 HTTP 传输 · C++
 - [chirlu/sox](https://github.com/chirlu/sox) `★967` - 音频处理全能工具，支持格式转换、特效添加与编辑，C 语言实现 · C
 - [rm-hull/luma.oled](https://github.com/rm-hull/luma.oled) `★879` - Python 驱动 SSD1306、SH1106 等常见 OLED 屏，支持 I2C 与 SPI 接口，适用于树莓派 · Python
 - [MyGUI/mygui](https://github.com/MyGUI/mygui) `★850` - 轻量快速的 C++ GUI 库，接口简单灵活，适合游戏与工具界面开发 · C++
 - [openxc/uds-c](https://github.com/openxc/uds-c) `★834` - 用 C 实现汽车统一诊断服务 UDS 与 OBD-II 协议的库 · C
 - [pfalcon/pycopy](https://github.com/pfalcon/pycopy) `★823` - 极简省内存的 Python 方言，用 C 实现，可跑在桌面、云端、嵌入式、单片机和 IoT 设备上 · C
 - [aizvorski/h264bitstream](https://github.com/aizvorski/h264bitstream) `★809` - 用 C 实现读写 H.264 视频码流的完整函数库，可检查或修改码流头部 · C
-- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) `★795` - 仅29.4万至140万参数的神经TTS，可在3美元芯片或浏览器中运行，在1500万参数以下级别中SCOREQ/UTMOS评分领先 · C
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) `★796` - 仅29.4万至140万参数的神经TTS，可在3美元芯片或浏览器中运行，在1500万参数以下级别中SCOREQ/UTMOS评分领先 · C
 - [rachitiitr/modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) `★721` - 汇总 C++ 现代特性技巧，助力编程面试与算法竞赛
-- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) `★718` - 面向 ARM 处理器的 C 语言优化库函数实现，涵盖数学、字符串、内存等例程 · C
+- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) `★717` - 面向 ARM 处理器的 C 语言优化库函数实现，涵盖数学、字符串、内存等例程 · C
 - [leixiaohua1020/VideoEye](https://github.com/leixiaohua1020/VideoEye) `★717` - 基于 C++ 的开源流媒体分析软件，支持实时抓包与协议解析 · C++
 - [waywardgeek/sonic](https://github.com/waywardgeek/sonic) `★700` - 用C编写的轻量库，可加速或减速语音播放而不改变音调 · C
 - [activesys/libcstl](https://github.com/activesys/libcstl) `★673` - C 语言通用容器库，提供 vector、list、map、set 等 STL 风格数据结构与迭代器 · C
@@ -525,7 +525,7 @@ _编辑器、Git、容器、CI/CD 与效率工具_
 
 _其余 Python 脚本与工具_
 
-- [datalab-to/marker](https://github.com/datalab-to/marker) `★40.4k` - 用 Python 将 PDF 快速高精度转换为 Markdown 和 JSON · Python
+- [datalab-to/marker](https://github.com/datalab-to/marker) `★40.5k` - 用 Python 将 PDF 快速高精度转换为 Markdown 和 JSON · Python
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) `★18.4k` - 为 GIMP 3+ 打造的 Photoshop 风格补丁，用 Python 调整快捷键、界面布局与工具，让 PS 用户无缝迁移 · Python
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) `★16k` - 开源 SOTA 文本转语音模型，纯 CPU 即可运行，基于 Python 实现 · Python
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) `★9.5k` - Linux 下管理罗技设备的 Python 工具，支持 Unifying 接收器与蓝牙连接，可配置按键、手势和电池状态 · Python

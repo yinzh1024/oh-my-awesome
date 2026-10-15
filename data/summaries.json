@@ -252,8 +252,8 @@
   "manual": false
  },
  "Mi-Bee-Studio/MiBeeNvr": {
-  "summary": "用 Go 编写的轻量级自托管 NVR，单个静态二进制零依赖，内置 Web UI，支持 RTSP/ONVIF/小米/GB28181 摄像头接入与 RTMP/SRT",
-  "hash": "e422deaa2c1c5fcb",
+  "summary": "用 Go 写的轻量自托管 NVR，单个静态二进制零依赖，内置 Web UI，支持 RTSP/ONVIF/小米/GB28181/WHIP 摄像头与 RTMP/SR",
+  "hash": "7f4fc549b4a3f017",
   "model": "deepseek-flash",
   "manual": false
  },
