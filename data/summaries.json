@@ -2538,8 +2538,8 @@
   "manual": false
  },
  "vnotex/vnote": {
-  "summary": "基于原生 C++ 的 Markdown 笔记平台，支持 Vim 模式、MathJax 公式与 UML 图表",
-  "hash": "f0dc2ca26c303369",
+  "summary": "基于 C++ 的本地笔记平台，主打 Markdown、思维导图、Typst 与纯文本编辑，支持 Vim 操作，原生速度流畅",
+  "hash": "1562784af9df3bca",
   "model": "deepseek-flash",
   "manual": false
  },
