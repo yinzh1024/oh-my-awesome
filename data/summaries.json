@@ -756,8 +756,8 @@
   "manual": false
  },
  "cathrynlavery/diagram-design": {
-  "summary": "为 Claude Code、Codex、Cursor 等 AI 编程工具提供 44 种编辑级图表设计，输出自包含 HTML 与 SVG，摒弃阴影和 Mermai",
-  "hash": "55f16799c9d5dfe0",
+  "summary": "为 Claude Code、Codex、GitHub Copilot 等 AI 编程工具提供 45 种编辑级图表设计，输出自包含 HTML + SVG，拒绝 M",
+  "hash": "25aae317937ed073",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -2280,8 +2280,8 @@
   "manual": false
  },
  "shiaho777/web-to-app": {
-  "summary": "Android 上功能最全的网页转 App 工具包，用 Kotlin 打造，在手机上即可完成 APK 制作全流程",
-  "hash": "826929ed7d759ef4",
+  "summary": "在 Android 手机上把网页打包成 APK 的全功能工具，基于 Kotlin 实现",
+  "hash": "c0a7b239c195102e",
   "model": "deepseek-flash",
   "manual": false
  },
