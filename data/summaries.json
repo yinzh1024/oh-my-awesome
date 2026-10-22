@@ -1128,8 +1128,8 @@
   "manual": false
  },
  "geekan/HowToLiveLonger": {
-  "summary": "面向程序员的长寿指南，基于科学研究整理饮食运动睡眠等可操作建议",
-  "hash": "ae039ea6dcd1bf66",
+  "summary": "面向程序员的健康长寿指南，涵盖饮食运动睡眠等科学建议，支持8种语言",
+  "hash": "50960c9654c81a52",
   "model": "deepseek-flash",
   "manual": false
  },
