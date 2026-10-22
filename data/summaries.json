@@ -2274,8 +2274,8 @@
   "manual": false
  },
  "shadowsocks/ShadowsocksX-NG": {
-  "summary": "macOS 平台基于 Swift 开发的 Shadowsocks 客户端，支持 kcptun 和 v2ray-plugin 插件",
-  "hash": "62216e75822a023f",
+  "summary": "macOS 上的 Shadowsocks 图形客户端，Swift 编写，支持 v2ray-plugin 与 hysteria2",
+  "hash": "520f79187eaff68c",
   "model": "deepseek-flash",
   "manual": false
  },
