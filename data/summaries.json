@@ -2279,12 +2279,6 @@
   "model": "deepseek-flash",
   "manual": false
  },
- "shiaho777/web-to-app": {
-  "summary": "在 Android 手机上把网页打包成 APK 的全功能工具，基于 Kotlin 实现",
-  "hash": "c0a7b239c195102e",
-  "model": "deepseek-flash",
-  "manual": false
- },
  "shichaog/WebRTC-audio-processing": {
   "summary": "基于 WebRTC 的 C++ 音频处理库，实现回声消除、降噪与自动增益控制",
   "hash": "742a127d9c931875",
