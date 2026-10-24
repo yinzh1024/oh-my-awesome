@@ -215,6 +215,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "Knighthana/sudo-elevation": {
+  "summary": "给LLM Agent用的sudo授权工具，无需解除本机管理员验证即可单独授予Agent管理员权限",
+  "hash": "9e3038b44cf63d5d",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "Kurento/kurento-media-server": {
   "summary": "已归档的 WebRTC 媒体服务器，支持实时音视频流处理与转码，代码已迁移至 Kurento 单体仓库",
   "hash": "f23b481f97e47afd",
@@ -2042,6 +2048,12 @@
  "pablostanley/yoinks": {
   "summary": "终端下载任意视频的 TypeScript 工具，无广告骚扰",
   "hash": "004b1a0d57cba555",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "patdx/sido-askpass": {
+  "summary": "为无头代理环境提供SUDO_ASKPASS垫片，支持tmux、GUI、TTY等场景，以Go编写并发布为npm包",
+  "hash": "56ea8a001d1cadb6",
   "model": "deepseek-flash",
   "manual": false
  },
