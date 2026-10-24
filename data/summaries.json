@@ -1716,8 +1716,8 @@
   "manual": false
  },
  "mbadolato/iTerm2-Color-Schemes": {
-  "summary": "收录超 750 套终端配色方案，覆盖 iTerm2 并移植到 Konsole、PuTTY、Kitty、Windows Terminal 等数十种终端",
-  "hash": "47c75ca50d24d527",
+  "summary": "850+ 款终端配色方案，覆盖 iTerm2 并移植到 Konsole、PuTTY、Kitty、Windows Terminal 等数十种终端",
+  "hash": "d16e8dbf50fb1016",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -2276,6 +2276,12 @@
  "shadowsocks/ShadowsocksX-NG": {
   "summary": "macOS 上的 Shadowsocks 图形客户端，Swift 编写，支持 v2ray-plugin 与 hysteria2",
   "hash": "520f79187eaff68c",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "shiaho777/web-to-app": {
+  "summary": "Android 上功能最全的 Web 转 App 工具包，用 Kotlin 打造，在手机上即可完成 APK 制作全流程",
+  "hash": "c0a7b239c195102e",
   "model": "deepseek-flash",
   "manual": false
  },
