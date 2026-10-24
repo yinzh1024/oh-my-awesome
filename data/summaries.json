@@ -2459,6 +2459,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "temurlee/omarchy-ai-setup-guide": {
+  "summary": "面向国内网络与中文环境的 Omarchy AI 配置指南，涵盖 ChatGPT、中文输入、代理与常用应用",
+  "hash": "22c731efe503aa31",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "the-open-agent/openagent": {
   "summary": "基于 LLM、RAG 与 agent 循环的下一代个人 AI 助手，用 Go 编写，支持 computer-use、browser-use 和编码 agent",
   "hash": "76258a6de8110907",
