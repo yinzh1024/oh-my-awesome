@@ -2292,8 +2292,8 @@
   "manual": false
  },
  "shiaho777/web-to-app": {
-  "summary": "在 Android 手机上直接把网页打包成 APK 的全功能工具，基于 Kotlin 实现",
-  "hash": "826929ed7d759ef4",
+  "summary": "Android 上功能最全的网页转应用工具包，用 Kotlin 打造，整套 APK 制作流程都能在手机上完成",
+  "hash": "c70e9ff6a39ea145",
   "model": "deepseek-flash",
   "manual": false
  },
