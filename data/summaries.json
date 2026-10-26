@@ -1415,6 +1415,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "javen-yan/miot-mcp": {
+  "summary": "基于 MijiaAPI 的米家设备 MCP 服务，支持动态发现设备、读写属性与调用动作，用 Python 实现",
+  "hash": "f7ceda7e4c1dcb01",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "jemalloc/jemalloc": {
   "summary": "通用内存分配器，提供低碎片、高并发性能，支持多线程与内存剖析，广泛用于 FreeBSD、Firefox 等",
   "hash": "d72bc153cb4c8053",
