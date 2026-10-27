@@ -966,8 +966,8 @@
   "manual": false
  },
  "earthtojake/text-to-cad": {
-  "summary": "让 AI agent 通过 Python 生成 STEP、STL 等 CAD 模型，为机械工程与机器人设计赋予建模超能力",
-  "hash": "d3bd5d6ded834a28",
+  "summary": "用AI智能体将自然语言描述转为STEP/STL格式CAD模型，辅助机械与机器人产品设计",
+  "hash": "9bdec4de3f64598b",
   "model": "deepseek-flash",
   "manual": false
  },
