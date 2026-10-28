@@ -1253,6 +1253,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "henrygd/beszel": {
+  "summary": "轻量级服务器监控工具，支持历史数据、Docker 统计和告警，基于 Go 开发，适合自托管",
+  "hash": "32ad886933293597",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "herrbischoff/awesome-macos-command-line": {
   "summary": "汇总 macOS 终端命令行技巧与工具的资源列表，涵盖系统管理、网络、安全等实用命令",
   "hash": "361615a57f6ac19b",
