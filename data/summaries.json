@@ -2687,6 +2687,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "yes999zc/rui": {
+  "summary": "自托管家庭语音助手，FastAPI 控制面加本地 AEC/KWS/VAD 音频面，Vue 3 控制台，Docker 一键部署于 NAS",
+  "hash": "206c55e8df713421",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "youkaichao/onenote-to-markdown": {
   "summary": "用 Python 脚本把 OneNote 笔记批量导出为 Markdown 文件，便于迁移到其他笔记工具",
   "hash": "eff50e1d57513d9a",
