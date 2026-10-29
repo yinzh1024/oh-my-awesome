@@ -665,6 +665,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "auscaster/icey": {
+  "summary": "基于C++20的实时媒体栈，轻量级libwebrtc替代方案",
+  "hash": "0b3b1acd4b0fe990",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "ayangweb/BongoCat": {
   "summary": "基于 Rust 的跨平台桌面宠物，猫咪会跟随鼠标和键盘操作实时互动",
   "hash": "fe835c149ca6bb1a",
@@ -1916,12 +1922,6 @@
  "niedev/RTranslator": {
   "summary": "基于 ONNX Runtime 与 NLLB 模型的 Android 本地实时翻译应用，支持蓝牙 LE 耳机，无需联网",
   "hash": "04e23800d3a8a6e1",
-  "model": "deepseek-flash",
-  "manual": false
- },
- "nilstate/icey": {
-  "summary": "基于 C++20 的实时媒体栈，轻量级 libwebrtc 替代方案",
-  "hash": "0b3b1acd4b0fe990",
   "model": "deepseek-flash",
   "manual": false
  },
