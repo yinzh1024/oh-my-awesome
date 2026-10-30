@@ -17,7 +17,7 @@ oh-my-awesome sync --llm --push  # 拉取 → 摘要 → 分类 → 生成 READM
 ```
 
 <!-- oh-my-awesome:begin -->
-> 共 **463** 个项目 · 最后更新：2026-10-30 06:30 UTC · 数据采集：2026-10-30 06:30 UTC
+> 共 **463** 个项目 · 最后更新：2026-10-30 06:54 UTC · 数据采集：2026-10-30 06:54 UTC
 
 ## 目录
 
@@ -60,13 +60,13 @@ _收集类清单，找资料先看这里_
 
 _大模型、Agent、语音与视觉 AI 工程实践_
 
-- [morluto/rea](https://github.com/morluto/rea) `★409k` - 用 AI agent 逆向分析应用行为与原生二进制，TypeScript 编写的 CLI 工具，支持 Claude Code 和 Codex，适用于 CTF · TypeScript
+- [morluto/rea](https://github.com/morluto/rea) `★409.1k` - 用 AI agent 逆向分析应用行为与原生二进制，TypeScript 编写的 CLI 工具，支持 Claude Code 和 Codex，适用于 CTF · TypeScript
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) `★292.9k` - 为 Claude Code、Codex、Cursor 等 AI 编程代理提供技能、记忆、安全与性能优化的 harness 系统 · JavaScript
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) `★266.1k` - 基于 TypeScript 的 AI Agent 框架，一切皆插件，支持 cordis 依赖注入与 dsh 插件生态 · TypeScript
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) `★266.2k` - 基于 TypeScript 的 AI Agent 框架，一切皆插件，支持 cordis 依赖注入与 dsh 插件生态 · TypeScript
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) `★258.6k` - 基于Python的AI代理框架，支持Anthropic、ChatGPT、Claude等模型，可随使用不断成长进化 · Python
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) `★165.2k` - 基于 Gradio 的 Stable Diffusion 浏览器界面，支持文生图、图生图与插件扩展 · Python
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) `★136.4k` - 输入主题或关键词，用 LLM 加自动化流程一键生成高清短视频，Python 实现，支持字幕与 FFmpeg 合成 · Python
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) `★106.4k` - 让 AI agent 用一条 CLI 读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书，零 API 费用 · Python
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) `★106.5k` - 让 AI agent 用一条 CLI 读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书，零 API 费用 · Python
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) `★93.2k` - 融合前沿 RAG 与 Agent 能力的开源检索引擎，为 LLM 构建优质上下文层，支持智能体检索与搜索 · Go
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `★92k` - 轻量级 OCR 工具包，将 PDF 或图片转为结构化数据，支持 100 多种语言，衔接图像与 LLM · Python
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) `★91.6k` - 把想法、方案或代码库转成精美交互式架构图，支持 Claude Code、Codex 等编码智能体的 Agent Skill · JavaScript
@@ -113,7 +113,7 @@ _大模型、Agent、语音与视觉 AI 工程实践_
 - [ben1234560/AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying) `★3.6k` - 涵盖AI基础、Transformer、NLP、ML、DL与Kaggle竞赛的实战教程，含大量注释和数据集，助你快速上手并复现 · Jupyter Notebook
 - [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) `★3.4k` - 基于 Python 的 OpenCV 教程，涵盖 imread、imshow、VideoCapture 与 Kinect 等图像和视频处理示例 · Python
 - [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) `★2.2k` - 在256MB内存的10美元开发板上运行10亿参数大模型，C语言实现，支持量化与嵌入式推理 · C
-- [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) `★1.8k` - AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription.Written in Rust+GPUI · Rust
+- [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) `★1.8k` - 用 Rust 和 GPUI 打造的 AI 原生终端工作区，管理本地与远程机器，无 Webview、无 OpenSSL、无遥测，支持自带密钥和 MCP · Rust
 - [Thmen/EGVSR](https://github.com/Thmen/EGVSR) `★957` - 基于Python的高效通用视频超分辨率框架，支持实时VSR处理 · Python
 - [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) `★922` - DeepSeek Harness 从零上手手册，涵盖安装、插件开发、性能调优与多 Agent 实测对比，附中英 PDF · HTML
 - [Xiaobin-Rong/gtcrn](https://github.com/Xiaobin-Rong/gtcrn) `★762` - 超轻量级语音增强模型GTCRN的官方Python实现，适合边缘设备部署 · Python
@@ -216,7 +216,7 @@ _编解码、推拉流、播放器、摄像头与媒体服务_
 
 _Android / iOS / 跨平台移动端_
 
-- [flutter/flutter](https://github.com/flutter/flutter) `★180.6k` - 基于 Dart 的跨平台 UI 框架，一套代码快速构建 Android、iOS、桌面等平台精美原生应用 · Dart
+- [flutter/flutter](https://github.com/flutter/flutter) `★180.7k` - 基于 Dart 的跨平台 UI 框架，一套代码快速构建 Android、iOS、桌面等平台精美原生应用 · Dart
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) `★155k` - 基于 Tauri 和 Rust 打造的现代跨平台代理客户端，支持 Windows、macOS 和 Linux，内置 Clash Meta 内核 · Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) `★127.5k` - 开源远程桌面应用，支持自托管，可替代 TeamViewer，基于 Rust 与 Flutter 构建，覆盖 Windows、macOS、Linux、iOS、An · Rust
 - [android/architecture-samples](https://github.com/android/architecture-samples) `★45.9k` - 展示 Android 应用多种架构工具与模式的 Kotlin 示例合集，涵盖 MVVM、MVI 等方案 · Kotlin
@@ -375,7 +375,7 @@ _网络协议、代理、翻墙工具与安全研究_
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) `★10.7k` - 通过 LD_PRELOAD 劫持动态链接程序的 socket 调用，将流量重定向到 SOCKS/HTTP 代理，是已停止维护的 proxychains 的续作， · C
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) `★7.3k` - 开源遥测仪表盘，支持 UART、BLE、MQTT、Modbus、CAN Bus 等协议，用 C 语言开发，适用于嵌入式与工业物联网 · C
 - [acl-dev/acl](https://github.com/acl-dev/acl) `★3.1k` - C/C++ 网络与服务器库，内置协程、Redis/MySQL/PostgreSQL/SQLite 客户端及 HTTP/HTTPS/WebSocket/MQTT， · C
-- [derv82/wifit3](https://github.com/derv82/wifit3) `★2.8k` - Wifite but USB-only & cross-platform. · Python
+- [derv82/wifit3](https://github.com/derv82/wifit3) `★2.8k` - 仅通过USB无线网卡跨平台运行的WiFi安全审计工具，Wifite的Python重写版 · Python
 - [Corvusoft/restbed](https://github.com/Corvusoft/restbed) `★2k` - 为 C++ 应用提供异步 RESTful 能力的框架，支持 HTTP/HTTP2 与 Comet 推送 · C++
 - [Lozy/danted](https://github.com/Lozy/danted) `★1.7k` - 快速安装配置 Dante Socks5 代理服务器的脚本 · Roff
 - [chronoxor/CppServer](https://github.com/chronoxor/CppServer) `★1.7k` - 超高速低延迟的异步 socket 服务端与客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议，并解决 10K 连接 · C++

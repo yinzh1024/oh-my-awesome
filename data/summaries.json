@@ -89,6 +89,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "AnalyseDeCircuit/oxideterm": {
+  "summary": "用 Rust 和 GPUI 打造的 AI 原生终端工作区，管理本地与远程机器，无 Webview、无 OpenSSL、无遥测，支持自带密钥和 MCP",
+  "hash": "3db6c453ecee5564",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "Ansersion/myRtspClient": {
   "summary": "基于 jrtplib 的 C++ RTSP 客户端，实现实时流媒体拉取与解码",
   "hash": "44fd1d6b4a30edbd",
@@ -950,6 +956,12 @@
  "deepseek-ai/deepseek-harness": {
   "summary": "基于 TypeScript 的 AI Agent 框架，一切皆插件，支持 cordis 依赖注入与 dsh 插件生态",
   "hash": "0df35190db8ab9ac",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "derv82/wifit3": {
+  "summary": "仅通过USB无线网卡跨平台运行的WiFi安全审计工具，Wifite的Python重写版",
+  "hash": "ae058ae4149d4ab4",
   "model": "deepseek-flash",
   "manual": false
  },
