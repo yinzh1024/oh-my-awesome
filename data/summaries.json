@@ -203,6 +203,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "InukaAsith/TwinDesk": {
+  "summary": "跨 Mac、Windows、Linux 和 Android 共享屏幕、应用、文件、剪贴板、通知与键鼠，无需账号和云，现无需同一网络",
+  "hash": "0baa9e66f28a8e23",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "Josverl/micropython-stubber": {
   "summary": "为不同 MicroPython 移植版生成并维护类型存根，支持 VSCode、Pylance、PyRight、Thonny、PyCharm 和 MyPy 的代码",
   "hash": "b373bd62c1822bd2",
@@ -1392,8 +1398,8 @@
   "manual": false
  },
  "infiniflow/ragflow": {
-  "summary": "融合前沿 RAG 与 Agent 能力的开源检索引擎，为 LLM 构建优质上下文层，支持智能体检索与搜索",
-  "hash": "ada0960dcc2500f0",
+  "summary": "基于Go构建的RAG引擎，已演进为面向AI Agent的上下文基础设施与原生数据库",
+  "hash": "163bd98e4b278f26",
   "model": "deepseek-flash",
   "manual": false
  },
