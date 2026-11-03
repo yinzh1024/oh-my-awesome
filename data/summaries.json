@@ -840,8 +840,8 @@
   "manual": false
  },
  "chthollyphile/folia-major": {
-  "summary": "基于 TypeScript 与 React 的 PWA 音乐播放器，支持本地、Navidrome 及第三方在线音源，主打绚丽歌词动画与 AI 能力",
-  "hash": "28dd62e1b0b126af",
+  "summary": "基于 TypeScript 与 React 的多平台音乐播放器，支持本地文件、Navidrome 及在线音乐，主打绚丽歌词动画",
+  "hash": "b92eedd88c7f1208",
   "model": "deepseek-flash",
   "manual": false
  },
