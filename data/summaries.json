@@ -257,6 +257,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "M2Team/NanaZip": {
+  "summary": "面向现代 Windows 体验的 7-Zip 衍生版，用 C++ 与 XAML Islands 打造现代化压缩文件管理器",
+  "hash": "a74e49922a4a362e",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "MaJerle/lwrb": {
   "summary": "轻量级通用环形缓冲区管理库，纯 C 实现，支持 FIFO 与循环缓冲，适合嵌入式",
   "hash": "c00bce37a7b9ce9f",
@@ -1406,6 +1412,12 @@
  "int32bit/dotfiles": {
   "summary": "一套面向 Linux 的 vim、zsh、git 和 tmux 配置文件集合，开箱即用",
   "hash": "900b8bbe73ddd98a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ioppermann/libmodjpeg": {
+  "summary": "C 语言库，直接在 DCT 域实现 JPEG 掩码与合成，支持水印、logo 叠加，无需解码重编码",
+  "hash": "7783e9b4487492a9",
   "model": "deepseek-flash",
   "manual": false
  },
