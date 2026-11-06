@@ -954,8 +954,8 @@
   "manual": false
  },
  "dataelement/bisheng": {
-  "summary": "面向企业级 AI 应用的开源大模型 DevOps 平台，集成 GenAI 工作流、RAG、Agent、模型管理、评测、SFT 与可观测性",
-  "hash": "d263c5ecb76eeaf5",
+  "summary": "开源企业级 Agent 平台，集成 AI 智能体、工作流、RAG 知识管理与模型统一管理、评测、可观测性及权限管控",
+  "hash": "0518e0d62d9c08ad",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -2402,6 +2402,12 @@
  "sr99622/libonvif": {
   "summary": "用 C++ 实现的 Python ONVIF 库，附带实用工具程序",
   "hash": "50234a70b7b6bc8f",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "stablyai/orca": {
+  "summary": "用自有订阅批量调度 Claude Code、Codex 等编码 agent，支持桌面、移动端与远程运行时",
+  "hash": "59b92cd3270f9db8",
   "model": "deepseek-flash",
   "manual": false
  },
