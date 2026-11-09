@@ -173,6 +173,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "Gathin23/cleanyourtv": {
+  "summary": "通过 Wi-Fi 用 ADB 清理 Android 或 Google TV 预装软件，并换成 Apple TV 风格桌面",
+  "hash": "48e423848e0be6ef",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "GreycLab/CImg": {
   "summary": "轻量开源 C++ 图像处理工具库，单头文件即可集成，支持读写、滤镜、变换等操作",
   "hash": "f84dc6203c40105a",
@@ -204,8 +210,8 @@
   "manual": false
  },
  "InukaAsith/TwinDesk": {
-  "summary": "跨 Mac、Windows、Linux 和 Android 共享屏幕、应用、文件、剪贴板、通知与键鼠，无需账号和云，现无需同一网络",
-  "hash": "0baa9e66f28a8e23",
+  "summary": "跨 Mac、Windows、Linux、Android、iOS 与 Web 共享屏幕、应用、文件、剪贴板、通知及鼠标键盘，无需账号、云或同一网络，免费开源",
+  "hash": "9c798dcab7eb322d",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -1307,6 +1313,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "hijoebon/excalidraw-cn": {
+  "summary": "基于 Excalidraw 的白板工具，支持中文手写字体和多画布，用 TypeScript 开发",
+  "hash": "37b626f090fd7af3",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "houshanren/hangzhou_house_knowledge": {
   "summary": "2017年杭州买房实战经验总结，涵盖购房流程与避坑知识，用CSS搭建的知识分享站",
   "hash": "6acf3773ebfd0aa2",
@@ -1595,12 +1607,6 @@
   "model": "deepseek-flash",
   "manual": false
  },
- "korbinjoe/excalidraw-cn": {
-  "summary": "基于 Excalidraw 的白板工具，支持中文手写字体和多画布，用 TypeScript 开发",
-  "hash": "37b626f090fd7af3",
-  "model": "deepseek-flash",
-  "manual": false
- },
  "ksky521/nodeppt": {
   "summary": "基于 HTML5 与 CSS3 的网页演示工具，支持 Markdown 编写和多种动画效果",
   "hash": "c327e55d5c911789",
@@ -1770,8 +1776,8 @@
   "manual": false
  },
  "mbadolato/iTerm2-Color-Schemes": {
-  "summary": "850+ 款终端配色方案，覆盖 iTerm2 并移植到 Konsole、PuTTY、Kitty、Windows Terminal 等数十种终端",
-  "hash": "d16e8dbf50fb1016",
+  "summary": "汇集900多款终端配色方案，覆盖iTerm2并移植到Konsole、PuTTY、Kitty、Windows Terminal等数十种终端",
+  "hash": "ee4ac2514129e2a9",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -2105,6 +2111,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "pengchujin/aerial-tv": {
+  "summary": "参照 tvOS 设计的开源 Android TV 桌面，无广告，开机自动接管，适配小米、TCL 等国产电视，Kotlin 开发",
+  "hash": "92de4a8e5d35ca8a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "pezy/LeetCode": {
   "summary": "用 C++11 和 Python3 实现 LeetCode 题解，附带思路笔记",
   "hash": "110f446870e25a10",
@@ -2424,8 +2436,8 @@
   "manual": false
  },
  "storytold/photocraft": {
-  "summary": "纯 Rust 从零编写的开源照片编辑器，支持图像编辑与处理",
-  "hash": "c9ebc5801fce432e",
+  "summary": "纯 Rust 从零实现的开源照片编辑器，支持图像编辑与处理",
+  "hash": "709365093f9b541b",
   "model": "deepseek-flash",
   "manual": false
  },
