@@ -2520,8 +2520,8 @@
   "manual": false
  },
  "tashfeenahmed/freellmapi": {
-  "summary": "聚合34家免费LLM供应商与635个模型端点，统一为单个/v1接口并支持自定义OpenAI兼容端点，具备智能路由、自动故障转移和密钥加密",
-  "hash": "34c76c0cad6f5443",
+  "summary": "聚合87家免费LLM提供商共1313个模型端点，统一为/v1接口并支持自定义OpenAI兼容端点，具备智能路由、自动故障转移与密钥加密",
+  "hash": "b9e2c56163a1171f",
   "model": "deepseek-flash",
   "manual": false
  },
