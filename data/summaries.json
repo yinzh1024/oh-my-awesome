@@ -371,6 +371,18 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "Pilipala9919/MarcoMovie": {
+  "summary": "基于Java的Android电视播放器，仅提供工具不含影视资源，内容与配置由用户自行合法获取",
+  "hash": "ef95798f160642ac",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "Pilipala9919/MarcoTV": {
+  "summary": "免费开源的 Android TV 桌面，支持卡片定制、时钟屏保、系统最近任务、本地备份与诊断，基于 Java 开发",
+  "hash": "3cb0cc9bac52dc81",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "PortAudio/portaudio": {
   "summary": "跨平台开源 C 语言库，用于实时音频输入输出",
   "hash": "9fc29eb3410b2e1e",
