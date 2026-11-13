@@ -408,8 +408,8 @@
   "manual": false
  },
  "RocketChat/Rocket.Chat": {
-  "summary": "面向关键任务的安全通信平台，基于 TypeScript 与 Meteor 构建，支持自托管聊天协作，开源免费",
-  "hash": "34d7e0e9705d4d1f",
+  "summary": "开源安全通信平台，支持消息、语音、视频与受控AI，面向国防和政府场景，基于TypeScript和Meteor构建",
+  "hash": "df89f6dd3da156e7",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -806,6 +806,12 @@
  "cathrynlavery/diagram-design": {
   "summary": "为 Claude Code、Codex、GitHub Copilot 等 AI 编程工具提供 45 种编辑级图表设计，输出自包含 HTML + SVG，拒绝 M",
   "hash": "25aae317937ed073",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "ccch1mneyyy/dsh-Go": {
+  "summary": "基于 Dart 的 Android 应用，让 DeepSeek Harness 在手机本机运行 AI 编码代理，也可远程遥控电脑",
+  "hash": "50e5474dd3585e28",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -2540,6 +2546,12 @@
  "the-open-agent/openagent": {
   "summary": "基于 LLM、RAG 与 agent 循环的下一代个人 AI 助手，用 Go 编写，支持 computer-use、browser-use 和编码 agent",
   "hash": "76258a6de8110907",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "threat9/routersploit": {
+  "summary": "基于Python的嵌入式设备漏洞利用框架，集成暴力破解、字典攻击与路由器漏洞利用模块",
+  "hash": "b833c82b8b33a0d2",
   "model": "deepseek-flash",
   "manual": false
  },
