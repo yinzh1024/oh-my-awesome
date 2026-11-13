@@ -90,8 +90,8 @@
   "manual": false
  },
  "AnalyseDeCircuit/oxideterm": {
-  "summary": "用 Rust 和 GPUI 打造的 AI 原生终端工作区，管理本地与远程机器，无 Webview、无 OpenSSL、无遥测，支持自带密钥和 MCP",
-  "hash": "3db6c453ecee5564",
+  "summary": "用 Rust 和 GPUI 打造的 AI 原生终端工作区，集成分屏 SSH、SFTP、远程文件编辑与 MCP 工具，零 WebView、零 OpenSSL、零遥",
+  "hash": "b5727db38dc06498",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -1788,8 +1788,8 @@
   "manual": false
  },
  "mbadolato/iTerm2-Color-Schemes": {
-  "summary": "汇集900多款终端配色方案，覆盖iTerm2并移植到Konsole、PuTTY、Kitty、Windows Terminal等数十种终端",
-  "hash": "ee4ac2514129e2a9",
+  "summary": "收录超950款 iTerm2 配色方案，并移植到 Terminal、Konsole、Kitty、Windows Terminal 等数十种终端",
+  "hash": "f157d8f9b915f020",
   "model": "deepseek-flash",
   "manual": false
  },
