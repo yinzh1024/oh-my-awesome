@@ -1524,8 +1524,8 @@
   "manual": false
  },
  "jitwxs/163MusicLyrics": {
-  "summary": "支持网易云与QQ音乐的歌词获取处理工具，可导出 LRC 和 SRT 字幕，基于 C# 开发",
-  "hash": "c771245643436f4f",
+  "summary": "支持网易云、QQ音乐和汽水音乐的歌词获取与处理工具，可导出 SRT 字幕，基于 C# 开发",
+  "hash": "65f2e504b9308d33",
   "model": "deepseek-flash",
   "manual": false
  },
