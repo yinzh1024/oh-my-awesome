@@ -84,8 +84,8 @@
   "manual": false
  },
  "Ampixa/sanoTTS": {
-  "summary": "仅29.4万至140万参数的神经TTS，可在3美元芯片或浏览器中运行，在1500万参数以下级别中SCOREQ/UTMOS评分领先",
-  "hash": "80ea3b004a2b9e33",
+  "summary": "29.4万至227万参数的神经TTS，可在3美元芯片、浏览器或Python中低延迟流式运行",
+  "hash": "e44cf7e2bd296c5f",
   "model": "deepseek-flash",
   "manual": false
  },
