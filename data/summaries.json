@@ -539,6 +539,18 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "XxHuberrr/Mineradio-paused": {
+  "summary": "基于 JavaScript 的沉浸式音乐播放器，以电影镜头、粒子视觉和歌词舞台打造视听体验，官网 mineradio.cn",
+  "hash": "5fa6bf9833bc1b46",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "YuriLin1028/LxMine": {
+  "summary": "融合 LX Music 音源与 Mineradio 沉浸视觉的跨端音乐播放器，基于 Electron 与 ArkTS 支持 Windows 和 HarmonyO",
+  "hash": "3fce47495e648144",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "YuzukiHD/YuzukiNeko": {
   "summary": "搭载全志F101S3/F101S4芯片的迷你可爱开发板，尺寸仅pico级别",
   "hash": "2b7e472058e1b986",
