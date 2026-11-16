@@ -90,8 +90,8 @@
   "manual": false
  },
  "AnalyseDeCircuit/oxideterm": {
-  "summary": "用 Rust 和 GPUI 打造的 AI 原生终端工作区，集成分屏 SSH、SFTP、远程文件编辑与 MCP 工具，零 WebView、零 OpenSSL、零遥",
-  "hash": "b5727db38dc06498",
+  "summary": "基于 Rust 和 GPUI 的原生终端工作区，集成 SSH/SFTP 与 MCP 工具，无 WebView、无遥测",
+  "hash": "610980f10cd93644",
   "model": "deepseek-flash",
   "manual": false
  },
