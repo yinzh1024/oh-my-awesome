@@ -1806,8 +1806,8 @@
   "manual": false
  },
  "mbadolato/iTerm2-Color-Schemes": {
-  "summary": "收录超950款 iTerm2 配色方案，并移植到 Terminal、Konsole、Kitty、Windows Terminal 等数十种终端",
-  "hash": "f157d8f9b915f020",
+  "summary": "收录超1000款终端配色方案，覆盖iTerm2并移植到Konsole、PuTTY、Kitty、Ghostty等数十种终端",
+  "hash": "19bdf0151549dfed",
   "model": "deepseek-flash",
   "manual": false
  },
