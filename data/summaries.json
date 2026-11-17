@@ -750,8 +750,8 @@
   "manual": false
  },
  "bilawalsidhu/gods-eye-view": {
-  "summary": "基于 Cesium 的浏览器端卫星侦察模拟器，在逼真 3D 地球上实时呈现航班追踪等开源地理空间情报",
-  "hash": "82272a174d009a34",
+  "summary": "基于Cesium的浏览器端卫星侦察模拟器，在逼真3D地球上实时呈现开源地理空间情报",
+  "hash": "9cc090769b3adf8b",
   "model": "deepseek-flash",
   "manual": false
  },
