@@ -372,8 +372,8 @@
   "manual": false
  },
  "Pilipala9919/MarcoMovie": {
-  "summary": "基于Java的Android电视播放器，仅提供工具不含影视资源，内容与配置由用户自行合法获取",
-  "hash": "ef95798f160642ac",
+  "summary": "多端自适应播放器，覆盖Android TV/手机/平板、Apple TV、HarmonyOS NEXT、iOS/iPadOS、Windows、macOS，仅提供",
+  "hash": "9219d436a6e67871",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -668,6 +668,12 @@
  "android/architecture-samples": {
   "summary": "展示 Android 应用多种架构工具与模式的 Kotlin 示例合集，涵盖 MVVM、MVI 等方案",
   "hash": "60a88c47dc38d04a",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "anefzaoui/misterdownloadmanager": {
+  "summary": "纯 Rust 从零编写的跨平台下载管理器，支持 BitTorrent、debrid 与多线程加速，界面基于 egui",
+  "hash": "9c93981bcb0eaa20",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -1974,8 +1980,8 @@
   "manual": false
  },
  "netdata/netdata": {
-  "summary": "面向精益团队的 AI 全栈可观测性平台，用 Go 编写，支持实时监控、告警与数据可视化，兼容 Docker 和 Grafana",
-  "hash": "a8d6b7c19244ce5f",
+  "summary": "全栈可观测性平台，实时采集指标、日志、链路与流量，支持 OpenTelemetry、SNMP、NetFlow 等 800+ 集成，内置 AI 告警",
+  "hash": "c1edc1688ed89b65",
   "model": "deepseek-flash",
   "manual": false
  },
