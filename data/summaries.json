@@ -90,8 +90,8 @@
   "manual": false
  },
  "AnalyseDeCircuit/oxideterm": {
-  "summary": "基于 Rust 和 GPUI 的原生终端工作区，集成 SSH/SFTP 与 MCP 工具，无 WebView、无遥测",
-  "hash": "610980f10cd93644",
+  "summary": "基于 Rust 和 GPUI 的原生终端工作区，支持本地与 SSH，内置 MCP 工具，无 WebView、无遥测",
+  "hash": "2219c36feaf8d73c",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -1344,8 +1344,8 @@
   "manual": false
  },
  "heygen-com/hyperframes": {
-  "summary": "用 HTML 写动画，经 Puppeteer 与 FFmpeg 渲染成视频，内置 GSAP 与 MCP，专为 AI agent 设计",
-  "hash": "83d696d6a89e7e67",
+  "summary": "用自然语言描述即可生成可逐帧编辑的AI视频项目，基于TypeScript构建，集成FFmpeg、GSAP与HTML动画",
+  "hash": "e7a6fc3196d27bd2",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -1506,8 +1506,8 @@
   "manual": false
  },
  "javen-yan/miot-mcp": {
-  "summary": "基于 MijiaAPI 的米家设备 MCP 服务，支持动态发现设备、读写属性与调用动作，用 Python 实现",
-  "hash": "f7ceda7e4c1dcb01",
+  "summary": "基于 MijiaAPI 的米家设备 MCP 服务，支持动态设备发现、属性读写与动作调用",
+  "hash": "ca707092f7b3116f",
   "model": "deepseek-flash",
   "manual": false
  },
