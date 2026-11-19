@@ -1980,8 +1980,8 @@
   "manual": false
  },
  "netdata/netdata": {
-  "summary": "全栈可观测性平台，实时采集指标、日志、链路与流量，支持 OpenTelemetry、SNMP、NetFlow 等 800+ 集成，内置 AI 告警",
-  "hash": "c1edc1688ed89b65",
+  "summary": "全栈可观测性平台，实时采集指标、日志、链路与流量，支持 OpenTelemetry、SNMP、NetFlow 等 2000+ 集成，内置 AI 异常检测",
+  "hash": "c907aef2cee7420f",
   "model": "deepseek-flash",
   "manual": false
  },
