@@ -305,6 +305,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "N604K/Bytopsy": {
+  "summary": "C++编写的字节码分析工具，用于逆向工程与恶意软件检测",
+  "hash": "d72bc153cb4c8053",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "NaiboWang/EasySpider": {
   "summary": "可视化无代码网页爬虫与浏览器自动化工具，图形化设计执行采集任务，基于 JavaScript",
   "hash": "77a667631b4a2382",
