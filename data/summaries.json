@@ -1278,8 +1278,8 @@
   "manual": false
  },
  "guohuiyuan/go-music-dl": {
-  "summary": "基于 Go 的全网音乐搜索下载工具，支持 CLI 与 Web 双模式，聚合网易云、QQ、酷狗、Bilibili 等 10+ 平台，多源并发搜索并无损解析",
-  "hash": "e7cdbfb8795917b6",
+  "summary": "基于 Go 的全网音乐搜索下载工具，支持 CLI 与 Web 双模式，聚合网易云、QQ、酷狗、Bilibili 等 10+ 平台并发搜索并解析无损音质",
+  "hash": "29abd7da762f2b28",
   "model": "deepseek-flash",
   "manual": false
  },
