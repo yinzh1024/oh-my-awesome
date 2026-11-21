@@ -2460,8 +2460,8 @@
   "manual": false
  },
  "stablyai/orca": {
-  "summary": "用自有订阅批量调度 Claude Code、Codex 等编码 agent，支持桌面、移动端与远程运行时",
-  "hash": "59b92cd3270f9db8",
+  "summary": "用自有订阅（Claude Code、Grok、Codex 等）批量运行机器人集群，支持桌面、移动端与远程运行时，TypeScript 实现",
+  "hash": "5ac2286da1de2187",
   "model": "deepseek-flash",
   "manual": false
  },
