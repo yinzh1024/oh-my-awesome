@@ -828,8 +828,8 @@
   "manual": false
  },
  "cathrynlavery/diagram-design": {
-  "summary": "为 Claude Code、Codex、GitHub Copilot 等 AI 编程工具提供 45 种编辑级图表设计，输出自包含 HTML + SVG，拒绝 M",
-  "hash": "25aae317937ed073",
+  "summary": "为 Claude Code、Codex、GitHub Copilot 等 AI 编程工具提供 52 种编辑级图表设计，输出自包含 HTML+SVG，无阴影，告别",
+  "hash": "4a80224a4c013169",
   "model": "deepseek-flash",
   "manual": false
  },
@@ -1350,8 +1350,8 @@
   "manual": false
  },
  "heygen-com/hyperframes": {
-  "summary": "用自然语言描述即可生成可逐帧编辑的AI视频项目，基于TypeScript构建，集成FFmpeg、GSAP与HTML动画",
-  "hash": "e7a6fc3196d27bd2",
+  "summary": "开源 AI 视频编辑器，用 HTML 编写、渲染为 MP4，可剪辑自有素材或借 Claude Code、Codex 与 Studio 应用生成重制视频",
+  "hash": "79e44c5a3af476c7",
   "model": "deepseek-flash",
   "manual": false
  },
