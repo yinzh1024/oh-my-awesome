@@ -179,6 +179,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "GoogleChrome/modern-web-guidance": {
+  "summary": "为编码智能体提供最新 Web 最佳实践，基于 Google Chrome 团队维护的现代 Web 开发指南",
+  "hash": "b69f4c7efabdd1bc",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "GreycLab/CImg": {
   "summary": "轻量开源 C++ 图像处理工具库，单头文件即可集成，支持读写、滤镜、变换等操作",
   "hash": "f84dc6203c40105a",
@@ -2552,6 +2558,12 @@
  "taka-no-me/android-cmake": {
   "summary": "为 Android NDK 提供 CMake 工具链文件及配套脚本，简化交叉编译配置",
   "hash": "690839e4b11e7b52",
+  "model": "deepseek-flash",
+  "manual": false
+ },
+ "talongao/tinglan": {
+  "summary": "Go + Viva 打造的华为音乐桌面客户端，支持沉浸歌词、悬浮播放器与 12 款主题",
+  "hash": "d8e08e8e048c7997",
   "model": "deepseek-flash",
   "manual": false
  },
