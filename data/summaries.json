@@ -2075,6 +2075,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "omacom/omarchy": {
+  "summary": "基于 Arch 的现代化 Linux 发行版，用 Shell 脚本打造美观且开箱即用的桌面体验",
+  "hash": "aa1e36bc83f44880",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "ooolabdev/ooosplat": {
   "summary": "本地桌面应用，一键将视频和图片转为 3D Gaussian Splatting 模型，基于 Rust 构建",
   "hash": "2fbca96d7e829155",
@@ -2238,8 +2244,8 @@
   "manual": false
  },
  "qier222/YesPlayMusic": {
-  "summary": "基于 Electron 和 Vue 的高颜值第三方网易云音乐播放器，支持 Windows、macOS 和 Linux",
-  "hash": "8a3d10a56ae5ef5c",
+  "summary": "高颜值跨平台桌面音乐播放器，支持本地文件、Emby/Jellyfin媒体服务器及插件扩展",
+  "hash": "5dd1ff5e53224c47",
   "model": "deepseek-flash",
   "manual": false
  },
