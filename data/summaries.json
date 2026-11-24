@@ -1770,8 +1770,8 @@
   "manual": false
  },
  "lvgl/lvgl": {
-  "summary": "免费开源嵌入式图形库，用 C 编写，覆盖从单片机到支持 3D 的 MPU，配套专业编辑器 LVGL Pro",
-  "hash": "8551a17133b6342d",
+  "summary": "面向小型 MCU 和 3D MPU 的免费全功能嵌入式 UI 库，用 C 编写，支持 Arduino、ESP32 和墨水屏",
+  "hash": "d1dcd3ccb558adbf",
   "model": "deepseek-flash",
   "manual": false
  },
