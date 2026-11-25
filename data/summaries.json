@@ -2843,12 +2843,6 @@
   "model": "deepseek-flash",
   "manual": false
  },
- "zhaojh329/rtty": {
-  "summary": "通过 Web 远程访问设备终端，支持穿透 NAT 与 HTTP 代理，实现远程 Shell、控制台和调试，C 语言编写",
-  "hash": "646b06bde43324b3",
-  "model": "deepseek-flash",
-  "manual": false
- },
  "zhuifengshen/DingtalkChatbot": {
   "summary": "Python 封装钉钉群自定义机器人，支持文本、链接、Markdown、ActionCard 等多种消息类型",
   "hash": "8ab5605726131ae1",
