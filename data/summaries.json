@@ -179,6 +179,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "Gloridust/WowType": {
+  "summary": "基于 Rust 的 Linux 输入法，支持长句整句输入、容错纠错、离线语音输入与实时翻译，越用越懂你",
+  "hash": "0d3c3f9003675fc7",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "GoogleChrome/modern-web-guidance": {
   "summary": "为编码智能体提供最新 Web 最佳实践，基于 Google Chrome 团队维护的现代 Web 开发指南",
   "hash": "b69f4c7efabdd1bc",
@@ -2652,8 +2658,8 @@
   "manual": false
  },
  "tt-a1i/archify": {
-  "summary": "把想法、方案或代码库转成精美交互式架构图，支持 Claude Code、Codex 等编码智能体的 Agent Skill",
-  "hash": "7f82821cc18c4866",
+  "summary": "把想法、方案或代码库转成交互式图表或单页答案，支持10种图表、架构诊断、故事视频与PR讲解，是适配Claude Code、Codex、Cursor等的Agent",
+  "hash": "b2b6eb71efeab292",
   "model": "deepseek-flash",
   "manual": false
  },
