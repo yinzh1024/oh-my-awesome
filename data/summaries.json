@@ -1667,6 +1667,12 @@
   "model": "deepseek-flash",
   "manual": false
  },
+ "l0ng-ai/openidea": {
+  "summary": "用 Rust 重写的 IntelliJ IDEA 风格原生 IDE，支持 60+ 语言，内置编辑器、代码洞察、调试器、Git、终端、数据库与 HTTP 客户端",
+  "hash": "b3caa05630b3e140",
+  "model": "deepseek-flash",
+  "manual": false
+ },
  "langhuihui/jessibuca": {
   "summary": "纯 H5 直播流播放器，基于 WebAssembly 与 WebGL 解码渲染，支持 H264/H265、HTTP-FLV 和 WebSocket-FLV",
   "hash": "93f454cf4593b5d2",
